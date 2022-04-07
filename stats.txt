@@ -7378,8 +7378,8 @@ gun_mnu: 84/99 (84.85%)
 
 guncar: empty
 
-gunshau: 334/460 (72.61%)
-* GUNSH_ x334
+gunshau: 440/460 (95.65%)
+* GUNSH_ x440
 
 h1heist: 0/27 (0.00%)
 
