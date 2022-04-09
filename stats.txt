@@ -556,7 +556,8 @@ car4: 18/19 (94.74%)
 carmoau: 40/40 (100.00%)
 * CARMO_ x40
 
-cbradau: 0/1404 (0.00%)
+cbradau: 1404/1404 (100.00%)
+* CB_ x1404
 
 chatcau: 1348/1348 (100.00%)
 * CHATC_ x1348
@@ -4161,7 +4162,7 @@ frmchse: 34/35 (97.14%)
 getawy: 58/58 (100.00%)
 * PRC_ x58
 
-global: 50867/56582 (89.90%)
+global: 51029/56582 (90.19%)
 * 95PEER_ x1
 * ABB_ x4
 * ABBATAVE x1
@@ -4697,6 +4698,7 @@ global: 50867/56582 (89.90%)
 * BSELL_ x5
 * BSNEWS_ x1
 * BSS_ x161
+* BSTXT_ x9
 * BTX_ x4
 * BU_ x2
 * BUC_ x2
@@ -5325,6 +5327,7 @@ global: 50867/56582 (89.90%)
 * FENWELL x1
 * FFR x1
 * FGND_ x2
+* FGTXT_ x73
 * FH_ x102
 * FHB_ x6
 * FHBM_ x48
@@ -6448,6 +6451,11 @@ global: 50867/56582 (89.90%)
 * PRIMO2 x1
 * PRIMO2_ x1
 * PRINCIPL x1
+* PRMBA_ x41
+* PRMCI_ x9
+* PRMPSY_ x4
+* PRMTAX_ x8
+* PRMWS_ x8
 * PRO_ x3
 * PROCO x1
 * PROCOB x1
@@ -6958,7 +6966,7 @@ global: 50867/56582 (89.90%)
 * SWINGER_ x1
 * SWISSS x1
 * SWITCH_ x1
-* SXT_ x18
+* SXT_ x28
 * SYG_ x36
 * T_ x128
 * TAB_ x1
@@ -7905,14 +7913,14 @@ lest1: 46/46 (100.00%)
 * WAIT_ x1
 * WATCH_ x1
 
-lfi_f: 141/637 (22.14%)
-* LFI_ x141
+lfi_f: 637/637 (100.00%)
+* LFI_ x637
 
-lfi_m: 89/461 (19.31%)
-* LFI_ x89
+lfi_m: 461/461 (100.00%)
+* LFI_ x461
 
-lfi_t: 20/51 (39.22%)
-* LFI_ x20
+lfi_t: 51/51 (100.00%)
+* LFI_ x51
 
 locaud: 1535/1535 (100.00%)
 * LOC_ x1535
