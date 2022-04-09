@@ -564,8 +564,8 @@ chatcau: 1348/1348 (100.00%)
 chflaud: 37/37 (100.00%)
 * CHFL_ x37
 
-chheist: 99/106 (93.40%)
-* CH_ x96
+chheist: 100/106 (94.34%)
+* CH_ x97
 * CHFAILED x1
 * CHPASSED x1
 * CHRETURN x1
@@ -3847,8 +3847,8 @@ finc1au: 1764/2226 (79.25%)
 fincuau: 113/113 (100.00%)
 * FINCU_ x113
 
-finh1: 37/41 (90.24%)
-* FH1_ x37
+finh1: 38/41 (92.68%)
+* FH1_ x38
 
 finpra: 10/11 (90.91%)
 * PR_ x10
@@ -3908,7 +3908,7 @@ fmmaud: 1158/2256 (51.33%)
 * MA_ x37
 * TRA_ x151
 
-fmmc: 7307/8714 (83.85%)
+fmmc: 7538/8714 (86.50%)
 * ACTF_ x17
 * ADV_ x6
 * ALERT_ x10
@@ -3916,7 +3916,7 @@ fmmc: 7307/8714 (83.85%)
 * AR_ x1
 * ARCRACE_ x3
 * ARENA_ x25
-* ARNA_ x3
+* ARNA_ x5
 * ARNAP_ x132
 * ARNAT_ x28
 * AT_ x2
@@ -3932,7 +3932,7 @@ fmmc: 7307/8714 (83.85%)
 * CRE_ x5
 * CRNBAR_ x2
 * CRT_ x1
-* CTF_ x199
+* CTF_ x202
 * DESTDER_ x3
 * DM_ x29
 * DMC_ x88
@@ -3940,13 +3940,13 @@ fmmc: 7307/8714 (83.85%)
 * DT_ x1
 * ENMY_ x1
 * FLRM_ x11
-* FM_ x348
+* FM_ x383
 * FMKH_ x4
-* FMMC_ x3200
+* FMMC_ x3366
 * FMMCC_ x47
 * FMMCCBST_ x1
 * FMMCCCDROP_ x5
-* FMMCCMENU_ x90
+* FMMCCMENU_ x98
 * FMMCCPD_ x14
 * FMMCCPDWPCG x1
 * FMMCCRCOL x1
@@ -3987,7 +3987,7 @@ fmmc: 7307/8714 (83.85%)
 * KHD_ x1
 * KHOBJ_ x25
 * KHTUT_ x23
-* KOTH_ x83
+* KOTH_ x85
 * KTH_ x18
 * KTHH_ x29
 * LDB_ x1
@@ -4006,7 +4006,7 @@ fmmc: 7307/8714 (83.85%)
 * PP_ x8
 * PTB_ x5
 * PU_ x1
-* PUBCRE_ x66
+* PUBCRE_ x81
 * PWRUP_ x42
 * RC_ x17
 * RCE_ x9
@@ -4161,15 +4161,15 @@ frmchse: 34/35 (97.14%)
 getawy: 58/58 (100.00%)
 * PRC_ x58
 
-global: 49954/56582 (88.29%)
+global: 50867/56582 (89.90%)
 * 95PEER_ x1
 * ABB_ x4
 * ABBATAVE x1
 * ABEMIL x1
 * ABI1_ x1
-* ABIL_ x19
+* ABIL_ x37
 * ABLIP_ x7
-* AC_ x13
+* AC_ x448
 * ACA_ x12
 * ACCESSORY_ x1
 * ACCNA_ x84
@@ -4177,7 +4177,7 @@ global: 49954/56582 (88.29%)
 * ACD_ x23
 * ACEJONES x1
 * ACFIG_ x2
-* ACT_ x11
+* ACT_ x14
 * ACTCIN x1
 * ACTCIN1 x1
 * ACTCIN1F x1
@@ -4231,7 +4231,7 @@ global: 49954/56582 (88.29%)
 * AMASUV_ x7
 * AMBC_ x14
 * AMBULAN x1
-* AMCH_ x150
+* AMCH_ x151
 * AMD_ x11
 * AMDO_ x218
 * AMERICANO x1
@@ -4260,7 +4260,7 @@ global: 49954/56582 (88.29%)
 * APPISTOL_ x1
 * APT_ x16
 * AR_ x7
-* ARC_ x224
+* ARC_ x243
 * ARCADE_ x15
 * ARCADE2_ x1
 * ARCADEHELP x1
@@ -4398,7 +4398,7 @@ global: 49954/56582 (88.29%)
 * BAYCI x1
 * BAYTRE x1
 * BAYTREECAN x1
-* BB_ x373
+* BB_ x375
 * BBB_ x7
 * BBH_ x19
 * BBHACK_ x1
@@ -4510,15 +4510,15 @@ global: 49954/56582 (88.29%)
 * BGR_ x2
 * BGSK_ x2
 * BHAMCA x1
-* BHH_ x38
+* BHH_ x39
 * BHSF_ x6
 * BIFF x1
 * BIFTA x1
 * BIGGEST_ x3
 * BIGM_ x115
 * BIGW_ x4
-* BIK_ x14
-* BIKER_ x36
+* BIK_ x15
+* BIKER_ x38
 * BIKERWHBLCKA x1
 * BIKERWHBLCKB x1
 * BIKERWHBLCKC x1
@@ -4730,7 +4730,7 @@ global: 49954/56582 (88.29%)
 * BUZZARD2 x1
 * BV_ x1
 * BVB_ x10
-* BWH_ x9
+* BWH_ x44
 * BYCB_ x163
 * CA_ x20
 * CAB_ x2
@@ -4795,13 +4795,13 @@ global: 49954/56582 (88.29%)
 * CBUYERCRP x1
 * CBUYERCRS x1
 * CBV_ x10
-* CC_ x268
+* CC_ x278
 * CCR_ x27
 * CCREAK x1
 * CDCRTR_ x5
 * CDERROR x1
 * CELEB_ x131
-* CELL_ x1160
+* CELL_ x1166
 * CELLC_ x36
 * CELLGW_ x3
 * CEO_ x1
@@ -4820,7 +4820,7 @@ global: 49954/56582 (88.29%)
 * CHAMH x1
 * CHAMP_ x3
 * CHAR_ x3
-* CHARC_ x25
+* CHARC_ x41
 * CHARIOT x1
 * CHEAT_ x64
 * CHECKPOINT x1
@@ -4899,7 +4899,7 @@ global: 49954/56582 (88.29%)
 * CMHDZ_ x42
 * CMM_ x36
 * CMN_ x51
-* CMOD_ x524
+* CMOD_ x528
 * CMRC_ x18
 * CMSW x1
 * CMT_ x3
@@ -4926,7 +4926,7 @@ global: 49954/56582 (88.29%)
 * CONQUIS x1
 * CONRAD_ x1
 * CONSET_ x4
-* CONT_ x23
+* CONT_ x26
 * CONTENT_ x16
 * CONTEXT_ x6
 * CONTRA_ x28
@@ -4960,7 +4960,7 @@ global: 49954/56582 (88.29%)
 * CREAM x1
 * CREATE4O_ x11
 * CREATE4OB_ x1
-* CREATEMEN_ x31
+* CREATEMEN_ x45
 * CREATOR_ x3
 * CREEK_ x1
 * CREMEN_ x12
@@ -4981,10 +4981,10 @@ global: 49954/56582 (88.29%)
 * CRUSADE x1
 * CRUSADER x1
 * CRW_ x45
-* CSG_ x106
-* CSH_ x680
+* CSG_ x107
+* CSH_ x682
 * CSHOP_ x58
-* CSHT_ x12
+* CSHT_ x14
 * CSN_ x2
 * CSNAPT_ x14
 * CT_ x3
@@ -5198,6 +5198,8 @@ global: 49954/56582 (88.29%)
 * DUMMYMINIGAMES x1
 * DUMMYMISSION x1
 * DUMMYNET x1
+* DUMMYNETCR x1
+* DUMMYNETFM x1
 * DUMMYRC x1
 * DUMMYSHOPS x1
 * DUMMYWEAPONS x1
@@ -5222,7 +5224,7 @@ global: 49954/56582 (88.29%)
 * DYELPC_ x1
 * DYN_ x40
 * DYNASTY_ x1
-* DZ_ x8
+* DZ_ x13
 * EAST_ x1
 * EASTBOR x1
 * EBURO x1
@@ -5257,7 +5259,7 @@ global: 49954/56582 (88.29%)
 * ENTITYXF x1
 * ENUS x1
 * EP_ x1
-* EPS_ x68
+* EPS_ x77
 * EPSDES_ x10
 * EPSI_ x3
 * EPSI6_ x1
@@ -5270,7 +5272,7 @@ global: 49954/56582 (88.29%)
 * EVERON_ x1
 * EX_ x1
 * EXCEPTI x1
-* EXEC_ x13
+* EXEC_ x19
 * EXEMPLAR x1
 * EXIL_ x1
 * EXIL2_ x2
@@ -5323,7 +5325,7 @@ global: 49954/56582 (88.29%)
 * FENWELL x1
 * FFR x1
 * FGND_ x2
-* FH_ x101
+* FH_ x102
 * FHB_ x6
 * FHBM_ x48
 * FHGO_ x1
@@ -5332,7 +5334,7 @@ global: 49954/56582 (88.29%)
 * FHOT_ x51
 * FHQ_ x79
 * FHT_ x15
-* FHTXT_ x18
+* FHTXT_ x55
 * FHU_ x9
 * FIGURE_ x3
 * FIH_ x6
@@ -5365,10 +5367,10 @@ global: 49954/56582 (88.29%)
 * FMAMMODROP3 x1
 * FMASS_ x7
 * FMAW_ x1
-* FMBB_ x84
+* FMBB_ x88
 * FMBLIP_ x11
 * FMBOSSINTROHC x1
-* FMC_ x186
+* FMC_ x190
 * FMCI_ x6
 * FMCOT_ x4
 * FME_ x7
@@ -5376,7 +5378,7 @@ global: 49954/56582 (88.29%)
 * FMEVNT_ x4
 * FMH_ x1
 * FMIC_ x8
-* FMMC_ x456
+* FMMC_ x490
 * FMMCC_ x3
 * FMMCGHIDE_ x1
 * FMO x1
@@ -5421,7 +5423,7 @@ global: 49954/56582 (88.29%)
 * FUTO x1
 * FUTO_ x7
 * FWE x1
-* FXR_ x734
+* FXR_ x735
 * FXRAP_ x4
 * G_ x171
 * GADGETWEPUNL x1
@@ -5444,7 +5446,7 @@ global: 49954/56582 (88.29%)
 * GAS_ x3
 * GAUNTLET x1
 * GB_ x945
-* GBC_ x336
+* GBC_ x352
 * GBCOT_ x1
 * GBFK_ x6
 * GBGOONJOINEDC x1
@@ -5529,7 +5531,7 @@ global: 49954/56582 (88.29%)
 * GROVE x1
 * GRPLANE x1
 * GRS_ x2
-* GRT_ x42
+* GRT_ x95
 * GRTRUCK x1
 * GRU_ x4
 * GS_ x15
@@ -5538,7 +5540,7 @@ global: 49954/56582 (88.29%)
 * GUN_ x4
 * GUNRUN_ x3
 * GUSNBRG_ x1
-* H_ x241
+* H_ x248
 * H2_ x1
 * H4_ x17
 * H4P_ x371
@@ -5838,7 +5840,7 @@ global: 49954/56582 (88.29%)
 * KILLS x1
 * KILLS_ x8
 * KIMBLE x1
-* KIT_ x8
+* KIT_ x14
 * KITTIC_ x1
 * KLSTRK_ x16
 * KNIFE_ x2
@@ -5933,13 +5935,13 @@ global: 49954/56582 (88.29%)
 * LUNG_ x1
 * LUXOR x1
 * LW_ x2
-* M_ x123
+* M_ x148
 * MACDST x1
 * MAGELAN x1
 * MAIBATSU x1
 * MAIN_ x1
 * MAISONETTESHIRT x1
-* MAITRD_ x41
+* MAITRD_ x68
 * MAITRED_ x2
 * MAKEUP_ x1
 * MALE_ x21
@@ -5979,7 +5981,7 @@ global: 49954/56582 (88.29%)
 * MBH_ x4
 * MBOT_ x2
 * MBOX_ x20
-* MBS_ x235
+* MBS_ x236
 * MBSC_ x1
 * MBSLOC_ x31
 * MBSOT_ x201
@@ -6081,7 +6083,7 @@ global: 49954/56582 (88.29%)
 * MOVIE x1
 * MOVPROPDELHELP x1
 * MOWER x1
-* MP_ x1329
+* MP_ x1350
 * MPATC_ x1
 * MPATM_ x27
 * MPBAD_ x2
@@ -6259,9 +6261,9 @@ global: 49954/56582 (88.29%)
 * OUTFIT_ x144
 * OVERFLOD x1
 * OVHEAD_ x10
-* OVT_ x33
+* OVT_ x37
 * OW_ x3
-* OWSERIES_ x1
+* OWSERIES_ x2
 * P_ x1
 * PA_ x45
 * PACIFICBLUFFSSHIRT x1
@@ -6312,7 +6314,7 @@ global: 49954/56582 (88.29%)
 * PBUS x1
 * PBZB_ x1
 * PC_ x2
-* PCARD_ x87
+* PCARD_ x107
 * PCC_ x4
 * PCJ x1
 * PD_ x20
@@ -6324,7 +6326,7 @@ global: 49954/56582 (88.29%)
 * PENT_ x1
 * PENUMBRA x1
 * PENUMBRA2_ x1
-* PER_ x4
+* PER_ x6
 * PERCENTAGE x1
 * PERI_ x1
 * PERISCOPE_ x3
@@ -6335,7 +6337,7 @@ global: 49954/56582 (88.29%)
 * PERTHA x1
 * PERV_ x2
 * PETROL_ x1
-* PEY_ x29
+* PEY_ x30
 * PEY2_ x2
 * PEYOT_ x7
 * PEYOTE x1
@@ -6352,7 +6354,7 @@ global: 49954/56582 (88.29%)
 * PI_ x276
 * PICADOR x1
 * PIL_ x4
-* PIM_ x2152
+* PIM_ x2156
 * PIMBHHIDMBWC x1
 * PIMCBOSSPASS x1
 * PIMCBOSSPASSC x1
@@ -6415,7 +6417,7 @@ global: 49954/56582 (88.29%)
 * PLYVEH_ x17
 * PLYVEHIMP x1
 * PLYVEHIMP_ x1
-* PM_ x1324
+* PM_ x1326
 * PMP_ x3
 * PN_ x16
 * PNX_ x1
@@ -6434,7 +6436,7 @@ global: 49954/56582 (88.29%)
 * PORTOLA x1
 * POUNDER x1
 * POWM_ x8
-* PPA_ x34
+* PPA_ x35
 * PPF_ x3
 * PPWAY x1
 * PRAIRIE x1
@@ -6470,7 +6472,7 @@ global: 49954/56582 (88.29%)
 * PSYCHO_ x2
 * PTD_ x13
 * PTL_ x6
-* PU_ x22
+* PU_ x28
 * PUMP_ x1
 * PURC_ x2
 * PURCH_ x1
@@ -6541,7 +6543,7 @@ global: 49954/56582 (88.29%)
 * REMINDER_ x1
 * REMOV_ x1
 * RENTBUS x1
-* REP_ x27
+* REP_ x36
 * REPLAY_ x21
 * RES_ x166
 * RESCON_ x1
@@ -6657,7 +6659,7 @@ global: 49954/56582 (88.29%)
 * SCLB_ x144
 * SCLUB_ x95
 * SCONT_ x1
-* SCONTRA_ x89
+* SCONTRA_ x91
 * SCORCHER x1
 * SCORE_ x2
 * SCRAMJET_ x2
@@ -6677,7 +6679,7 @@ global: 49954/56582 (88.29%)
 * SECUROSERV x1
 * SELECT x1
 * SELECT_ x1
-* SELF_ x6
+* SELF_ x9
 * SEMINOLE x1
 * SEMINOLE2_ x1
 * SENORA x1
@@ -6748,7 +6750,7 @@ global: 49954/56582 (88.29%)
 * SLL_ x2
 * SLOT1 x1
 * SLOT2 x1
-* SLOTS_ x346
+* SLOTS_ x370
 * SLSANT x1
 * SM_ x71
 * SMADJOE x1
@@ -7487,12 +7489,12 @@ global: 49954/56582 (88.29%)
 * ZTYPE x1
 * ZTYPE_ x1
 
-gun_mnu: 90/99 (90.91%)
+gun_mnu: 91/99 (91.92%)
 * CMOD_ x1
 * GS_ x39
 * GSA_ x12
 * GSHOP_ x3
-* GSM_ x29
+* GSM_ x30
 * WEAP_ x6
 
 guncar: empty
@@ -7640,8 +7642,8 @@ hao1: 20/20 (100.00%)
 hao1au: 89/89 (100.00%)
 * HAO1_ x89
 
-har_mnu: 119/135 (88.15%)
-* HAIR_ x113
+har_mnu: 125/135 (92.59%)
+* HAIR_ x119
 * ITEM_ x6
 
 heataud: 1082/1285 (84.20%)
@@ -7785,8 +7787,8 @@ jhfaud: 269/274 (98.18%)
 jhp1a: 8/8 (100.00%)
 * JHP1A_ x8
 
-jhp1ads: 315/558 (56.45%)
-* JS_ x315
+jhp1ads: 511/558 (91.58%)
+* JS_ x511
 
 jhp1b: 13/13 (100.00%)
 * JHP1B_ x13
@@ -8604,9 +8606,9 @@ mishsta: 495/506 (97.83%)
 * POTATAKE x1
 * UNSELLWEAP x1
 
-mod_mnu: 738/762 (96.85%)
+mod_mnu: 739/762 (96.98%)
 * CMM_ x89
-* CMOD_ x648
+* CMOD_ x649
 * GR_ x1
 
 mooreau: 781/781 (100.00%)
@@ -9502,8 +9504,8 @@ t2aud: 1243/1626 (76.45%)
 * TR_ x462
 * TR2_ x781
 
-tat_mnu: 213/224 (95.09%)
-* TAT_ x213
+tat_mnu: 220/224 (98.21%)
+* TAT_ x220
 
 tattoau: 0/42 (0.00%)
 
@@ -12676,9 +12678,9 @@ global: 311/549 (56.65%)
 
 
 ========== mppilot ==========
-dschool: 88/96 (91.67%)
+dschool: 90/96 (93.75%)
 * FS_ x1
-* PS_ x73
+* PS_ x75
 * PSLBT_ x10
 * PSM_ x4
 
@@ -13528,7 +13530,7 @@ global: 162/166 (97.59%)
 
 
 ========== mpheist ==========
-global: 1222/1473 (82.96%)
+global: 1223/1473 (83.03%)
 * ALPHA x1
 * AMM_ x1
 * AWD_ x33
@@ -13545,7 +13547,7 @@ global: 1222/1473 (82.96%)
 * CANDC_ x12
 * CASCO x1
 * CHR_ x16
-* CLO_ x729
+* CLO_ x730
 * COQUETTE_ x1
 * COQUETTE2 x1
 * COQUETTE2_ x1
