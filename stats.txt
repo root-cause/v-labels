@@ -228,8 +228,8 @@ ar2aud: 1254/1539 (81.48%)
 arflaud: 35/46 (76.09%)
 * ARFL_ x35
 
-arm1: 62/68 (91.18%)
-* AR1_ x62
+arm1: 63/68 (92.65%)
+* AR1_ x63
 
 arm1aud: 888/1000 (88.80%)
 * ARM1_ x888
@@ -260,20 +260,20 @@ arthoau: 256/256 (100.00%)
 asflaud: 61/61 (100.00%)
 * ASFL_ x61
 
-ass_bs: 32/37 (86.49%)
+ass_bs: 33/37 (89.19%)
+* ASS_ x33
+
+ass_cs: 28/28 (100.00%)
+* ASS_ x28
+
+ass_hk: 24/25 (96.00%)
+* ASS_ x24
+
+ass_ml: 19/21 (90.48%)
+* ASS_ x19
+
+ass_va: 32/33 (96.97%)
 * ASS_ x32
-
-ass_cs: 26/28 (92.86%)
-* ASS_ x26
-
-ass_hk: 23/25 (92.00%)
-* ASS_ x23
-
-ass_ml: 18/21 (85.71%)
-* ASS_ x18
-
-ass_va: 29/33 (87.88%)
-* ASS_ x29
 
 bankh1: 48/48 (100.00%)
 * ABANDONHEIST x1
@@ -326,11 +326,11 @@ bankh1: 48/48 (100.00%)
 banks1: 45/46 (97.83%)
 * CBH_ x45
 
-bar3aau: 111/116 (95.69%)
-* BAR3A_ x111
+bar3aau: 116/116 (100.00%)
+* BAR3A_ x116
 
-bar3cau: 107/126 (84.92%)
-* BAR3C_ x107
+bar3cau: 126/126 (100.00%)
+* BAR3C_ x126
 
 barr3a: 11/12 (91.67%)
 * B3ADELV x1
@@ -411,8 +411,8 @@ bbcaud: 118/118 (100.00%)
 bbonds: 18/18 (100.00%)
 * BBS_ x18
 
-bcaud: 51/325 (15.69%)
-* BC_ x51
+bcaud: 194/325 (59.69%)
+* BC_ x194
 
 bfinjec: 33/35 (94.29%)
 * 2SLOW x1
@@ -565,8 +565,8 @@ chatcau: 1348/1348 (100.00%)
 chflaud: 37/37 (100.00%)
 * CHFL_ x37
 
-chheist: 100/106 (94.34%)
-* CH_ x97
+chheist: 104/106 (98.11%)
+* CH_ x101
 * CHFAILED x1
 * CHPASSED x1
 * CHRETURN x1
@@ -3331,8 +3331,8 @@ drey1: 1/1 (100.00%)
 drey1au: 293/293 (100.00%)
 * DREY1_ x293
 
-drfaud: 444/2529 (17.56%)
-* DRF_ x351
+drfaud: 688/2529 (27.20%)
+* DRF_ x595
 * PBTNM_ x17
 * PBTNM2_ x16
 * PBTNM2IF x1
@@ -9336,7 +9336,8 @@ scaud: 1078/1195 (90.21%)
 scrapau: 297/370 (80.27%)
 * SCRAP_ x297
 
-shaud: 0/101 (0.00%)
+shaud: 89/101 (88.12%)
+* SC_ x89
 
 shrink: 5/5 (100.00%)
 * SHRINK_ x5
