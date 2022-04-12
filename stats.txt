@@ -3559,8 +3559,8 @@ fatmau: 469/469 (100.00%)
 fb3aaud: 187/187 (100.00%)
 * F3A_ x187
 
-fb3aud: 1496/2003 (74.69%)
-* F3_ x1496
+fb3aud: 1782/2003 (88.97%)
+* F3_ x1782
 
 fbch: empty
 
@@ -4162,7 +4162,7 @@ frmchse: 34/35 (97.14%)
 getawy: 58/58 (100.00%)
 * PRC_ x58
 
-global: 51201/56582 (90.49%)
+global: 51292/56582 (90.65%)
 * 95PEER_ x1
 * ABB_ x4
 * ABBATAVE x1
@@ -4732,7 +4732,7 @@ global: 51201/56582 (90.49%)
 * BUZZARD2 x1
 * BV_ x1
 * BVB_ x10
-* BWH_ x44
+* BWH_ x74
 * BYCB_ x163
 * CA_ x20
 * CAB_ x2
@@ -4986,7 +4986,7 @@ global: 51201/56582 (90.49%)
 * CSG_ x107
 * CSH_ x682
 * CSHOP_ x58
-* CSHT_ x14
+* CSHT_ x16
 * CSN_ x2
 * CSNAPT_ x14
 * CT_ x3
@@ -5449,7 +5449,7 @@ global: 51201/56582 (90.49%)
 * GAS_ x3
 * GAUNTLET x1
 * GB_ x945
-* GBC_ x352
+* GBC_ x357
 * GBCOT_ x1
 * GBFK_ x6
 * GBGOONJOINEDC x1
@@ -5670,7 +5670,7 @@ global: 51201/56582 (90.49%)
 * HOT PINK x1
 * HOT_ x2
 * HOTKNIFE x1
-* HP_ x44
+* HP_ x48
 * HPBOARD_ x2
 * HPCONTEXT_ x14
 * HPDESC_ x3
@@ -6781,7 +6781,7 @@ global: 51201/56582 (90.49%)
 * SMRD_ x63
 * SMT_ x43
 * SMTICK_ x1
-* SMTXT_ x71
+* SMTXT_ x121
 * SMTYPE_ x18
 * SMU_ x1
 * SMUG_ x11
@@ -13011,8 +13011,8 @@ paifmau: 935/965 (96.89%)
 bplesau: 1058/1180 (89.66%)
 * BPLES_ x1058
 
-bpmalau: 594/625 (95.04%)
-* BPMAL_ x586
+bpmalau: 604/625 (96.64%)
+* BPMAL_ x596
 * BPMLA_ x8
 
 global: 1574/1743 (90.30%)
