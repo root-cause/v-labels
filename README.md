@@ -1,6 +1,6 @@
 # v-labels
 
-Just a lot of *(366505)* text keys for .gxt2, there are still missing/unknown entries. (and hash collisions, probably)
+Just a lot of *(367616)* text keys for .gxt2, there are still missing/unknown entries. (and hash collisions, probably)
 
 If you notice any collisions or have text keys, feel free to [create a new issue](https://github.com/root-cause/v-labels/issues/new).
 
@@ -18,6 +18,7 @@ If you notice any collisions or have text keys, feel free to [create a new issue
 * [alloc8or](https://github.com/alloc8or) - [GTAV_All_Text_Labels_1737.txt](https://gist.github.com/alloc8or/057e4d573cdfe238db31ec5edf2efbbb), [GTAV Mission Archive](https://alloc8or.re/gta5/doc/ros/ugc/gta5mission/)
 * [dexyfex & CodeWalker contributors](https://github.com/dexyfex/CodeWalker/graphs/contributors) - [CodeWalker](https://github.com/dexyfex/CodeWalker)
 * [Lucas7yoshi](https://github.com/Lucas7yoshi) - mpimportexport text keys
+* [Monkeypolice188](https://twitter.com/monkeypolice188) - various text keys
 * [njames93](https://github.com/njames93) - [GTAV Script Decompiler](https://github.com/njames93/GTA-V-Script-Decompiler), [gxt_labels.txt](https://gist.github.com/njames93/328b513451262f635f85815543df8210)
 * [OpenIV](https://openiv.com/) - various text keys
 * [WildBrick142](https://gtaforums.com/profile/755035-wildbrick142/) - general information, mptuner text keys and multiple GTAForums posts

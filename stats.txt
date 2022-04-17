@@ -14,13 +14,13 @@ ah3baud: 2984/3037 (98.25%)
 * AH_ x2780
 * AH3B_ x204
 
-ahfaud: 218/307 (71.01%)
+ahfaud: 297/307 (96.74%)
 * AH_ x14
 * AHBOTH_ x2
 * AHBOTHIF x1
 * AHBOTHLF x1
 * AHBOTHSL x1
-* AHF_ x73
+* AHF_ x152
 * AHJH_ x3
 * AHJHA x1
 * AHJHIF x1
@@ -92,8 +92,8 @@ ahfaud: 218/307 (71.01%)
 ahprep1: 6/6 (100.00%)
 * AHP_ x6
 
-ambht: 175/193 (90.67%)
-* AHT_ x62
+ambht: 179/193 (92.75%)
+* AHT_ x64
 * H_ x6
 * HBRONZE x1
 * HBTIME x1
@@ -120,7 +120,7 @@ ambht: 175/193 (90.67%)
 * HT_ x2
 * HUNT x1
 * HUNT_ x10
-* HUNTC_ x22
+* HUNTC_ x24
 * HUNTNOT_ x4
 * HUNTT_ x18
 * HUNTUI_ x6
@@ -174,9 +174,9 @@ anaud: 546/558 (97.85%)
 animlau: 7803/7803 (100.00%)
 * ANIML_ x7803
 
-ar2aud: 1362/1539 (88.50%)
-* AR2_ x869
-* ARM2_ x343
+ar2aud: 1380/1539 (89.67%)
+* AR2_ x876
+* ARM2_ x354
 * DRIVE_ x7
 * DRIVEAPP1_ x13
 * DRIVEAPP1IF x1
@@ -231,8 +231,8 @@ arflaud: 35/46 (76.09%)
 arm1: 63/68 (92.65%)
 * AR1_ x63
 
-arm1aud: 956/1000 (95.60%)
-* ARM1_ x956
+arm1aud: 963/1000 (96.30%)
+* ARM1_ x963
 
 arm2: 71/71 (100.00%)
 * ARM2_ x71
@@ -470,8 +470,8 @@ bpress: empty
 
 brokedn: empty
 
-bs2baud: 3052/3212 (95.02%)
-* BS2B_ x3052
+bs2baud: 3063/3212 (95.36%)
+* BS2B_ x3063
 
 bspraau: 275/275 (100.00%)
 * PRA_ x275
@@ -715,8 +715,8 @@ clo_mnu: 896/899 (99.67%)
 * HAIR_ x1
 * WARD_ x4
 
-clothau: 223/297 (75.08%)
-* CLOTH_ x223
+clothau: 236/297 (79.46%)
+* CLOTH_ x236
 
 cntry1: 74/76 (97.37%)
 * CNTRY_ x74
@@ -3128,7 +3128,7 @@ csflaud: 95/95 (100.00%)
 * CSFL_ x72
 * LAM_ x23
 
-cst2aud: 1345/1398 (96.21%)
+cst2aud: 1350/1398 (96.57%)
 * CAR_ x138
 * CAR2_ x82
 * CHADBAD_ x3
@@ -3141,7 +3141,7 @@ cst2aud: 1345/1398 (96.21%)
 * CHADFEARIF x1
 * CHADFEARLF x1
 * CHADFEARSL x1
-* CS2_ x846
+* CS2_ x851
 * CST2_ x12
 * GUNATCHAD_ x14
 * GUNATCHADIF x1
@@ -3202,16 +3202,16 @@ cst2aud: 1345/1398 (96.21%)
 cst3aud: 892/897 (99.44%)
 * CST3_ x892
 
-cst4aud: 772/778 (99.23%)
-* CST4_ x772
+cst4aud: 778/778 (100.00%)
+* CST4_ x778
 
-cst7aud: 1116/1136 (98.24%)
-* CST7_ x1116
+cst7aud: 1122/1136 (98.77%)
+* CST7_ x1122
 
 cstlcut: empty
 
-ct_aud: 3021/3224 (93.70%)
-* MPCT_ x3021
+ct_aud: 3105/3224 (96.31%)
+* MPCT_ x3105
 
 cultres: empty
 
@@ -3222,8 +3222,8 @@ d2aaud: 1364/1364 (100.00%)
 * DH2A_ x1190
 * DS2A_ x174
 
-d2baud: 921/1062 (86.72%)
-* DS2A_ x901
+d2baud: 928/1062 (87.38%)
+* DS2A_ x908
 * DS2B_ x20
 
 darts: 86/87 (98.85%)
@@ -3311,8 +3311,8 @@ dockh1: 91/102 (89.22%)
 * PHOTO_ x10
 * TXT_ x3
 
-dockh2b: 77/84 (91.67%)
-* DS2_ x76
+dockh2b: 79/84 (94.05%)
+* DS2_ x78
 * DS2A_ x1
 
 dockp1: 26/27 (96.30%)
@@ -3476,8 +3476,8 @@ fafmau: 417/417 (100.00%)
 faftau: 423/423 (100.00%)
 * FAFT_ x423
 
-fam1aud: 1511/1588 (95.15%)
-* FAM1_ x1511
+fam1aud: 1519/1588 (95.65%)
+* FAM1_ x1519
 
 fam2aud: 1170/1188 (98.48%)
 * FAM2_ x1170
@@ -3485,8 +3485,8 @@ fam2aud: 1170/1188 (98.48%)
 fam3: 20/20 (100.00%)
 * FAM3_ x20
 
-fam3aud: 1183/1195 (99.00%)
-* FAM3_ x1183
+fam3aud: 1189/1195 (99.50%)
+* FAM3_ x1189
 
 fam4aud: 1204/1216 (99.01%)
 * FAM4_ x1170
@@ -3502,8 +3502,8 @@ fam5aud: 1146/1324 (86.56%)
 fam6: 22/22 (100.00%)
 * FAM6_ x22
 
-fam6aud: 1498/1558 (96.15%)
-* FAM6_ x1498
+fam6aud: 1503/1558 (96.47%)
+* FAM6_ x1503
 
 famaau: 219/219 (100.00%)
 * FAMA_ x219
@@ -3514,8 +3514,8 @@ famfau: 409/409 (100.00%)
 family1: 32/32 (100.00%)
 * YB_ x32
 
-family2: 69/74 (93.24%)
-* FM2_ x69
+family2: 70/74 (94.59%)
+* FM2_ x70
 
 family4: 35/36 (97.22%)
 * FAMILY4_ x35
@@ -3569,7 +3569,7 @@ fbi1: 27/27 (100.00%)
 * FBI_ x1
 * FBI1_ x26
 
-fbi1aud: 697/849 (82.10%)
+fbi1aud: 702/849 (82.69%)
 * CALL1D_ x8
 * CALL1DIF x1
 * CALL1DLF x1
@@ -3582,7 +3582,7 @@ fbi1aud: 697/849 (82.10%)
 * CALL3IF x1
 * CALL3LF x1
 * CALL3SL x1
-* CIA_ x55
+* CIA_ x60
 * FBI1_ x556
 * LIFT0_ x2
 * LIFT0A x1
@@ -3592,18 +3592,18 @@ fbi1aud: 697/849 (82.10%)
 * MIK_ x13
 * MR_ x10
 
-fbi2aud: 1255/1273 (98.59%)
+fbi2aud: 1262/1273 (99.14%)
 * FBI_ x5
-* FBI2_ x1250
+* FBI2_ x1257
 
 fbi3: 40/40 (100.00%)
 * F_ x17
 * HLP_ x16
 * TFT_ x7
 
-fbi5aau: 1985/2044 (97.11%)
+fbi5aau: 2013/2044 (98.48%)
 * FBI5_ x230
-* FBI5A_ x1659
+* FBI5A_ x1687
 * FBI5B_ x49
 * FBIA5A_ x42
 * FIA5A_ x5
@@ -3631,9 +3631,9 @@ fbiprd: 12/12 (100.00%)
 fbipre: 13/13 (100.00%)
 * PRE_ x13
 
-fbis4au: 2046/2134 (95.88%)
-* AH3A_ x2030
-* SECUR_ x16
+fbis4au: 2067/2134 (96.86%)
+* AH3A_ x2045
+* SECUR_ x22
 
 fbs1aud: 593/593 (100.00%)
 * FBS1_ x593
@@ -3872,8 +3872,8 @@ fkn1aud: 1499/1514 (99.01%)
 
 flwstrt: empty
 
-fm_1au: 1116/1777 (62.80%)
-* FM_ x1103
+fm_1au: 1125/1777 (63.31%)
+* FM_ x1112
 * FMA_ x13
 
 fmambau: 155/191 (81.15%)
@@ -4163,7 +4163,7 @@ frmchse: 34/35 (97.14%)
 getawy: 58/58 (100.00%)
 * PRC_ x58
 
-global: 51422/56582 (90.88%)
+global: 51579/56582 (91.16%)
 * 95PEER_ x1
 * ABB_ x5
 * ABBATAVE x1
@@ -4359,6 +4359,7 @@ global: 51422/56582 (90.88%)
 * B_ x51
 * B2_ x1
 * BA_ x72
+* BACKLOTB x1
 * BACKLOTF x1
 * BAD_ x4
 * BADII_ x23
@@ -4495,6 +4496,7 @@ global: 51422/56582 (90.88%)
 * BEAM_ x10
 * BEAMTUT_ x8
 * BEARD_ x1
+* BEARS x1
 * BEAST_ x9
 * BEECHWOOD_ x1
 * BEER_ x1
@@ -4579,7 +4581,7 @@ global: 51422/56582 (90.88%)
 * BLIMP x1
 * BLIMP_ x1
 * BLIP x1
-* BLIP_ x878
+* BLIP_ x886
 * BLIPNAME_ x6
 * BLISTA x1
 * BLOCK_ x1
@@ -4987,7 +4989,7 @@ global: 51422/56582 (90.88%)
 * CRUISER x1
 * CRUSADE x1
 * CRUSADER x1
-* CRW_ x45
+* CRW_ x47
 * CSG_ x107
 * CSH_ x682
 * CSHOP_ x58
@@ -5019,6 +5021,7 @@ global: 51422/56582 (90.88%)
 * DAGGER_ x1
 * DANCE_ x43
 * DAR_ x1
+* DARIEN x1
 * DARK_ x4
 * DART_ x18
 * DARTS_ x2
@@ -5259,6 +5262,7 @@ global: 51422/56582 (90.88%)
 * EGAL x1
 * EGO_ x4
 * ELBURROB x1
+* ELECTRI x1
 * ELEGY2 x1
 * ELGIN x1
 * ELGORL x1
@@ -5292,10 +5296,14 @@ global: 51422/56582 (90.88%)
 * ES_ x14
 * ESDOLLA x1
 * ESMINDOLLA x1
+* ESPERANTO x1
 * EVERON_ x1
+* EWING x1
 * EX_ x1
 * EXCEPTI x1
+* EXE1NV_ x1
 * EXEC_ x20
+* EXEC1NV_ x3
 * EXEMPLAR x1
 * EXIL_ x1
 * EXIL2_ x2
@@ -5328,7 +5336,7 @@ global: 51422/56582 (90.88%)
 * FASTEST_ x1
 * FATHOM x1
 * FAVOUTFITBIKETYPEALLTIME x1
-* FB_ x19
+* FB_ x22
 * FB4_ x2
 * FBI x1
 * FBI1_ x1
@@ -5402,7 +5410,7 @@ global: 51422/56582 (90.88%)
 * FMEVNT_ x4
 * FMH_ x1
 * FMIC_ x8
-* FMMC_ x490
+* FMMC_ x491
 * FMMCC_ x3
 * FMMCGHIDE_ x1
 * FMO x1
@@ -5469,8 +5477,9 @@ global: 51422/56582 (90.88%)
 * GARNET_ x1
 * GAS_ x3
 * GAUNTLET x1
-* GB_ x946
+* GB_ x949
 * GBC_ x357
+* GBCGOONLEFTB x1
 * GBCOT_ x1
 * GBFK_ x6
 * GBGOONJOINEDC x1
@@ -5747,11 +5756,11 @@ global: 51422/56582 (90.88%)
 * IAO_ x2
 * IAP_ x28
 * IAPS_ x6
-* IB_ x112
+* IB_ x128
 * IBI_ x17
 * IDJ_ x146
 * IDM_ x2
-* IE_ x370
+* IE_ x372
 * IEAPPINPUTTRIG x1
 * IEAPPINPUTTRPC x1
 * IEC_ x96
@@ -5978,7 +5987,7 @@ global: 51422/56582 (90.88%)
 * MANUAL_ x1
 * MAPEMAIL_ x20
 * MAPLE_ x1
-* MAPPING_ x6
+* MAPPING_ x12
 * MAR_ x3
 * MAR1_ x1
 * MARATHON x1
@@ -6005,7 +6014,7 @@ global: 51422/56582 (90.88%)
 * MBCTXT_ x3
 * MBH_ x4
 * MBOT_ x2
-* MBOX_ x20
+* MBOX_ x22
 * MBS_ x236
 * MBSC_ x1
 * MBSLOC_ x31
@@ -6108,7 +6117,7 @@ global: 51422/56582 (90.88%)
 * MOVIE x1
 * MOVPROPDELHELP x1
 * MOWER x1
-* MP_ x1350
+* MP_ x1351
 * MPATC_ x1
 * MPATM_ x28
 * MPBAD_ x2
@@ -6232,6 +6241,7 @@ global: 51422/56582 (90.88%)
 * NOT_ x3
 * NOTOWNARENATEX x1
 * NOTOWNARENAWOR x1
+* NOTYPE x1
 * NOWHE x1
 * NPC_ x1
 * NPOP x1
@@ -6425,6 +6435,7 @@ global: 51422/56582 (90.88%)
 * PINK x1
 * PISTOL_ x1
 * PISTOL50_ x1
+* PITCH_ x1
 * PJUGG_ x1
 * PL_ x4
 * PLAICE x1
@@ -6435,6 +6446,7 @@ global: 51422/56582 (90.88%)
 * PLAYERLEFT x1
 * PLAYERS_ x1
 * PLAYLT_ x1
+* PLMV_ x2
 * PLOUGH_ x41
 * PLTSC_ x1
 * PLYKICKED x1
@@ -6442,7 +6454,7 @@ global: 51422/56582 (90.88%)
 * PLYVEH_ x17
 * PLYVEHIMP x1
 * PLYVEHIMP_ x2
-* PM_ x1326
+* PM_ x1327
 * PMP_ x3
 * PN_ x16
 * PNX_ x1
@@ -6483,6 +6495,7 @@ global: 51422/56582 (90.88%)
 * PROCOB x1
 * PROCOP x1
 * PRODUST x1
+* PROFAN_ x1
 * PROGEN x1
 * PROL x1
 * PROLAPSSHIRT x1
@@ -6617,6 +6630,7 @@ global: 51422/56582 (90.88%)
 * ROCKD x1
 * ROCKF x1
 * ROCOTO x1
+* RODEDR x1
 * ROLLED_ x1
 * ROMERO x1
 * ROOSEVELT x1
@@ -6638,6 +6652,7 @@ global: 51422/56582 (90.88%)
 * RUG_ x2
 * RUINER x1
 * RUINER_ x2
+* RUMP_ x2
 * RUMPO x1
 * RUNWAY1 x1
 * RWC_ x1
@@ -6676,7 +6691,7 @@ global: 51422/56582 (90.88%)
 * SBIKERP_ x8
 * SBIKERS_ x1
 * SBIKERT_ x3
-* SC_ x296
+* SC_ x300
 * SC1_ x1
 * SCAN_ x10
 * SCARAB_ x1
@@ -6710,6 +6725,7 @@ global: 51422/56582 (90.88%)
 * SELECT x1
 * SELECT_ x1
 * SELF_ x9
+* SELMA x1
 * SEMINOLE x1
 * SEMINOLE2_ x1
 * SENORA x1
@@ -6741,6 +6757,7 @@ global: 51422/56582 (90.88%)
 * SHI_ x7
 * SHIP_ x8
 * SHITZU x1
+* SHML_ x4
 * SHOOT_ x1
 * SHOOTING_ x1
 * SHOP_ x103
@@ -6834,6 +6851,7 @@ global: 51422/56582 (90.88%)
 * SOL_ x2
 * SOL1_ x2
 * SOL2_ x1
+* SOLDIERS x1
 * SOLUNLOCK x1
 * SOURCED_ x1
 * SOUTHERN_ x1
@@ -6887,6 +6905,7 @@ global: 51422/56582 (90.88%)
 * STKP_ x1
 * STKYBMB_ x1
 * STLVEHWTDLVL x1
+* STNT_ x3
 * STOC_ x4
 * STOCKADE x1
 * STONE_ x1
@@ -7041,7 +7060,7 @@ global: 51422/56582 (90.88%)
 * TIMCIN x1
 * TIMCINMULTI x1
 * TIME_ x12
-* TIMER_ x43
+* TIMER_ x44
 * TIMES_ x1
 * TINT_ x22
 * TIPTRUCK x1
@@ -7198,7 +7217,7 @@ global: 51422/56582 (90.88%)
 * U_ x268
 * UA_ x43
 * UBERMACH x1
-* UEUI_ x2
+* UEUI_ x3
 * UEV_ x4
 * UGC_ x18
 * UL_ x1
@@ -7308,7 +7327,8 @@ global: 51422/56582 (90.88%)
 * UNLOPEY x1
 * UNLORCTT x1
 * UNLOTT x1
-* UNMAPPED_ x2
+* UNMAPPABLE_ x2
+* UNMAPPED_ x3
 * UNNOSON_ x1
 * UNNOSUB_ x1
 * USB_ x27
@@ -7324,7 +7344,7 @@ global: 51422/56582 (90.88%)
 * USBMIXHELPDRE x1
 * USBMIXHELPNO x1
 * USJ x1
-* USJ_ x6
+* USJ_ x8
 * USJC x1
 * USJCA x1
 * USJFAIL x1
@@ -7349,7 +7369,7 @@ global: 51422/56582 (90.88%)
 * VCM_ x12
 * VCMFLOW_ x15
 * VD_ x1
-* VE_ x50
+* VE_ x56
 * VED_ x2
 * VEH_ x154
 * VEHCL_ x19
@@ -7363,7 +7383,7 @@ global: 51422/56582 (90.88%)
 * VERSUS_ x1
 * VESP x1
 * VESPBD x1
-* VEUI_ x359
+* VEUI_ x421
 * VEV_ x1
 * VEX_ x368
 * VHSITPURFH x1
@@ -7415,6 +7435,7 @@ global: 51422/56582 (90.88%)
 * WARD_ x4
 * WARE_ x1
 * WARMWFWY x1
+* WARN_ x1
 * WARNING_ x13
 * WARP_ x4
 * WARRENER_ x1
@@ -7464,7 +7485,7 @@ global: 51422/56582 (90.88%)
 * WMIRROR x1
 * WOODBEECH_ x1
 * WR_ x6
-* WRN_ x2
+* WRN_ x4
 * WRPPRT_ x2
 * WS_ x28
 * WSTCKHELP x1
@@ -7494,7 +7515,7 @@ global: 51422/56582 (90.88%)
 * XP_ x18
 * XPDT_ x2
 * XPT_ x17
-* YACHT_ x45
+* YACHT_ x47
 * YACHTMAIL x1
 * YACHTMAIL_ x4
 * YB_ x1
@@ -7605,8 +7626,8 @@ h3set1: 36/36 (100.00%)
 * WAIT_ x1
 * WANTED x1
 
-h4heist: 43/54 (79.63%)
-* CH_ x43
+h4heist: 44/54 (81.48%)
+* CH_ x44
 
 h5heist: 49/60 (81.67%)
 * DCKH_ x49
@@ -7709,9 +7730,9 @@ heataud: 1217/1285 (94.71%)
 * TREVOR_ x11
 * VAN_ x48
 
-ht2aud: 573/593 (96.63%)
+ht2aud: 583/593 (98.31%)
 * HT_ x35
-* HT2_ x538
+* HT2_ x548
 
 ht3aud: 25/25 (100.00%)
 * HT3_ x25
@@ -7723,8 +7744,8 @@ hunt1: 14/14 (100.00%)
 * HH_ x4
 * HT_ x10
 
-hunt1au: 525/530 (99.06%)
-* HUNT_ x94
+hunt1au: 530/530 (100.00%)
+* HUNT_ x99
 * HUNT1_ x431
 
 hunt2: 35/35 (100.00%)
@@ -7739,8 +7760,8 @@ jackaud: 435/435 (100.00%)
 jh1trig: 1/1 (100.00%)
 * JH1_ x1
 
-jhaud: 2513/2813 (89.34%)
-* JH_ x2513
+jhaud: 2564/2813 (91.15%)
+* JH_ x2564
 
 jhfaud: 269/274 (98.18%)
 * JHF_ x151
@@ -7918,8 +7939,8 @@ kungaud: 705/705 (100.00%)
 lem1: 41/43 (95.35%)
 * LEM1_ x41
 
-lem1aud: 1307/1422 (91.91%)
-* LEM1_ x1307
+lem1aud: 1315/1422 (92.48%)
+* LEM1_ x1315
 
 lem2aud: 1761/2022 (87.09%)
 * FRA_ x352
@@ -8224,8 +8245,8 @@ mch1: 38/38 (100.00%)
 mch1aud: 937/937 (100.00%)
 * MCH1_ x937
 
-mch2: 21/31 (67.74%)
-* MCH2_ x21
+mch2: 22/31 (70.97%)
+* MCH2_ x22
 
 mch2aud: 1119/1137 (98.42%)
 * MCH2_ x952
@@ -8664,8 +8685,8 @@ mpawd: 476/476 (100.00%)
 * AWS_ x167
 * AWT_ x152
 
-mpdlcau: 204/284 (71.83%)
-* MPDLC_ x204
+mpdlcau: 222/284 (78.17%)
+* MPDLC_ x222
 
 mpgcsau: 0/321 (0.00%)
 
@@ -8955,8 +8976,8 @@ pap1aud: 608/632 (96.20%)
 * PAP_ x139
 * PAP1_ x469
 
-pap2: 40/41 (97.56%)
-* PAP2_ x40
+pap2: 41/41 (100.00%)
+* PAP2_ x41
 
 pap2aud: 467/467 (100.00%)
 * PAP2_ x467
@@ -9080,9 +9101,9 @@ prinaud: 656/656 (100.00%)
 proaud: 897/1017 (88.20%)
 * PRO_ x897
 
-prolog: 96/104 (92.31%)
-* PRO_ x48
-* PROHLP_ x48
+prolog: 99/104 (95.19%)
+* PRO_ x49
+* PROHLP_ x50
 
 propaud: 72/72 (100.00%)
 * PRP_ x72
@@ -9154,15 +9175,15 @@ raspaud: 32/32 (100.00%)
 rb_12au: 180/180 (100.00%)
 * RB_ x180
 
-rbh2aud: 2800/3026 (92.53%)
+rbh2aud: 2841/3026 (93.89%)
 * IG_ x9
-* RBH_ x1676
+* RBH_ x1683
 * RBH2_ x11
-* RBH2A_ x1104
+* RBH2A_ x1138
 
-rbs1aud: 1157/1217 (95.07%)
+rbs1aud: 1176/1217 (96.63%)
 * RBHS_ x224
-* RBS1_ x933
+* RBS1_ x952
 
 re_acau: 73/73 (100.00%)
 * RE_ x73
@@ -9182,8 +9203,8 @@ rear3au: 108/108 (100.00%)
 rear5au: 110/110 (100.00%)
 * REAR5_ x110
 
-rearrau: 197/238 (82.77%)
-* REARR_ x197
+rearrau: 221/238 (92.86%)
+* REARR_ x221
 
 reborau: 118/118 (100.00%)
 * REBOR_ x118
@@ -9228,8 +9249,8 @@ redr1au: 418/418 (100.00%)
 redr2au: 308/308 (100.00%)
 * REDR2_ x308
 
-regetau: 331/337 (98.22%)
-* REAWA_ x331
+regetau: 337/337 (100.00%)
+* REAWA_ x337
 
 regiau: 104/109 (95.41%)
 * REGIN_ x104
@@ -9353,8 +9374,8 @@ sas1: 9/9 (100.00%)
 sas1aud: 307/307 (100.00%)
 * SAS1_ x307
 
-scaud: 1126/1195 (94.23%)
-* SC_ x1126
+scaud: 1132/1195 (94.73%)
+* SC_ x1132
 
 scrapau: 363/370 (98.11%)
 * SCRAP_ x363
@@ -9382,9 +9403,9 @@ snk_mnu: 27/27 (100.00%)
 sol1: 22/22 (100.00%)
 * SOL1_ x22
 
-sol1aud: 1363/1382 (98.63%)
+sol1aud: 1382/1382 (100.00%)
 * SOL_ x7
-* SOL1_ x1342
+* SOL1_ x1361
 * SOL2_ x14
 
 sol2: 6/6 (100.00%)
@@ -9410,9 +9431,9 @@ sol2aud: 222/222 (100.00%)
 * STOPROCCOLF x1
 * STOPROCCOSL x1
 
-sol5: 29/32 (90.63%)
+sol5: 30/32 (93.75%)
 * MIC4_ x7
-* SOL5_ x22
+* SOL5_ x23
 
 sol5aud: 878/889 (98.76%)
 * SOL_ x19
@@ -9528,8 +9549,8 @@ switch: 0/3 (0.00%)
 
 swtut: empty
 
-t1m1aud: 1341/1432 (93.65%)
-* T1M1_ x1341
+t1m1aud: 1378/1432 (96.23%)
+* T1M1_ x1378
 
 t1m4aud: 423/434 (97.47%)
 * SOL_ x133
@@ -9537,9 +9558,9 @@ t1m4aud: 423/434 (97.47%)
 * T1M4_ x132
 * TRV4_ x26
 
-t2aud: 1485/1626 (91.33%)
+t2aud: 1503/1626 (92.44%)
 * TR_ x529
-* TR2_ x956
+* TR2_ x974
 
 tat_mnu: 222/224 (99.11%)
 * TAT_ x222
@@ -9553,8 +9574,8 @@ taxi: 61/64 (95.31%)
 taxisau: 84/84 (100.00%)
 * TX_ x84
 
-tcrash: 49/50 (98.00%)
-* TC_ x49
+tcrash: 50/50 (100.00%)
+* TC_ x50
 
 tennis: 131/134 (97.76%)
 * 2ND_ x1
@@ -12320,8 +12341,8 @@ trackid: 2682/2682 (100.00%)
 * 4172A x1
 * 4172S x1
 
-trev1: 51/56 (91.07%)
-* TRV_ x51
+trev1: 54/56 (96.43%)
+* TRV_ x54
 
 trev3: 25/25 (100.00%)
 * TRV3_ x25
@@ -12956,8 +12977,8 @@ global: 637/638 (99.84%)
 
 
 ========== mpbattle ==========
-batfmau: 4187/4609 (90.84%)
-* BATFM_ x4187
+batfmau: 4232/4609 (91.82%)
+* BATFM_ x4232
 
 btcutau: 1058/1058 (100.00%)
 * BMAD_ x75
@@ -13023,8 +13044,8 @@ global: 1452/1491 (97.38%)
 * WTT_ x1
 * WTU_ x1
 
-lazfmau: 1794/1966 (91.25%)
-* LAZFM_ x1794
+lazfmau: 1799/1966 (91.51%)
+* LAZFM_ x1799
 
 paifmau: 950/965 (98.45%)
 * PAIFM_ x950
@@ -13235,20 +13256,20 @@ iaamoau: 480/480 (100.00%)
 iaasfau: 324/338 (95.86%)
 * IAASF_ x324
 
-silbcau: 333/351 (94.87%)
-* SILBC_ x333
+silbcau: 351/351 (100.00%)
+* SILBC_ x351
 
-silfiau: 882/887 (99.44%)
-* SILFI_ x882
+silfiau: 887/887 (100.00%)
+* SILFI_ x887
 
-silprau: 468/497 (94.16%)
-* SILPR_ x468
+silprau: 478/497 (96.18%)
+* SILPR_ x478
 
 silspau: 226/226 (100.00%)
 * SILSP_ x226
 
-siltaau: 226/231 (97.84%)
-* SILTA_ x226
+siltaau: 231/231 (100.00%)
+* SILTA_ x231
 
 subbmau: 243/243 (100.00%)
 * SUBBM_ x243
@@ -13269,8 +13290,8 @@ subosau: 268/268 (100.00%)
 subriau: 335/335 (100.00%)
 * SUBRI_ x335
 
-xmfmaud: 1755/1812 (96.85%)
-* XMFM_ x1755
+xmfmaud: 1767/1812 (97.52%)
+* XMFM_ x1767
 
 
 ========== mpchristmas2018 ==========
@@ -13419,8 +13440,8 @@ excpaau: 533/533 (100.00%)
 exhelau: 191/191 (100.00%)
 * EXHEL_ x191
 
-expowau: 860/875 (98.29%)
-* EXPOW_ x860
+expowau: 875/875 (100.00%)
+* EXPOW_ x875
 
 global: 814/835 (97.49%)
 * 811_ x3
@@ -13748,8 +13769,8 @@ mpawd: empty
 
 mpbscau: 0/232 (0.00%)
 
-mpbseau: 192/198 (96.97%)
-* MPBSE_ x192
+mpbseau: 198/198 (100.00%)
+* MPBSE_ x198
 
 mpbsfau: 368/368 (100.00%)
 * MPBSF_ x368
@@ -13772,8 +13793,8 @@ nacau: 318/318 (100.00%)
 nacoau: 86/91 (94.51%)
 * NACO_ x86
 
-nafinau: 419/424 (98.82%)
-* NAFIN_ x419
+nafinau: 424/424 (100.00%)
+* NAFIN_ x424
 
 nsmau: 101/120 (84.17%)
 * NSM_ x101
@@ -13796,8 +13817,8 @@ obhcoau: 65/91 (71.43%)
 obhcuau: 219/317 (69.09%)
 * OBHCU_ x219
 
-obhfau: 685/1344 (50.97%)
-* OBHF_ x518
+obhfau: 740/1344 (55.06%)
+* OBHF_ x573
 * OBHF1_ x2
 * OBHF1IF x1
 * OBHF1LF x1
@@ -13886,8 +13907,8 @@ obhp3au: 195/243 (80.25%)
 obhptau: 149/167 (89.22%)
 * OBHPT_ x149
 
-obhshau: 84/128 (65.63%)
-* OBHSH_ x84
+obhshau: 105/128 (82.03%)
+* OBHSH_ x105
 
 pbbau: 112/112 (100.00%)
 * PBB1_ x5
@@ -13932,14 +13953,14 @@ pbbau: 112/112 (100.00%)
 * PBB11LF x1
 * PBB11SL x1
 
-pbfau: 553/565 (97.88%)
-* PBF_ x553
+pbfau: 560/565 (99.12%)
+* PBF_ x560
 
 pbpau: 241/252 (95.63%)
 * PBP_ x241
 
-pbstau: 217/259 (83.78%)
-* PBST_ x217
+pbstau: 225/259 (86.87%)
+* PBST_ x225
 
 pbuau: 188/211 (89.10%)
 * PBU_ x188
@@ -14022,9 +14043,9 @@ global: 2405/2462 (97.68%)
 * ZHAB_ x48
 * ZHABA x1
 
-hs3ceau: 278/289 (96.19%)
+hs3ceau: 289/289 (100.00%)
 * HS3_ x83
-* HS3CE_ x195
+* HS3CE_ x206
 
 hs3cwau: 615/615 (100.00%)
 * HS3CW_ x615
@@ -14136,8 +14157,8 @@ hs4fiau: 115/115 (100.00%)
 hs4moau: 154/154 (100.00%)
 * HS4MO_ x154
 
-hs4paau: 4346/4466 (97.31%)
-* HS4PA_ x4346
+hs4paau: 4370/4466 (97.85%)
+* HS4PA_ x4370
 
 hs4paud: 3202/3304 (96.91%)
 * HS4P_ x3202
@@ -14681,8 +14702,8 @@ global: 1565/1681 (93.10%)
 * WT_ x25
 * WTD_ x18
 
-smgcaud: 1408/1461 (96.37%)
-* SMGC_ x1408
+smgcaud: 1434/1461 (98.15%)
+* SMGC_ x1434
 
 smgfzau: 31/31 (100.00%)
 * SMGFZ_ x31
@@ -14864,8 +14885,8 @@ global: 2967/3021 (98.21%)
 
 tnaraud: 0/245 (0.00%)
 
-tncsbau: 740/872 (84.86%)
-* TNSCB_ x740
+tncsbau: 761/872 (87.27%)
+* TNSCB_ x761
 
 tncutau: 507/507 (100.00%)
 * TNCUT_ x507
@@ -14881,17 +14902,17 @@ tnfboau: 280/280 (100.00%)
 tnfflau: 226/253 (89.33%)
 * TNFFL_ x226
 
-tnfftau: 312/319 (97.81%)
-* TNFFT_ x312
+tnfftau: 319/319 (100.00%)
+* TNFFT_ x319
 
-tnfiaau: 248/268 (92.54%)
-* TNFIA_ x248
+tnfiaau: 253/268 (94.40%)
+* TNFIA_ x253
 
-tnfmcau: 295/313 (94.25%)
-* TNFMC_ x295
+tnfmcau: 303/313 (96.81%)
+* TNFMC_ x303
 
-tnfmhau: 314/344 (91.28%)
-* TNFMH_ x314
+tnfmhau: 344/344 (100.00%)
+* TNFMH_ x344
 
 tnfudau: 326/326 (100.00%)
 * TNFUD_ x326
