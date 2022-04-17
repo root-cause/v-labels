@@ -2,16 +2,16 @@
 abgail2: 2/2 (100.00%)
 * ABGAIL2_ x2
 
-acultau: 226/281 (80.43%)
-* ACULT_ x226
+acultau: 281/281 (100.00%)
+* ACULT_ x281
 
 afterm: empty
 
 ah3b: 70/70 (100.00%)
 * A3B_ x70
 
-ah3baud: 2908/3037 (95.75%)
-* AH_ x2704
+ah3baud: 2984/3037 (98.25%)
+* AH_ x2780
 * AH3B_ x204
 
 ahfaud: 218/307 (71.01%)
@@ -174,8 +174,8 @@ anaud: 546/558 (97.85%)
 animlau: 7803/7803 (100.00%)
 * ANIML_ x7803
 
-ar2aud: 1335/1539 (86.74%)
-* AR2_ x842
+ar2aud: 1362/1539 (88.50%)
+* AR2_ x869
 * ARM2_ x343
 * DRIVE_ x7
 * DRIVEAPP1_ x13
@@ -247,8 +247,8 @@ arm3aud: 838/872 (96.10%)
 arm_mp: 40/40 (100.00%)
 * ARMMP_ x40
 
-armsaud: 1588/1609 (98.69%)
-* ARMS_ x1499
+armsaud: 1593/1609 (99.01%)
+* ARMS_ x1504
 * OSCAR_ x89
 
 armyaud: 30/30 (100.00%)
@@ -260,8 +260,8 @@ arthoau: 256/256 (100.00%)
 asflaud: 61/61 (100.00%)
 * ASFL_ x61
 
-ass_bs: 33/37 (89.19%)
-* ASS_ x33
+ass_bs: 35/37 (94.59%)
+* ASS_ x35
 
 ass_cs: 28/28 (100.00%)
 * ASS_ x28
@@ -470,8 +470,8 @@ bpress: empty
 
 brokedn: empty
 
-bs2baud: 2929/3212 (91.19%)
-* BS2B_ x2929
+bs2baud: 3052/3212 (95.02%)
+* BS2B_ x3052
 
 bspraau: 275/275 (100.00%)
 * PRA_ x275
@@ -498,8 +498,8 @@ bsprep: 25/25 (100.00%)
 * WAITENGINEF x1
 * WAITENGINET x1
 
-bsprp: 208/220 (94.55%)
-* BSPRP_ x208
+bsprp: 214/220 (97.27%)
+* BSPRP_ x214
 
 bustoau: 325/325 (100.00%)
 * BUSTO_ x325
@@ -566,8 +566,8 @@ chatcau: 1348/1348 (100.00%)
 chflaud: 37/37 (100.00%)
 * CHFL_ x37
 
-chheist: 105/106 (99.06%)
-* CH_ x102
+chheist: 106/106 (100.00%)
+* CH_ x103
 * CHFAILED x1
 * CHPASSED x1
 * CHRETURN x1
@@ -715,8 +715,8 @@ clo_mnu: 896/899 (99.67%)
 * HAIR_ x1
 * WARD_ x4
 
-clothau: 217/297 (73.06%)
-* CLOTH_ x217
+clothau: 223/297 (75.08%)
+* CLOTH_ x223
 
 cntry1: 74/76 (97.37%)
 * CNTRY_ x74
@@ -3210,20 +3210,20 @@ cst7aud: 1116/1136 (98.24%)
 
 cstlcut: empty
 
-ct_aud: 2875/3224 (89.17%)
-* MPCT_ x2875
+ct_aud: 3021/3224 (93.70%)
+* MPCT_ x3021
 
 cultres: empty
 
-d1aud: 1359/1435 (94.70%)
-* DS1_ x1359
+d1aud: 1377/1435 (95.96%)
+* DS1_ x1377
 
 d2aaud: 1364/1364 (100.00%)
 * DH2A_ x1190
 * DS2A_ x174
 
-d2baud: 914/1062 (86.06%)
-* DS2A_ x894
+d2baud: 921/1062 (86.72%)
+* DS2A_ x901
 * DS2B_ x20
 
 darts: 86/87 (98.85%)
@@ -3311,8 +3311,8 @@ dockh1: 91/102 (89.22%)
 * PHOTO_ x10
 * TXT_ x3
 
-dockh2b: 73/84 (86.90%)
-* DS2_ x72
+dockh2b: 77/84 (91.67%)
+* DS2_ x76
 * DS2A_ x1
 
 dockp1: 26/27 (96.30%)
@@ -3425,8 +3425,8 @@ epsdaud: 156/156 (100.00%)
 * EP7_ x59
 * EPSD_ x97
 
-epswaud: 137/142 (96.48%)
-* EPSW_ x137
+epswaud: 142/142 (100.00%)
+* EPSW_ x142
 
 escpap: empty
 
@@ -3448,8 +3448,8 @@ ext1au: 714/714 (100.00%)
 ext2: 25/25 (100.00%)
 * EXT2_ x25
 
-ext2au: 269/279 (96.42%)
-* EXT2_ x269
+ext2au: 279/279 (100.00%)
+* EXT2_ x279
 
 ext3: 11/11 (100.00%)
 * EXT3_ x11
@@ -3461,8 +3461,8 @@ ext3aud: 181/181 (100.00%)
 ext4: 4/4 (100.00%)
 * EXT4_ x4
 
-ext4aud: 131/136 (96.32%)
-* EXT4_ x131
+ext4aud: 136/136 (100.00%)
+* EXT4_ x136
 
 fafjau: 259/259 (100.00%)
 * FAFJ_ x259
@@ -3488,13 +3488,13 @@ fam3: 20/20 (100.00%)
 fam3aud: 1183/1195 (99.00%)
 * FAM3_ x1183
 
-fam4aud: 1181/1216 (97.12%)
-* FAM4_ x1147
+fam4aud: 1204/1216 (99.01%)
+* FAM4_ x1170
 * LAZLO_ x20
 * WALK_ x14
 
-fam5: 11/12 (91.67%)
-* FAM5_ x11
+fam5: 12/12 (100.00%)
+* FAM5_ x12
 
 fam5aud: 1146/1324 (86.56%)
 * FAM5_ x1146
@@ -3505,8 +3505,8 @@ fam6: 22/22 (100.00%)
 fam6aud: 1498/1558 (96.15%)
 * FAM6_ x1498
 
-famaau: 213/219 (97.26%)
-* FAMA_ x213
+famaau: 219/219 (100.00%)
+* FAMA_ x219
 
 famfau: 409/409 (100.00%)
 * FAMF_ x409
@@ -3514,8 +3514,8 @@ famfau: 409/409 (100.00%)
 family1: 32/32 (100.00%)
 * YB_ x32
 
-family2: 68/74 (91.89%)
-* FM2_ x68
+family2: 69/74 (93.24%)
+* FM2_ x69
 
 family4: 35/36 (97.22%)
 * FAMILY4_ x35
@@ -3560,8 +3560,8 @@ fatmau: 469/469 (100.00%)
 fb3aaud: 187/187 (100.00%)
 * F3A_ x187
 
-fb3aud: 1914/2003 (95.56%)
-* F3_ x1914
+fb3aud: 1937/2003 (96.70%)
+* F3_ x1937
 
 fbch: empty
 
@@ -3592,18 +3592,18 @@ fbi1aud: 697/849 (82.10%)
 * MIK_ x13
 * MR_ x10
 
-fbi2aud: 1247/1273 (97.96%)
+fbi2aud: 1255/1273 (98.59%)
 * FBI_ x5
-* FBI2_ x1242
+* FBI2_ x1250
 
 fbi3: 40/40 (100.00%)
 * F_ x17
 * HLP_ x16
 * TFT_ x7
 
-fbi5aau: 1944/2044 (95.11%)
+fbi5aau: 1985/2044 (97.11%)
 * FBI5_ x230
-* FBI5A_ x1618
+* FBI5A_ x1659
 * FBI5B_ x49
 * FBIA5A_ x42
 * FIA5A_ x5
@@ -3631,8 +3631,8 @@ fbiprd: 12/12 (100.00%)
 fbipre: 13/13 (100.00%)
 * PRE_ x13
 
-fbis4au: 1882/2134 (88.19%)
-* AH3A_ x1866
+fbis4au: 2046/2134 (95.88%)
+* AH3A_ x2030
 * SECUR_ x16
 
 fbs1aud: 593/593 (100.00%)
@@ -3674,11 +3674,11 @@ fctjau: 673/673 (100.00%)
 fctlau: 756/756 (100.00%)
 * FCTL_ x756
 
-fh1aud: 1060/1127 (94.06%)
-* FH1_ x1060
+fh1aud: 1079/1127 (95.74%)
+* FH1_ x1079
 
-fh3aaud: 2493/2561 (97.34%)
-* FH3A_ x2493
+fh3aaud: 2556/2561 (99.80%)
+* FH3A_ x2556
 
 fhfaud: 466/487 (95.69%)
 * FHF_ x194
@@ -3827,8 +3827,8 @@ fin2aud: 336/351 (95.73%)
 final3a: 77/78 (98.72%)
 * F3A_ x77
 
-final3b: 53/55 (96.36%)
-* F3B_ x53
+final3b: 54/55 (98.18%)
+* F3B_ x54
 
 finale1: 8/9 (88.89%)
 * FIN1_ x8
@@ -3840,10 +3840,10 @@ finc: 90/91 (98.90%)
 * FC1_ x22
 * FC2_ x68
 
-finc1au: 2067/2226 (92.86%)
+finc1au: 2073/2226 (93.13%)
 * FIN_ x173
 * FINC_ x201
-* FINC1_ x1628
+* FINC1_ x1634
 * FINC2_ x65
 
 fincuau: 113/113 (100.00%)
@@ -3872,15 +3872,15 @@ fkn1aud: 1499/1514 (99.01%)
 
 flwstrt: empty
 
-fm_1au: 1100/1777 (61.90%)
-* FM_ x1087
+fm_1au: 1116/1777 (62.80%)
+* FM_ x1103
 * FMA_ x13
 
 fmambau: 155/191 (81.15%)
 * FMA_ x155
 
-fmfaud: 307/398 (77.14%)
-* DEN_ x95
+fmfaud: 315/398 (79.15%)
+* DEN_ x103
 * FMF_ x212
 
 fmflaud: 213/213 (100.00%)
@@ -3899,11 +3899,11 @@ fmint: 16/16 (100.00%)
 * LEV_ x1
 * LOSE_ x1
 
-fmmaud: 2223/2256 (98.54%)
+fmmaud: 2228/2256 (98.76%)
 * AM_ x238
 * AMR_ x138
 * FAMR_ x97
-* FMM_ x1042
+* FMM_ x1047
 * FMM7_ x225
 * GAR_ x29
 * JIM_ x71
@@ -4051,9 +4051,9 @@ fmmc: 7578/8714 (86.96%)
 
 fmram: empty
 
-fmtaud: 671/676 (99.26%)
+fmtaud: 676/676 (100.00%)
 * FL_ x92
-* FMT_ x312
+* FMT_ x317
 * MIC_ x50
 * PAT_ x43
 * RON_ x58
@@ -4081,8 +4081,8 @@ fos2aud: 488/488 (100.00%)
 fpfjau: 125/125 (100.00%)
 * FPFJ_ x125
 
-fpflau: 179/187 (95.72%)
-* FPFL_ x179
+fpflau: 187/187 (100.00%)
+* FPFL_ x187
 
 fpfmau: 133/133 (100.00%)
 * FPFM_ x133
@@ -7519,12 +7519,12 @@ global: 51422/56582 (90.88%)
 * ZTYPE x1
 * ZTYPE_ x1
 
-gun_mnu: 92/99 (92.93%)
+gun_mnu: 93/99 (93.94%)
 * CMOD_ x1
 * GS_ x40
 * GSA_ x12
 * GSHOP_ x3
-* GSM_ x30
+* GSM_ x31
 * WEAP_ x6
 
 guncar: empty
@@ -7532,8 +7532,8 @@ guncar: empty
 gunshau: 460/460 (100.00%)
 * GUNSH_ x460
 
-h1heist: 19/27 (70.37%)
-* H_ x10
+h1heist: 20/27 (74.07%)
+* H_ x11
 * H1_ x7
 * OXYGEN x1
 * RETURNTRUCK x1
@@ -7608,8 +7608,8 @@ h3set1: 36/36 (100.00%)
 h4heist: 43/54 (79.63%)
 * CH_ x43
 
-h5heist: 48/60 (80.00%)
-* DCKH_ x48
+h5heist: 49/60 (81.67%)
+* DCKH_ x49
 
 hack: 132/160 (82.50%)
 * ACCESSD x1
@@ -7723,9 +7723,9 @@ hunt1: 14/14 (100.00%)
 * HH_ x4
 * HT_ x10
 
-hunt1au: 516/530 (97.36%)
+hunt1au: 525/530 (99.06%)
 * HUNT_ x94
-* HUNT1_ x422
+* HUNT1_ x431
 
 hunt2: 35/35 (100.00%)
 * HH_ x4
@@ -7739,8 +7739,8 @@ jackaud: 435/435 (100.00%)
 jh1trig: 1/1 (100.00%)
 * JH1_ x1
 
-jhaud: 2372/2813 (84.32%)
-* JH_ x2372
+jhaud: 2513/2813 (89.34%)
+* JH_ x2513
 
 jhfaud: 269/274 (98.18%)
 * JHF_ x151
@@ -7853,8 +7853,8 @@ josh3au: 200/200 (100.00%)
 josh4: 1/1 (100.00%)
 * JOSH4_ x1
 
-josh4au: 130/156 (83.33%)
-* JOSH_ x7
+josh4au: 135/156 (86.54%)
+* JOSH_ x12
 * JOSH4_ x44
 * JOSH4BEGS_ x3
 * JOSH4BEGSA x1
@@ -7953,10 +7953,10 @@ loctest: empty
 lonerau: 290/290 (100.00%)
 * LONER_ x290
 
-ls1aaud: 952/1024 (92.97%)
+ls1aaud: 972/1024 (94.92%)
 * LES_ x182
 * LES1A_ x336
-* LS1A_ x221
+* LS1A_ x241
 * LS1B_ x213
 
 lsflaud: 72/72 (100.00%)
@@ -8224,8 +8224,8 @@ mch1: 38/38 (100.00%)
 mch1aud: 937/937 (100.00%)
 * MCH1_ x937
 
-mch2: 20/31 (64.52%)
-* MCH2_ x20
+mch2: 21/31 (67.74%)
+* MCH2_ x21
 
 mch2aud: 1119/1137 (98.42%)
 * MCH2_ x952
@@ -8341,8 +8341,8 @@ miflaud: 144/144 (100.00%)
 min1: 21/21 (100.00%)
 * MIN1_ x21
 
-min1aud: 675/680 (99.26%)
-* MIN1_ x675
+min1aud: 680/680 (100.00%)
+* MIN1_ x680
 
 min2: 24/24 (100.00%)
 * MIN2_ x24
@@ -8664,8 +8664,8 @@ mpawd: 476/476 (100.00%)
 * AWS_ x167
 * AWT_ x152
 
-mpdlcau: 184/284 (64.79%)
-* MPDLC_ x184
+mpdlcau: 204/284 (71.83%)
+* MPDLC_ x204
 
 mpgcsau: 0/321 (0.00%)
 
@@ -8691,8 +8691,8 @@ nhous1a: empty
 
 nhous1b: empty
 
-nig1aau: 443/580 (76.38%)
-* NIG1A_ x443
+nig1aau: 450/580 (77.59%)
+* NIG1A_ x450
 
 nig1bau: 419/419 (100.00%)
 * NIG1B_ x419
@@ -9077,11 +9077,11 @@ pri2au: 57/57 (100.00%)
 prinaud: 656/656 (100.00%)
 * PRIN_ x656
 
-proaud: 886/1017 (87.12%)
-* PRO_ x886
+proaud: 897/1017 (88.20%)
+* PRO_ x897
 
-prolog: 95/104 (91.35%)
-* PRO_ x47
+prolog: 96/104 (92.31%)
+* PRO_ x48
 * PROHLP_ x48
 
 propaud: 72/72 (100.00%)
@@ -9090,7 +9090,7 @@ propaud: 72/72 (100.00%)
 propr: 35/35 (100.00%)
 * PROPR_ x35
 
-prsaud: 1669/1850 (90.22%)
+prsaud: 1821/1850 (98.43%)
 * FRAS_ x200
 * FRAS2_ x38
 * MICS_ x32
@@ -9098,18 +9098,18 @@ prsaud: 1669/1850 (90.22%)
 * MICS2_ x17
 * MICS3_ x253
 * PSF_ x147
-* PSM_ x265
+* PSM_ x270
 * PSM2_ x7
 * PSM7_ x7
-* PST_ x312
+* PST_ x459
 * TRVS_ x271
 
 prtanau: 0/57 (0.00%)
 
-pschool: 140/155 (90.32%)
+pschool: 141/155 (90.97%)
 * PFLYLOW_ x4
 * PLANDING_ x4
-* PS_ x74
+* PS_ x75
 * PSBARREL_ x1
 * PSCHUTE_ x6
 * PSER_ x7
@@ -9151,14 +9151,14 @@ rangeau: 741/741 (100.00%)
 raspaud: 32/32 (100.00%)
 * SHRJ_ x32
 
-rb_12au: 10/180 (5.56%)
-* RB_ x10
+rb_12au: 180/180 (100.00%)
+* RB_ x180
 
-rbh2aud: 2593/3026 (85.69%)
+rbh2aud: 2800/3026 (92.53%)
 * IG_ x9
-* RBH_ x1518
+* RBH_ x1676
 * RBH2_ x11
-* RBH2A_ x1055
+* RBH2A_ x1104
 
 rbs1aud: 1157/1217 (95.07%)
 * RBHS_ x224
@@ -9291,8 +9291,8 @@ rerobau: 93/93 (100.00%)
 resecau: 131/141 (92.91%)
 * RESEC_ x131
 
-resnaau: 499/504 (99.01%)
-* RESNA_ x499
+resnaau: 504/504 (100.00%)
+* RESNA_ x504
 
 reye_au: 36/36 (100.00%)
 * RE_ x36
@@ -9410,9 +9410,9 @@ sol2aud: 222/222 (100.00%)
 * STOPROCCOLF x1
 * STOPROCCOSL x1
 
-sol5: 27/32 (84.38%)
+sol5: 29/32 (90.63%)
 * MIC4_ x7
-* SOL5_ x20
+* SOL5_ x22
 
 sol5aud: 878/889 (98.76%)
 * SOL_ x19
@@ -9528,8 +9528,8 @@ switch: 0/3 (0.00%)
 
 swtut: empty
 
-t1m1aud: 1329/1432 (92.81%)
-* T1M1_ x1329
+t1m1aud: 1341/1432 (93.65%)
+* T1M1_ x1341
 
 t1m4aud: 423/434 (97.47%)
 * SOL_ x133
@@ -9537,12 +9537,12 @@ t1m4aud: 423/434 (97.47%)
 * T1M4_ x132
 * TRV4_ x26
 
-t2aud: 1441/1626 (88.62%)
+t2aud: 1485/1626 (91.33%)
 * TR_ x529
-* TR2_ x912
+* TR2_ x956
 
-tat_mnu: 220/224 (98.21%)
-* TAT_ x220
+tat_mnu: 222/224 (99.11%)
+* TAT_ x222
 
 tattoau: 0/42 (0.00%)
 
@@ -9620,8 +9620,8 @@ tennis: 131/134 (97.76%)
 * XPT_ x1
 * YES_ x1
 
-tm44aud: 1125/1152 (97.66%)
-* TM44_ x1125
+tm44aud: 1136/1152 (98.61%)
+* TM44_ x1136
 
 tmomaud: 167/167 (100.00%)
 * TMOM_ x167
@@ -9632,8 +9632,8 @@ tow: 78/79 (98.73%)
 * TOW_ x51
 * TOWT_ x27
 
-towaud: 2370/2562 (92.51%)
-* TONYA_ x740
+towaud: 2386/2562 (93.13%)
+* TONYA_ x756
 * TOW_ x1630
 
 trackid: 2682/2682 (100.00%)
@@ -12330,8 +12330,8 @@ trev4: 26/26 (100.00%)
 * SOL3_ x1
 * TRV4_ x25
 
-trv3aud: 1285/1330 (96.62%)
-* TRV3_ x1285
+trv3aud: 1296/1330 (97.44%)
+* TRV3_ x1296
 
 trv5: 4/4 (100.00%)
 * TRV5_ x4
@@ -12346,8 +12346,8 @@ trvramp: 22/22 (100.00%)
 * RPASSED x1
 * TR_ x15
 
-txm10au: 373/380 (98.16%)
-* TXM10_ x373
+txm10au: 380/380 (100.00%)
+* TXM10_ x380
 
 txm12au: 315/320 (98.44%)
 * TXM12_ x315
@@ -12403,8 +12403,8 @@ dir_mnu: 495/653 (75.80%)
 * DMPP_ x35
 * SETTMNU x1
 
-ggsm: 23/47 (48.94%)
-* GGSM_ x23
+ggsm: 26/47 (55.32%)
+* GGSM_ x26
 
 iap: 53/58 (91.38%)
 * IAP_ x53
@@ -12956,8 +12956,8 @@ global: 637/638 (99.84%)
 
 
 ========== mpbattle ==========
-batfmau: 3655/4609 (79.30%)
-* BATFM_ x3655
+batfmau: 4184/4609 (90.78%)
+* BATFM_ x4184
 
 btcutau: 1058/1058 (100.00%)
 * BMAD_ x75
@@ -13023,11 +13023,11 @@ global: 1452/1491 (97.38%)
 * WTT_ x1
 * WTU_ x1
 
-lazfmau: 1435/1966 (72.99%)
-* LAZFM_ x1435
+lazfmau: 1794/1966 (91.25%)
+* LAZFM_ x1794
 
-paifmau: 935/965 (96.89%)
-* PAIFM_ x935
+paifmau: 950/965 (98.45%)
+* PAIFM_ x950
 
 
 ========== mpbiker ==========
@@ -13235,8 +13235,8 @@ iaamoau: 480/480 (100.00%)
 iaasfau: 324/338 (95.86%)
 * IAASF_ x324
 
-silbcau: 325/351 (92.59%)
-* SILBC_ x325
+silbcau: 333/351 (94.87%)
+* SILBC_ x333
 
 silfiau: 882/887 (99.44%)
 * SILFI_ x882
@@ -13250,8 +13250,8 @@ silspau: 226/226 (100.00%)
 siltaau: 226/231 (97.84%)
 * SILTA_ x226
 
-subbmau: 238/243 (97.94%)
-* SUBBM_ x238
+subbmau: 243/243 (100.00%)
+* SUBBM_ x243
 
 subcaau: 303/303 (100.00%)
 * SUBCA_ x303
@@ -13269,8 +13269,8 @@ subosau: 268/268 (100.00%)
 subriau: 335/335 (100.00%)
 * SUBRI_ x335
 
-xmfmaud: 1740/1812 (96.03%)
-* XMFM_ x1740
+xmfmaud: 1755/1812 (96.85%)
+* XMFM_ x1755
 
 
 ========== mpchristmas2018 ==========
@@ -13419,8 +13419,8 @@ excpaau: 533/533 (100.00%)
 exhelau: 191/191 (100.00%)
 * EXHEL_ x191
 
-expowau: 830/875 (94.86%)
-* EXPOW_ x830
+expowau: 860/875 (98.29%)
+* EXPOW_ x860
 
 global: 814/835 (97.49%)
 * 811_ x3
@@ -13517,8 +13517,8 @@ global: 2499/2516 (99.32%)
 * XA21 x1
 * XA21_ x68
 
-gnrcaud: 1214/1514 (80.18%)
-* GNRC_ x1214
+gnrcaud: 1514/1514 (100.00%)
+* GNRC_ x1514
 
 gnrweau: 36/36 (100.00%)
 * GNRWE_ x36
@@ -13748,8 +13748,8 @@ mpawd: empty
 
 mpbscau: 0/232 (0.00%)
 
-mpbseau: 187/198 (94.44%)
-* MPBSE_ x187
+mpbseau: 192/198 (96.97%)
+* MPBSE_ x192
 
 mpbsfau: 368/368 (100.00%)
 * MPBSF_ x368
@@ -13793,11 +13793,11 @@ obhb: 52/52 (100.00%)
 obhcoau: 65/91 (71.43%)
 * OBHCO_ x65
 
-obhcuau: 152/317 (47.95%)
-* OBHCU_ x152
+obhcuau: 219/317 (69.09%)
+* OBHCU_ x219
 
-obhfau: 637/1344 (47.40%)
-* OBHF_ x470
+obhfau: 685/1344 (50.97%)
+* OBHF_ x518
 * OBHF1_ x2
 * OBHF1IF x1
 * OBHF1LF x1
@@ -13880,11 +13880,11 @@ obhfau: 637/1344 (47.40%)
 * OBHF20LF x1
 * OBHF20SL x1
 
-obhp3au: 173/243 (71.19%)
-* OBHP3_ x173
+obhp3au: 195/243 (80.25%)
+* OBHP3_ x195
 
-obhptau: 128/167 (76.65%)
-* OBHPT_ x128
+obhptau: 149/167 (89.22%)
+* OBHPT_ x149
 
 obhshau: 84/128 (65.63%)
 * OBHSH_ x84
@@ -13938,14 +13938,14 @@ pbfau: 553/565 (97.88%)
 pbpau: 241/252 (95.63%)
 * PBP_ x241
 
-pbstau: 182/259 (70.27%)
-* PBST_ x182
+pbstau: 217/259 (83.78%)
+* PBST_ x217
 
-pbuau: 153/211 (72.51%)
-* PBU_ x153
+pbuau: 188/211 (89.10%)
+* PBU_ x188
 
-prcutau: 276/287 (96.17%)
-* PRCUT_ x276
+prcutau: 287/287 (100.00%)
+* PRCUT_ x287
 
 tucarau: 109/143 (76.22%)
 * TUCAR_ x109
@@ -13953,11 +13953,11 @@ tucarau: 109/143 (76.22%)
 tucsau: 171/178 (96.07%)
 * TUT_ x171
 
-tufin: 446/460 (96.96%)
-* TUFIN_ x446
+tufin: 455/460 (98.91%)
+* TUFIN_ x455
 
-tuscoau: 346/414 (83.57%)
-* TUSCO_ x346
+tuscoau: 414/414 (100.00%)
+* TUSCO_ x414
 
 
 ========== mpheist3 ==========
@@ -14032,9 +14032,9 @@ hs3cwau: 615/615 (100.00%)
 hs3faau: 697/697 (100.00%)
 * HS3FA_ x697
 
-hs3fiau: 4019/4206 (95.55%)
+hs3fiau: 4044/4206 (96.15%)
 * HS3_ x45
-* HS3F_ x3974
+* HS3F_ x3999
 
 hs3leau: 1612/1612 (100.00%)
 * HS3_ x395
@@ -14127,8 +14127,8 @@ hs4csau: 1232/1237 (99.60%)
 hs4edau: 268/268 (100.00%)
 * HS4ED_ x268
 
-hs4faud: 2738/2862 (95.67%)
-* HS4F_ x2738
+hs4faud: 2801/2862 (97.87%)
+* HS4F_ x2801
 
 hs4fiau: 115/115 (100.00%)
 * HS4FI_ x115
@@ -14136,11 +14136,11 @@ hs4fiau: 115/115 (100.00%)
 hs4moau: 154/154 (100.00%)
 * HS4MO_ x154
 
-hs4paau: 4333/4466 (97.02%)
-* HS4PA_ x4333
+hs4paau: 4346/4466 (97.31%)
+* HS4PA_ x4346
 
-hs4paud: 3150/3304 (95.34%)
-* HS4P_ x3150
+hs4paud: 3202/3304 (96.91%)
+* HS4P_ x3202
 
 hs4piau: 241/241 (100.00%)
 * HS4PI_ x241
@@ -14324,8 +14324,8 @@ lowfsau: 344/344 (100.00%)
 lowgeau: 28/28 (100.00%)
 * LOWGE_ x28
 
-lowpcau: 279/295 (94.58%)
-* LOWPC_ x279
+lowpcau: 295/295 (100.00%)
+* LOWPC_ x295
 
 lowreau: 207/207 (100.00%)
 * LOWRE_ x207
@@ -14557,11 +14557,11 @@ fxfaaud: 141/141 (100.00%)
 fxflaud: 1785/1785 (100.00%)
 * FXFL_ x1785
 
-fxfraud: 1844/1970 (93.60%)
-* FXFR_ x1844
+fxfraud: 1912/1970 (97.06%)
+* FXFR_ x1912
 
-fxigaud: 943/1243 (75.86%)
-* FXIG_ x943
+fxigaud: 1227/1243 (98.71%)
+* FXIG_ x1227
 
 fximaud: 580/580 (100.00%)
 * FXIM_ x580
@@ -14681,8 +14681,8 @@ global: 1565/1681 (93.10%)
 * WT_ x25
 * WTD_ x18
 
-smgcaud: 1378/1461 (94.32%)
-* SMGC_ x1378
+smgcaud: 1408/1461 (96.37%)
+* SMGC_ x1408
 
 smgfzau: 31/31 (100.00%)
 * SMGFZ_ x31
@@ -14864,8 +14864,8 @@ global: 2967/3021 (98.21%)
 
 tnaraud: 0/245 (0.00%)
 
-tncsbau: 584/872 (66.97%)
-* TNSCB_ x584
+tncsbau: 740/872 (84.86%)
+* TNSCB_ x740
 
 tncutau: 507/507 (100.00%)
 * TNCUT_ x507
@@ -14902,8 +14902,8 @@ tnheaud: 331/338 (97.93%)
 tnmmaud: 153/160 (95.63%)
 * TNMM_ x153
 
-tnrpaud: 2329/2430 (95.84%)
-* TNRP_ x2329
+tnrpaud: 2361/2430 (97.16%)
+* TNRP_ x2361
 
 tnssaud: 398/398 (100.00%)
 * TNSS_ x398
