@@ -14,7 +14,7 @@ ah3baud: 2984/3037 (98.25%)
 * AH_ x2780
 * AH3B_ x204
 
-ahfaud: 297/307 (96.74%)
+ahfaud: 302/307 (98.37%)
 * AH_ x14
 * AHBOTH_ x2
 * AHBOTHIF x1
@@ -88,6 +88,10 @@ ahfaud: 297/307 (96.74%)
 * AHRIC1IF x1
 * AHRIC1LF x1
 * AHRIC1SL x1
+* AHTAL1_ x2
+* AHTAL1IF x1
+* AHTAL1LF x1
+* AHTAL1SL x1
 
 ahprep1: 6/6 (100.00%)
 * AHP_ x6
@@ -8965,8 +8969,8 @@ nws_tre2: 8/8 (100.00%)
 nws_tre3: 6/6 (100.00%)
 * NWS_ x6
 
-ojasaud: 1434/1553 (92.34%)
-* OJAS_ x320
+ojasaud: 1553/1553 (100.00%)
+* OJAS_ x439
 * OJASBS_ x253
 * OJASCNT_ x108
 * OJASCS_ x214
@@ -13726,11 +13730,15 @@ global: 1223/1473 (83.03%)
 hecutau: 110/110 (100.00%)
 * HECUT_ x110
 
-lcau: 179/188 (95.21%)
+lcau: 188/188 (100.00%)
 * LC1_ x5
 * LC1IF x1
 * LC1LF x1
 * LC1SL x1
+* LC2_ x6
+* LC2IF x1
+* LC2LF x1
+* LC2SL x1
 * LC3_ x4
 * LC3IF x1
 * LC3LF x1
