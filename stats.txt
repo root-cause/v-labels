@@ -4189,7 +4189,7 @@ frmchse: 34/35 (97.14%)
 getawy: 58/58 (100.00%)
 * PRC_ x58
 
-global: 52832/56582 (93.37%)
+global: 52848/56582 (93.40%)
 * 95PEER_ x1
 * ABB_ x5
 * ABBATAVE x1
@@ -5245,19 +5245,24 @@ global: 52832/56582 (93.37%)
 * DUBSTA x1
 * DULUOZ x1
 * DUMMY x1
-* DUMMY_ x8
+* DUMMY_ x14
 * DUMMY1 x1
 * DUMMYAMBIENT x1
 * DUMMYBLIPS x1
 * DUMMYERROR x1
 * DUMMYFEED x1
+* DUMMYFINANCE x1
 * DUMMYFRONTEND x1
 * DUMMYHEIST x1
 * DUMMYMENU x1
 * DUMMYMINIGAMES x1
 * DUMMYMISSION x1
 * DUMMYNET x1
+* DUMMYNETAPART1 x1
 * DUMMYNETBIKER x1
+* DUMMYNETBSNES2 x1
+* DUMMYNETC7CLR x1
+* DUMMYNETC8CLR x1
 * DUMMYNETCR x1
 * DUMMYNETCTF x1
 * DUMMYNETEXEC x1
@@ -5268,6 +5273,7 @@ global: 52832/56582 (93.37%)
 * DUMMYNETFMEV x1
 * DUMMYNETGBOSS x1
 * DUMMYNETGUNRUN x1
+* DUMMYNETHALL x1
 * DUMMYNETHEISTS x1
 * DUMMYNETHIPSTER x1
 * DUMMYNETIDAY x1
@@ -5278,11 +5284,15 @@ global: 52832/56582 (93.37%)
 * DUMMYNETLTS x1
 * DUMMYNETLUXE x1
 * DUMMYNETPILOT x1
+* DUMMYNETSMCLR x1
+* DUMMYNETSPCLR x1
 * DUMMYNETSTUNT x1
 * DUMMYNETSURV x1
+* DUMMYNETTHANK x1
 * DUMMYNETTUNER x1
 * DUMMYNETVAL x1
 * DUMMYNETVINE x1
+* DUMMYNETX14 x1
 * DUMMYODDJOBS x1
 * DUMMYRC x1
 * DUMMYSHOPS x1
@@ -9233,7 +9243,8 @@ prsaud: 1821/1850 (98.43%)
 * PST_ x459
 * TRVS_ x271
 
-prtanau: 0/57 (0.00%)
+prtanau: 57/57 (100.00%)
+* PRT_ x57
 
 pschool: 141/155 (90.97%)
 * PFLYLOW_ x4
@@ -12776,7 +12787,7 @@ global: 321/322 (99.69%)
 fmltsau: 20/20 (100.00%)
 * FMLTS_ x20
 
-global: 548/549 (99.82%)
+global: 549/549 (100.00%)
 * ALPHA x1
 * BANSHEE_ x1
 * BESRA x1
@@ -12796,7 +12807,7 @@ global: 548/549 (99.82%)
 * DOMINATOR2 x1
 * DUBSTA3 x1
 * DUKES x1
-* DUMMY_ x2
+* DUMMY_ x3
 * DUMMYDLCNAMES x1
 * ELT_ x7
 * FURORE x1
@@ -12858,7 +12869,7 @@ dschool: 90/96 (93.75%)
 * PSLBT_ x10
 * PSM_ x4
 
-global: 488/489 (99.80%)
+global: 489/489 (100.00%)
 * ALPHA x1
 * BANSHEE_ x1
 * BENEFACTOR x1
@@ -12878,7 +12889,7 @@ global: 488/489 (99.80%)
 * DINGHY3 x1
 * DODO x1
 * DUBSTA3 x1
-* DUMMY_ x2
+* DUMMY_ x3
 * DUMMYDLCNAMES x1
 * DUNDREARY x1
 * ELT_ x7
@@ -12999,7 +13010,7 @@ apcalau: 77/77 (100.00%)
 apcutau: 230/230 (100.00%)
 * APA_ x230
 
-global: 348/349 (99.71%)
+global: 349/349 (100.00%)
 * BALLER3 x1
 * BALLER4 x1
 * BALLER5 x1
@@ -13011,7 +13022,7 @@ global: 348/349 (99.71%)
 * COG552 x1
 * COGNOSC x1
 * COGNOSC2 x1
-* DUMMY_ x2
+* DUMMY_ x3
 * DUMMYDLCNAMES x1
 * DUMMYWEBSITES x1
 * DYN_ x17
@@ -13102,7 +13113,7 @@ btcutau: 1058/1058 (100.00%)
 * SMUN_ x58
 * TALE_ x53
 
-global: 1489/1491 (99.87%)
+global: 1490/1491 (99.93%)
 * BLIMP3 x1
 * BLIMP3_ x36
 * CANDC_ x55
@@ -13110,7 +13121,7 @@ global: 1489/1491 (99.87%)
 * CLUB_ x61
 * COQ2_ x10
 * DRONE_ x20
-* DUMMY_ x2
+* DUMMY_ x3
 * DUMMYDLCNAMES x1
 * DUMMYWEBSITES x1
 * ELT_ x2
@@ -13175,7 +13186,7 @@ bpmalau: 625/625 (100.00%)
 * BPMAL_ x617
 * BPMLA_ x8
 
-global: 1737/1743 (99.66%)
+global: 1738/1743 (99.71%)
 * AUTOSHGN_ x1
 * AVAR_ x11
 * AVARUS x1
@@ -13194,7 +13205,7 @@ global: 1737/1743 (99.66%)
 * DEFIL_ x5
 * DEFILER x1
 * DESC_ x1
-* DUMMY_ x2
+* DUMMY_ x3
 * DUMMYDLCNAMES x1
 * DUMMYWEBSITES x1
 * ESS_ x27
@@ -13273,7 +13284,7 @@ global: 202/204 (99.02%)
 
 
 ========== mpchristmas2017 ==========
-global: 2231/2236 (99.78%)
+global: 2232/2236 (99.82%)
 * AKULA x1
 * AUTA_ x54
 * AUTARCH x1
@@ -13292,7 +13303,7 @@ global: 2231/2236 (99.78%)
 * COMET5_ x29
 * DELUXO x1
 * DELUXO_ x29
-* DUMMY_ x2
+* DUMMY_ x3
 * DUMMYDLCNAMES x1
 * DUMMYWEBSITES x1
 * DYN8_ x1
@@ -13422,7 +13433,7 @@ arasau: 2179/2179 (100.00%)
 arintau: 476/498 (95.58%)
 * ARINT_ x476
 
-global: 2430/2487 (97.71%)
+global: 2431/2487 (97.75%)
 * ACW_ x15
 * ARENA_ x1
 * ARENAVEH_ x21
@@ -13465,7 +13476,7 @@ global: 2430/2487 (97.71%)
 * DOMINATOR5 x1
 * DOMINATOR6 x1
 * DRONE_ x1
-* DUMMY_ x2
+* DUMMY_ x3
 * DUMMYDLCNAMES x1
 * DUMMYWEBSITES x1
 * DVANT_ x57
@@ -13562,7 +13573,7 @@ exhelau: 191/191 (100.00%)
 expowau: 875/875 (100.00%)
 * EXPOW_ x875
 
-global: 819/835 (98.08%)
+global: 820/835 (98.20%)
 * 811_ x3
 * BESTIAGTS x1
 * BOATS_ x1
@@ -13571,7 +13582,7 @@ global: 819/835 (98.08%)
 * CARGOBOB2 x1
 * CLO_ x608
 * DESC_ x1
-* DUMMY_ x2
+* DUMMY_ x3
 * DUMMYDLCNAMES x1
 * DUMMYWEBSITES x1
 * DYN8_ x54
@@ -13601,7 +13612,7 @@ global: 819/835 (98.08%)
 
 
 ========== mpgunrunning ==========
-global: 2501/2516 (99.40%)
+global: 2502/2516 (99.44%)
 * APC x1
 * APC_ x1
 * ARD_ x24
@@ -13614,7 +13625,7 @@ global: 2501/2516 (99.40%)
 * CHT2_ x47
 * CLO_ x1744
 * COVOPS_ x6
-* DUMMY_ x2
+* DUMMY_ x3
 * DUMMYDLCNAMES x1
 * DUMMYWEBSITES x1
 * DUNE3 x1
@@ -13712,7 +13723,7 @@ global: 166/166 (100.00%)
 
 
 ========== mpheist ==========
-global: 1471/1473 (99.86%)
+global: 1472/1473 (99.93%)
 * ALPHA x1
 * AMM_ x1
 * AWD_ x33
@@ -13736,7 +13747,7 @@ global: 1471/1473 (99.86%)
 * CSHOP_ x2
 * DINGHY3 x1
 * DUBSTA3 x1
-* DUMMY_ x2
+* DUMMY_ x3
 * DUMMYDLCNAMES x1
 * ELT_ x7
 * ENDURO x1
@@ -14108,7 +14119,7 @@ tuscoau: 414/414 (100.00%)
 
 
 ========== mpheist3 ==========
-global: 2459/2462 (99.88%)
+global: 2460/2462 (99.92%)
 * ABH_ x24
 * AMN_ x6
 * ASBO x1
@@ -14117,7 +14128,7 @@ global: 2459/2462 (99.88%)
 * CHB_ x62
 * CLO_ x1068
 * DRONE_ x1
-* DUMMY_ x2
+* DUMMY_ x3
 * DUMMYDLCNAMES x1
 * DUMMYWEBSITES x1
 * EVERO_ x74
@@ -14203,7 +14214,7 @@ hs3vnau: 58/58 (100.00%)
 
 
 ========== mpheist4 ==========
-global: 1654/1659 (99.70%)
+global: 1655/1659 (99.76%)
 * ALK_ x10
 * ALKONOST x1
 * ANNIH2_ x2
@@ -14217,7 +14228,7 @@ global: 1654/1659 (99.70%)
 * CC_ x9
 * CLO_ x814
 * DINGHY5 x1
-* DUMMY_ x2
+* DUMMY_ x3
 * DUMMYDLCNAMES x1
 * DUMMYWEBSITES x1
 * IHB_ x4
@@ -14299,7 +14310,7 @@ hs4psau: 874/945 (92.49%)
 
 
 ========== mpimportexport ==========
-global: 1588/1605 (98.94%)
+global: 1589/1605 (99.00%)
 * BLAZER5 x1
 * BOXVILLE5 x1
 * CANDC_ x9
@@ -14310,7 +14321,7 @@ global: 1588/1605 (98.94%)
 * DIAB2_ x91
 * DIABLOUS x1
 * DIABLOUS2 x1
-* DUMMY_ x2
+* DUMMY_ x3
 * DUMMYDLCNAMES x1
 * DUMMYWEBSITES x1
 * DUNE4 x1
@@ -14390,13 +14401,13 @@ imwasau: 142/152 (93.42%)
 besceau: 29/29 (100.00%)
 * BSESCE_ x29
 
-global: 242/243 (99.59%)
+global: 243/243 (100.00%)
 * BANSH2_ x23
 * BANSHEE2 x1
 * BTYPE3_ x3
 * CMM_ x18
 * CMOD_ x2
-* DUMMY_ x2
+* DUMMY_ x3
 * DUMMYDLCNAMES x1
 * DUMMYWEBSITES x1
 * LSC_ x6
@@ -14408,7 +14419,7 @@ global: 242/243 (99.59%)
 
 
 ========== mplowrider ==========
-global: 918/951 (96.53%)
+global: 919/951 (96.64%)
 * AT_ x24
 * BOBBLE_ x45
 * BUC2_ x10
@@ -14419,7 +14430,7 @@ global: 918/951 (96.53%)
 * CLO_ x314
 * CMOD_ x13
 * DESC_ x1
-* DUMMY_ x2
+* DUMMY_ x3
 * DUMMYDLCNAMES x1
 * DUMMYWEBSITES x1
 * FAC2_ x9
@@ -14722,7 +14733,7 @@ fximaud: 580/580 (100.00%)
 fxlmaud: 21/21 (100.00%)
 * FXLM_ x21
 
-global: 2119/2125 (99.72%)
+global: 2120/2125 (99.76%)
 * ASTRN_ x86
 * ASTRON x1
 * AT_ x1
@@ -14740,7 +14751,7 @@ global: 2119/2125 (99.72%)
 * COMET7_ x15
 * DEITY x1
 * DEITY_ x104
-* DUMMY_ x2
+* DUMMY_ x3
 * DUMMYDLCNAMES x1
 * DUMMYWEBSITES x1
 * DYN8_ x36
@@ -14779,7 +14790,7 @@ global: 2119/2125 (99.72%)
 
 
 ========== mpsmuggler ==========
-global: 1678/1681 (99.82%)
+global: 1679/1681 (99.88%)
 * AB_ x1
 * ALPHAZ1 x1
 * ALPHAZ1_ x8
@@ -14790,7 +14801,7 @@ global: 1678/1681 (99.82%)
 * CMOD_ x3
 * CYC_ x24
 * CYCLONE x1
-* DUMMY_ x2
+* DUMMY_ x3
 * DUMMYDLCNAMES x1
 * DUMMYWEBSITES x1
 * ELT_ x5
@@ -14916,7 +14927,7 @@ global: 649/650 (99.85%)
 ccycaud: 557/592 (94.09%)
 * CCYC_ x557
 
-global: 2029/2035 (99.71%)
+global: 2030/2035 (99.75%)
 * CLO_ x724
 * CLUB x1
 * CLUB_ x66
@@ -14924,7 +14935,7 @@ global: 2029/2035 (99.71%)
 * COQUETTE4 x1
 * DUK3_ x73
 * DUKES3 x1
-* DUMMY_ x2
+* DUMMY_ x3
 * DUMMYDLCNAMES x1
 * DUMMYWEBSITES x1
 * GAUNT_ x1
@@ -14962,7 +14973,7 @@ global: 2029/2035 (99.71%)
 
 
 ========== mptuner ==========
-global: 3012/3021 (99.70%)
+global: 3013/3021 (99.74%)
 * ASB_ x6
 * BANSH_ x15
 * CALICO x1
@@ -14977,7 +14988,7 @@ global: 3012/3021 (99.70%)
 * DOM8_ x83
 * DOMINATOR7 x1
 * DOMINATOR8 x1
-* DUMMY_ x2
+* DUMMY_ x3
 * DUMMYDLCNAMES x1
 * DUMMYWEBSITES x1
 * DVC_ x1
@@ -15120,7 +15131,7 @@ casuiau: 109/109 (100.00%)
 ctomau: 341/379 (89.97%)
 * CTOM_ x341
 
-global: 2574/2580 (99.77%)
+global: 2575/2580 (99.81%)
 * CARA2_ x49
 * CARACARA2 x1
 * CASWEB_ x120
@@ -15128,7 +15139,7 @@ global: 2574/2580 (99.77%)
 * DESC_ x2
 * DRAFTER x1
 * DRFTR_ x37
-* DUMMY_ x2
+* DUMMY_ x3
 * DUMMYDLCNAMES x1
 * DUMMYWEBSITES x1
 * DYN_ x70
