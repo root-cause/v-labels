@@ -4189,7 +4189,7 @@ frmchse: 34/35 (97.14%)
 getawy: 58/58 (100.00%)
 * PRC_ x58
 
-global: 52885/56636 (93.38%)
+global: 52889/56636 (93.38%)
 * 95PEER_ x1
 * ABB_ x5
 * ABBATAVE x1
@@ -5262,6 +5262,7 @@ global: 52885/56636 (93.38%)
 * DUMMYNETBSNES2 x1
 * DUMMYNETC7CLR x1
 * DUMMYNETC8CLR x1
+* DUMMYNETCHEI x1
 * DUMMYNETCR x1
 * DUMMYNETCTF x1
 * DUMMYNETEXEC x1
@@ -7323,7 +7324,7 @@ global: 52885/56636 (93.38%)
 * UEUI_ x3
 * UEV_ x5
 * UGC_ x18
-* UI_ x9
+* UI_ x12
 * UL_ x1
 * ULTRA_ x1
 * UMA_ x3
@@ -13613,7 +13614,7 @@ global: 820/835 (98.20%)
 ========== mpg9ec ==========
 g9haaud: 0/372 (0.00%)
 
-global: 415/425 (97.65%)
+global: 418/425 (98.35%)
 * ARBITERGT x1
 * ARBTRGT_ x41
 * ASTRN2_ x90
@@ -13623,11 +13624,11 @@ global: 415/425 (97.65%)
 * CYCLONE2 x1
 * DUMMY_ x3
 * DUMMYDLCNAMES x1
-* HSW_ x13
+* HSW_ x15
 * IGN_ x83
 * IGNUS2 x1
 * S95 x1
-* S95_ x59
+* S95_ x60
 * TOP_ x4
 * WT_ x1
 
