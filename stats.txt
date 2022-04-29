@@ -3219,8 +3219,8 @@ cst7aud: 1136/1136 (100.00%)
 
 cstlcut: empty
 
-ct_aud: 3201/3224 (99.29%)
-* MPCT_ x3201
+ct_aud: 3224/3224 (100.00%)
+* MPCT_ x3224
 
 cultres: empty
 
