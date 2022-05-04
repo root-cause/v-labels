@@ -10,11 +10,11 @@ afterm: empty
 ah3b: 70/70 (100.00%)
 * A3B_ x70
 
-ah3baud: 3004/3037 (98.91%)
-* AH_ x2800
+ah3baud: 3011/3037 (99.14%)
+* AH_ x2807
 * AH3B_ x204
 
-ahfaud: 302/307 (98.37%)
+ahfaud: 307/307 (100.00%)
 * AH_ x14
 * AHBOTH_ x2
 * AHBOTHIF x1
@@ -92,6 +92,10 @@ ahfaud: 302/307 (98.37%)
 * AHTAL1IF x1
 * AHTAL1LF x1
 * AHTAL1SL x1
+* AHTAL3_ x2
+* AHTAL3IF x1
+* AHTAL3LF x1
+* AHTAL3SL x1
 
 ahprep1: 6/6 (100.00%)
 * AHP_ x6
@@ -136,7 +140,7 @@ ambht: 180/193 (93.26%)
 amsolau: 14/14 (100.00%)
 * AMSOL_ x14
 
-anaud: 546/558 (97.85%)
+anaud: 558/558 (100.00%)
 * ABI_ x8
 * AMA_ x21
 * ANS_ x148
@@ -170,6 +174,7 @@ anaud: 546/558 (97.85%)
 * STE_ x6
 * STR_ x6
 * TAN_ x6
+* TOM_ x12
 * TON_ x6
 * TRA_ x30
 * TRE_ x6
@@ -237,8 +242,8 @@ ar2aud: 1414/1539 (91.88%)
 arflaud: 46/46 (100.00%)
 * ARFL_ x46
 
-arm1: 64/68 (94.12%)
-* AR1_ x64
+arm1: 66/68 (97.06%)
+* AR1_ x66
 
 arm1aud: 963/1000 (96.30%)
 * ARM1_ x963
@@ -246,9 +251,9 @@ arm1aud: 963/1000 (96.30%)
 arm2: 71/71 (100.00%)
 * ARM2_ x71
 
-arm3: 45/46 (97.83%)
+arm3: 46/46 (100.00%)
 * ARM3_ x28
-* ARM3HLP_ x17
+* ARM3HLP_ x18
 
 arm3aud: 838/872 (96.10%)
 * ARM3_ x838
@@ -269,8 +274,8 @@ arthoau: 256/256 (100.00%)
 asflaud: 61/61 (100.00%)
 * ASFL_ x61
 
-ass_bs: 35/37 (94.59%)
-* ASS_ x35
+ass_bs: 36/37 (97.30%)
+* ASS_ x36
 
 ass_cs: 28/28 (100.00%)
 * ASS_ x28
@@ -332,8 +337,8 @@ bankh1: 48/48 (100.00%)
 * TREVORLEFT x1
 * VANDIED x1
 
-banks1: 45/46 (97.83%)
-* CBH_ x45
+banks1: 46/46 (100.00%)
+* CBH_ x46
 
 bar3aau: 116/116 (100.00%)
 * BAR3A_ x116
@@ -3320,8 +3325,8 @@ dockh1: 91/102 (89.22%)
 * PHOTO_ x10
 * TXT_ x3
 
-dockh2b: 80/84 (95.24%)
-* DS2_ x79
+dockh2b: 82/84 (97.62%)
+* DS2_ x81
 * DS2A_ x1
 
 dockp1: 27/27 (100.00%)
@@ -3852,8 +3857,8 @@ fin2aud: 336/351 (95.73%)
 final3a: 77/78 (98.72%)
 * F3A_ x77
 
-final3b: 54/55 (98.18%)
-* F3B_ x54
+final3b: 55/55 (100.00%)
+* F3B_ x55
 
 finale1: 9/9 (100.00%)
 * FIN1_ x9
@@ -8370,8 +8375,8 @@ mch1: 38/38 (100.00%)
 mch1aud: 937/937 (100.00%)
 * MCH1_ x937
 
-mch2: 24/31 (77.42%)
-* MCH2_ x24
+mch2: 26/31 (83.87%)
+* MCH2_ x26
 
 mch2aud: 1137/1137 (100.00%)
 * MCH2_ x970
@@ -9228,8 +9233,8 @@ prinaud: 656/656 (100.00%)
 proaud: 906/1017 (89.09%)
 * PRO_ x906
 
-prolog: 99/104 (95.19%)
-* PRO_ x49
+prolog: 101/104 (97.12%)
+* PRO_ x51
 * PROHLP_ x50
 
 propaud: 72/72 (100.00%)
@@ -9700,8 +9705,8 @@ tat_mnu: 222/224 (99.11%)
 tattoau: 42/42 (100.00%)
 * TATTO_ x42
 
-taxi: 61/64 (95.31%)
-* TAXI_ x48
+taxi: 63/64 (98.44%)
+* TAXI_ x50
 * TX_ x13
 
 taxisau: 84/84 (100.00%)
@@ -12560,8 +12565,8 @@ dir_mnu: 495/653 (75.80%)
 ggsm: 42/47 (89.36%)
 * GGSM_ x42
 
-iap: 53/58 (91.38%)
-* IAP_ x53
+iap: 58/58 (100.00%)
+* IAP_ x58
 
 lowdau: empty
 
