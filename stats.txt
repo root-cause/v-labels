@@ -586,13 +586,17 @@ chheist: 106/106 (100.00%)
 * CHPASSED x1
 * CHRETURN x1
 
-chi2aud: 412/566 (72.79%)
+chi2aud: 517/566 (91.34%)
 * ATTACKIN_ x4
 * ATTACKINA x1
 * ATTACKINIF x1
 * ATTACKINLF x1
 * ATTACKINSL x1
 * CHI2_ x187
+* CHI2INT_ x102
+* CHI2INTIF x1
+* CHI2INTLF x1
+* CHI2INTSL x1
 * COOKATT_ x4
 * COOKATTA x1
 * COOKATTIF x1
@@ -13980,8 +13984,8 @@ nsteau: 146/146 (100.00%)
 nttau: 289/328 (88.11%)
 * NTT_ x289
 
-nwe: 125/156 (80.13%)
-* NWE_ x125
+nwe: 156/156 (100.00%)
+* NWE_ x156
 
 obhb: 52/52 (100.00%)
 * OBHB_ x52
@@ -14134,11 +14138,11 @@ pbfau: 565/565 (100.00%)
 pbpau: 252/252 (100.00%)
 * PBP_ x252
 
-pbstau: 249/259 (96.14%)
-* PBST_ x249
+pbstau: 254/259 (98.07%)
+* PBST_ x254
 
-pbuau: 193/211 (91.47%)
-* PBU_ x193
+pbuau: 211/211 (100.00%)
+* PBU_ x211
 
 prcutau: 287/287 (100.00%)
 * PRCUT_ x287
@@ -15134,14 +15138,14 @@ global: 200/200 (100.00%)
 
 
 ========== mpvinewood ==========
-cagtau: 1066/1104 (96.56%)
-* CAGT_ x1066
+cagtau: 1096/1104 (99.28%)
+* CAGT_ x1096
 
 cas1aud: 157/157 (100.00%)
 * CAS1_ x157
 
-cas2aud: 227/251 (90.44%)
-* CAS2_ x227
+cas2aud: 244/251 (97.21%)
+* CAS2_ x244
 
 cas3aud: 516/516 (100.00%)
 * CAS3_ x516
