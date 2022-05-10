@@ -3350,8 +3350,8 @@ drey1: 1/1 (100.00%)
 drey1au: 293/293 (100.00%)
 * DREY1_ x293
 
-drfaud: 688/2529 (27.20%)
-* DRF_ x595
+drfaud: 2451/2529 (96.92%)
+* DRF_ x2358
 * PBTNM_ x17
 * PBTNM2_ x16
 * PBTNM2IF x1
@@ -3874,8 +3874,9 @@ finc: 91/91 (100.00%)
 * FC1_ x23
 * FC2_ x68
 
-finc1au: 2205/2226 (99.06%)
+finc1au: 2220/2226 (99.73%)
 * FIN_ x242
+* FINA_ x15
 * FINB_ x35
 * FINC_ x201
 * FINC1_ x1662
@@ -9206,7 +9207,10 @@ pmplane: 172/172 (100.00%)
 * PMPLA_ x20
 * RAND_ x145
 
-pmraud: 0/119 (0.00%)
+pmraud: 119/119 (100.00%)
+* FILM_ x17
+* MON_ x51
+* PAP_ x51
 
 pprom: 7/7 (100.00%)
 * BK_ x1
