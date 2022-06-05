@@ -242,8 +242,8 @@ ar2aud: 1425/1539 (92.59%)
 arflaud: 46/46 (100.00%)
 * ARFL_ x46
 
-arm1: 66/68 (97.06%)
-* AR1_ x66
+arm1: 68/68 (100.00%)
+* AR1_ x68
 
 arm1aud: 988/1000 (98.80%)
 * ARM1_ x988
@@ -3346,8 +3346,8 @@ d2baud: 948/1062 (89.27%)
 * DS2A_ x928
 * DS2B_ x20
 
-darts: 86/87 (98.85%)
-* DARTS_ x85
+darts: 87/87 (100.00%)
+* DARTS_ x86
 * XPT_ x1
 
 ddeal: empty
@@ -3408,8 +3408,8 @@ dhfaud: 201/201 (100.00%)
 dhp1aud: 185/185 (100.00%)
 * DHP1_ x185
 
-dmatch: 98/103 (95.15%)
-* DM_ x33
+dmatch: 100/103 (97.09%)
+* DM_ x35
 * DMOBJ_ x30
 * DMOBJV_ x30
 * KHOBJ_ x3
@@ -3987,8 +3987,8 @@ finc1au: 2220/2226 (99.73%)
 fincuau: 113/113 (100.00%)
 * FINCU_ x113
 
-finh1: 40/41 (97.56%)
-* FH1_ x40
+finh1: 41/41 (100.00%)
+* FH1_ x41
 
 finpra: 11/11 (100.00%)
 * PR_ x11
@@ -4025,8 +4025,8 @@ fmfaud: 324/398 (81.41%)
 fmflaud: 213/213 (100.00%)
 * FMFL_ x213
 
-fmhrd: 56/59 (94.92%)
-* HRD_ x42
+fmhrd: 58/59 (98.31%)
+* HRD_ x44
 * LEECHRMDR x1
 * MH_ x1
 * SC_ x12
@@ -4049,9 +4049,9 @@ fmmaud: 2228/2256 (98.76%)
 * MA_ x37
 * TRA_ x346
 
-fmmc: 7677/8714 (88.10%)
+fmmc: 7938/8714 (91.09%)
 * ACTF_ x17
-* ADV_ x6
+* ADV_ x7
 * ALERT_ x10
 * AP_ x29
 * AR_ x1
@@ -4073,22 +4073,22 @@ fmmc: 7677/8714 (88.10%)
 * CRE_ x5
 * CRNBAR_ x2
 * CRT_ x1
-* CTF_ x202
+* CTF_ x218
 * DESTDER_ x3
 * DM_ x29
-* DMC_ x88
+* DMC_ x92
 * DMCD_ x2
 * DT_ x1
 * ENMY_ x1
 * FLRM_ x11
-* FM_ x397
+* FM_ x405
 * FMKH_ x4
-* FMMC_ x3376
+* FMMC_ x3549
 * FMMCC_ x47
 * FMMCCBST_ x1
 * FMMCCCDROP_ x5
 * FMMCCMENU_ x98
-* FMMCCPD_ x14
+* FMMCCPD_ x16
 * FMMCCPDWPCG x1
 * FMMCCRCOL x1
 * FMMCCRKT x1
@@ -4102,7 +4102,7 @@ fmmc: 7677/8714 (88.10%)
 * FMMCCRTT3 x1
 * FMMCCRTV x1
 * FMMCGHIDE_ x7
-* FMMCMENU_ x34
+* FMMCMENU_ x46
 * FMMCNO_ x2
 * FMMCPD_ x18
 * FMMCPDSK0 x1
@@ -4128,15 +4128,15 @@ fmmc: 7677/8714 (88.10%)
 * KHD_ x1
 * KHOBJ_ x25
 * KHTUT_ x23
-* KOTH_ x103
+* KOTH_ x108
 * KTH_ x19
 * KTHH_ x29
 * LDB_ x1
 * LOB_ x83
 * LOSE_ x5
-* LTS_ x70
+* LTS_ x78
 * MASK_ x31
-* MC_ x1153
+* MC_ x1179
 * MULTIPLAY_ x3
 * MYKILL x1
 * MYSCOR x1
@@ -4152,10 +4152,10 @@ fmmc: 7677/8714 (88.10%)
 * RC_ x17
 * RCE_ x9
 * RCR_ x1
-* RMC_ x112
+* RMC_ x114
 * ROLE_ x4
 * SC_ x448
-* SCOBJ_ x50
+* SCOBJ_ x51
 * SHARD_ x1
 * SHD_ x3
 * SPEC_ x1
@@ -4164,7 +4164,7 @@ fmmc: 7677/8714 (88.10%)
 * SPOTEDPEDB x1
 * SPOTEDPEDC x1
 * SR_ x25
-* SRV_ x6
+* SRV_ x7
 * START_ x2
 * STNR_ x10
 * SUMOR_ x2
@@ -4173,7 +4173,7 @@ fmmc: 7677/8714 (88.10%)
 * TARGET_ x5
 * TCK_ x3
 * TDM_ x4
-* TEAM_ x87
+* TEAM_ x88
 * TICK_ x1
 * TIMEALIVE x1
 * TR_ x4
@@ -4186,7 +4186,7 @@ fmmc: 7677/8714 (88.10%)
 * WEP_ x88
 * WIN_ x4
 * ZNE_ x1
-* ZONESP_ x1
+* ZONESP_ x2
 
 fmram: empty
 
@@ -4256,8 +4256,8 @@ fptmau: 130/130 (100.00%)
 fran1: 35/35 (100.00%)
 * FRA1_ x35
 
-fran2: 41/43 (95.35%)
-* FRAN2_ x41
+fran2: 42/43 (97.67%)
+* FRAN2_ x42
 
 frflaud: 20/20 (100.00%)
 * FRFL_ x20
@@ -4265,7 +4265,7 @@ frflaud: 20/20 (100.00%)
 friends: 26/26 (100.00%)
 * FR_ x26
 
-frmchse: 34/35 (97.14%)
+frmchse: 35/35 (100.00%)
 * CHFAIL x1
 * CHFAIL1 x1
 * CHFAIL2 x1
@@ -4288,6 +4288,7 @@ frmchse: 34/35 (97.14%)
 * FRMOUT x1
 * FRMPET2 x1
 * FRMPRO x1
+* FRMRGE x1
 * FRMSHP x1
 * FRMSNP x1
 * FRMSOON x1
@@ -4302,7 +4303,7 @@ frmchse: 34/35 (97.14%)
 getawy: 58/58 (100.00%)
 * PRC_ x58
 
-global: 53948/56636 (95.25%)
+global: 53952/56636 (95.26%)
 * 1STBR x1
 * 2NDBR x1
 * 3RDBR x1
@@ -5209,7 +5210,7 @@ global: 53948/56636 (95.25%)
 * CRW_ x47
 * CSG_ x107
 * CSH_ x687
-* CSHOP_ x60
+* CSHOP_ x61
 * CSHT_ x16
 * CSN_ x2
 * CSNAPT_ x14
@@ -5657,7 +5658,7 @@ global: 53948/56636 (95.25%)
 * FMEVNT_ x4
 * FMH_ x1
 * FMIC_ x8
-* FMMC_ x495
+* FMMC_ x498
 * FMMCC_ x3
 * FMMCGHIDE_ x2
 * FMO x1
@@ -7865,9 +7866,9 @@ h1set3b: empty
 
 h1set3c: empty
 
-h1set4: 84/93 (90.32%)
+h1set4: 93/93 (100.00%)
 * OXYGEN_ x1
-* SETUP4_ x83
+* SETUP4_ x92
 
 h2part3: 88/88 (100.00%)
 * CH2_ x1
@@ -7894,9 +7895,9 @@ h2part3: 88/88 (100.00%)
 * WAIT_ x1
 * WAT_ x1
 
-h3heist: 55/60 (91.67%)
-* F_ x20
-* G_ x19
+h3heist: 59/60 (98.33%)
+* F_ x21
+* G_ x22
 * H_ x3
 * JH_ x6
 * JH2_ x3
@@ -7922,11 +7923,11 @@ h3set1: 36/36 (100.00%)
 * WAIT_ x1
 * WANTED x1
 
-h4heist: 47/54 (87.04%)
-* CH_ x47
+h4heist: 48/54 (88.89%)
+* CH_ x48
 
-h5heist: 54/60 (90.00%)
-* DCKH_ x54
+h5heist: 57/60 (95.00%)
+* DCKH_ x57
 
 hack: 132/160 (82.50%)
 * ACCESSD x1
@@ -8571,7 +8572,7 @@ mej1aud: 349/349 (100.00%)
 meltaud: 545/545 (100.00%)
 * MELT_ x545
 
-met1: 21/22 (95.45%)
+met1: 22/22 (100.00%)
 * MET1ABANDON x1
 * MET1CHASE x1
 * MET1CPSTALK x1
@@ -8590,6 +8591,7 @@ met1: 21/22 (95.45%)
 * MET1TOOLATE x1
 * MET1TRAKILL x1
 * MET1TRASCARE x1
+* MET1TRASHOT x1
 * MET1TWRECK x1
 * MET1WAIT x1
 * MET1WANT x1
@@ -8654,8 +8656,8 @@ mgtnaud: 565/565 (100.00%)
 mgtraud: 338/338 (100.00%)
 * MGTR_ x338
 
-mic3: 20/21 (95.24%)
-* M3_ x20
+mic3: 21/21 (100.00%)
+* M3_ x21
 
 miflaud: 144/144 (100.00%)
 * MIFL_ x144
@@ -8968,7 +8970,7 @@ mod_mnu: 747/762 (98.03%)
 mooreau: 781/781 (100.00%)
 * BNKMR_ x781
 
-mp_rng: 54/58 (93.10%)
+mp_rng: 56/58 (96.55%)
 * CDESC1_ x2
 * CDESC2_ x2
 * CDESC3_ x4
@@ -8977,7 +8979,7 @@ mp_rng: 54/58 (93.10%)
 * RANGE_ x2
 * ROUNDS_ x1
 * SC_ x1
-* SHR_ x35
+* SHR_ x37
 * SR_ x3
 * U_ x1
 
@@ -9044,8 +9046,8 @@ nigel1c: 10/11 (90.91%)
 * N1_ x1
 * N1C_ x9
 
-nigel1d: 10/12 (83.33%)
-* N1D_ x10
+nigel1d: 11/12 (91.67%)
+* N1D_ x11
 
 nigel2: 16/16 (100.00%)
 * NIGEL2_ x16
@@ -9668,12 +9670,12 @@ rhpaud: 9/9 (100.00%)
 ruralp: 11/11 (100.00%)
 * RHP_ x11
 
-s_range: 112/126 (88.89%)
+s_range: 114/126 (90.48%)
 * RNG_ x1
 * SC_ x9
 * SCLB x1
 * SH_ x3
-* SHR_ x97
+* SHR_ x99
 * XPT_ x1
 
 sagrab: 55/55 (100.00%)
@@ -9804,7 +9806,7 @@ sp_golf: 212/234 (90.60%)
 * XPT_ x7
 * YOUR_ x2
 
-sp_spr: 169/198 (85.35%)
+sp_spr: 173/198 (87.37%)
 * AIRPORT x1
 * AIRPORTR x1
 * ALTITUDE x1
@@ -9832,7 +9834,7 @@ sp_spr: 169/198 (85.35%)
 * SEA_ x1
 * SLOSSANTOS x1
 * SOUTHCOAST x1
-* SPR_ x83
+* SPR_ x87
 * SPRBEST x1
 * SPTTLB_ x5
 * STREET_ x2
@@ -12653,8 +12655,8 @@ trackid: 2682/2682 (100.00%)
 * 4172A x1
 * 4172S x1
 
-trev1: 54/56 (96.43%)
-* TRV_ x54
+trev1: 55/56 (98.21%)
+* TRV_ x55
 
 trev3: 25/25 (100.00%)
 * TRV3_ x25
