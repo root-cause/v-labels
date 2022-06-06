@@ -4303,7 +4303,7 @@ frmchse: 35/35 (100.00%)
 getawy: 58/58 (100.00%)
 * PRC_ x58
 
-global: 54057/56636 (95.45%)
+global: 54206/56636 (95.71%)
 * 1STBR x1
 * 2NDBR x1
 * 3RDBR x1
@@ -5138,7 +5138,7 @@ global: 54057/56636 (95.45%)
 * COIL x1
 * COLCACHE_ x1
 * COLMONEYUN x1
-* COM_ x66
+* COM_ x140
 * COMBO_ x1
 * COMET2 x1
 * COMET2_ x1
@@ -5383,7 +5383,7 @@ global: 54057/56636 (95.45%)
 * DOCK_ x2
 * DOCKS1_ x2
 * DOCKSEXQGPS x1
-* DOCKTEASE_ x2
+* DOCKTEASE_ x10
 * DOCKTUG x1
 * DOLLR x1
 * DOM_ x3
@@ -5502,7 +5502,7 @@ global: 54057/56636 (95.45%)
 * EDWOOD x1
 * EF_ x35
 * EGAL x1
-* EGO_ x4
+* EGO_ x24
 * ELBURROB x1
 * ELECTRI x1
 * ELEGY2 x1
@@ -5530,7 +5530,7 @@ global: 54057/56636 (95.45%)
 * ENTITYXF x1
 * ENUS x1
 * EP_ x1
-* EPS_ x149
+* EPS_ x175
 * EPSDES_ x11
 * EPSI_ x3
 * EPSI6_ x1
@@ -5996,7 +5996,7 @@ global: 54057/56636 (95.45%)
 * HUNTGUN_ x42
 * HUNTGUNH_ x2
 * HUP_ x5
-* HUS_ x49
+* HUS_ x61
 * HVS_ x1
 * HVY x1
 * HVY_ x5
@@ -6287,7 +6287,7 @@ global: 54057/56636 (95.45%)
 * MCH2_ x1
 * MCTAPINPUTTRIG x1
 * MCTAPTTRIGPC x1
-* MDW_ x16
+* MDW_ x25
 * ME_ x4
 * MECH_ x1
 * MEFL_ x3
