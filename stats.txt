@@ -4303,7 +4303,7 @@ frmchse: 35/35 (100.00%)
 getawy: 58/58 (100.00%)
 * PRC_ x58
 
-global: 53952/56636 (95.26%)
+global: 54057/56636 (95.45%)
 * 1STBR x1
 * 2NDBR x1
 * 3RDBR x1
@@ -5996,7 +5996,7 @@ global: 53952/56636 (95.26%)
 * HUNTGUN_ x42
 * HUNTGUNH_ x2
 * HUP_ x5
-* HUS_ x23
+* HUS_ x49
 * HVS_ x1
 * HVY x1
 * HVY_ x5
@@ -6155,7 +6155,7 @@ global: 53952/56636 (95.26%)
 * LANDSTAL x1
 * LANG_ x13
 * LAP_ x1
-* LAR_ x21
+* LAR_ x36
 * LASLAGB x1
 * LAST_ x2
 * LAVA_ x1
@@ -6380,7 +6380,7 @@ global: 53952/56636 (95.26%)
 * MOVIE x1
 * MOVPROPDELHELP x1
 * MOWER x1
-* MP_ x1364
+* MP_ x1367
 * MPATC_ x1
 * MPATM_ x28
 * MPBAD_ x2
@@ -6719,7 +6719,7 @@ global: 53952/56636 (95.26%)
 * PLYVEH_ x17
 * PLYVEHIMP x1
 * PLYVEHIMP_ x2
-* PM_ x1413
+* PM_ x1414
 * PMP_ x5
 * PN_ x16
 * PNX_ x1
@@ -7756,7 +7756,7 @@ global: 53952/56636 (95.26%)
 * WHEELIE_ x1
 * WHISP x1
 * WHITE x1
-* WHO_ x3
+* WHO_ x57
 * WHOUSE_ x62
 * WHOUSEINPUTTRIG x1
 * WHOUSEINPUTTRPC x1
@@ -7792,12 +7792,12 @@ global: 53952/56636 (95.26%)
 * WSTCKMAIL2_ x2
 * WSTCKMAIL3 x1
 * WSTCKMAIL3_ x2
-* WT_ x109
+* WT_ x110
 * WTD_ x44
 * WTD2_ x17
 * WTDE2_ x3
-* WTT_ x48
-* WTU_ x78
+* WTT_ x50
+* WTU_ x81
 * WVINE x1
 * WVM_ x43
 * WVMWDHELP x1
