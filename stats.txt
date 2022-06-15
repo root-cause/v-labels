@@ -4303,7 +4303,7 @@ frmchse: 35/35 (100.00%)
 getawy: 58/58 (100.00%)
 * PRC_ x58
 
-global: 54469/56636 (96.17%)
+global: 54490/56636 (96.21%)
 * 1STBR x1
 * 2NDBR x1
 * 3RDBR x1
@@ -5887,7 +5887,7 @@ global: 54469/56636 (96.17%)
 * HELIPAD_ x9
 * HELIS_ x1
 * HELM_ x1
-* HELP_ x140
+* HELP_ x148
 * HELP2PLYUNLOAD x1
 * HELP3PLYUNLOAD x1
 * HELP4PLYUNLOAD x1
@@ -5992,7 +5992,7 @@ global: 54469/56636 (96.17%)
 * HTX_ x14
 * HTXT_ x151
 * HUB_ x143
-* HUD_ x729
+* HUD_ x739
 * HUMLAB x1
 * HUNT_ x18
 * HUNT1_ x1
@@ -6391,7 +6391,7 @@ global: 54469/56636 (96.17%)
 * MPBAD_ x2
 * MPCCTV_ x6
 * MPCHT_ x2
-* MPCT_ x188
+* MPCT_ x191
 * MPFROST_ x2
 * MPJAC_ x10
 * MPLA_ x1
@@ -13632,7 +13632,7 @@ arasau: 2179/2179 (100.00%)
 arintau: 498/498 (100.00%)
 * ARINT_ x498
 
-global: 2432/2487 (97.79%)
+global: 2453/2487 (98.63%)
 * ACW_ x15
 * ARENA_ x1
 * ARENAVEH_ x22
@@ -13705,7 +13705,7 @@ global: 2432/2487 (97.79%)
 * ITALIGTO x1
 * KINET_ x1
 * LGM_ x8
-* MBA_ x87
+* MBA_ x108
 * MON3_ x24
 * MON5_ x4
 * MONSTER3 x1
