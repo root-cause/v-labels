@@ -4049,7 +4049,7 @@ fmmaud: 2228/2256 (98.76%)
 * MA_ x37
 * TRA_ x346
 
-fmmc: 8335/9460 (88.11%)
+fmmc: 8340/9460 (88.16%)
 * ACTF_ x17
 * ADV_ x7
 * ALERT_ x10
@@ -4075,7 +4075,7 @@ fmmc: 8335/9460 (88.11%)
 * CRT_ x1
 * CTF_ x218
 * DESTDER_ x3
-* DM_ x343
+* DM_ x345
 * DMC_ x95
 * DMCD_ x2
 * DT_ x1
@@ -4083,7 +4083,7 @@ fmmc: 8335/9460 (88.11%)
 * FLRM_ x11
 * FM_ x407
 * FMKH_ x4
-* FMMC_ x3574
+* FMMC_ x3577
 * FMMCC_ x47
 * FMMCCBST_ x1
 * FMMCCCDROP_ x5
@@ -4305,7 +4305,7 @@ frmchse: 35/35 (100.00%)
 getawy: 58/58 (100.00%)
 * PRC_ x58
 
-global: 55597/57985 (95.88%)
+global: 55663/57985 (96.00%)
 * 1STBR x1
 * 2NDBR x1
 * 3RDBR x1
@@ -4808,7 +4808,7 @@ global: 55597/57985 (95.88%)
 * BMX x1
 * BN_ x1
 * BNK_ x7
-* BNKER_ x7
+* BNKER_ x8
 * BNKR_ x1
 * BNTY_ x2
 * BOAT_ x1
@@ -5038,7 +5038,7 @@ global: 55597/57985 (95.88%)
 * CDCRTR_ x5
 * CDERROR x1
 * CELEB_ x166
-* CELL_ x1216
+* CELL_ x1217
 * CELLC_ x36
 * CELLGW_ x3
 * CEO_ x1
@@ -5403,7 +5403,7 @@ global: 55597/57985 (95.88%)
 * DJ_ x13
 * DL_ x4
 * DLC_ x1
-* DLCC_ x127
+* DLCC_ x129
 * DLOADER x1
 * DM_ x166
 * DMPP_ x10
@@ -5577,7 +5577,7 @@ global: 55597/57985 (95.88%)
 * EX_ x1
 * EXCEPTI x1
 * EXE1NV_ x1
-* EXEC_ x77
+* EXEC_ x78
 * EXEC1NV_ x3
 * EXEMPLAR x1
 * EXIL_ x1
@@ -5677,7 +5677,23 @@ global: 55597/57985 (95.88%)
 * FMAMMODR_ x8
 * FMAMMODROP x1
 * FMAMMODROP2 x1
+* FMAMMODROP2A x1
+* FMAMMODROP2B x1
+* FMAMMODROP2C x1
 * FMAMMODROP3 x1
+* FMAMMODROP3A x1
+* FMAMMODROP3B x1
+* FMAMMODROP3C x1
+* FMAMMODROP4 x1
+* FMAMMODROP4A x1
+* FMAMMODROP4B x1
+* FMAMMODROP5 x1
+* FMAMMODROP5A x1
+* FMAMMODROP5B x1
+* FMAMMODROP5C x1
+* FMAMMODROPA x1
+* FMAMMODROPB x1
+* FMAMMODROPC x1
 * FMASS_ x7
 * FMAW_ x1
 * FMBB_ x88
@@ -5691,7 +5707,7 @@ global: 55597/57985 (95.88%)
 * FMEVNT_ x4
 * FMH_ x1
 * FMIC_ x8
-* FMMC_ x507
+* FMMC_ x513
 * FMMCC_ x3
 * FMMCGHIDE_ x2
 * FMO x1
@@ -6447,7 +6463,7 @@ global: 55597/57985 (95.88%)
 * MPYACHT_ x2
 * MRAM_ x4
 * MRSP_ x1
-* MS_ x24
+* MS_ x27
 * MSGCHEBUR x1
 * MSGISSI3 x1
 * MSGJESTE3 x1
@@ -6666,7 +6682,7 @@ global: 55597/57985 (95.88%)
 * PCARD_ x108
 * PCC_ x4
 * PCJ x1
-* PD_ x20
+* PD_ x21
 * PEACEF x1
 * PEG_ x23
 * PEGASSI x1
@@ -6703,7 +6719,7 @@ global: 55597/57985 (95.88%)
 * PI_ x281
 * PICADOR x1
 * PIL_ x4
-* PIM_ x2248
+* PIM_ x2263
 * PIMBHHIDMBWC x1
 * PIMCBOSSPASS x1
 * PIMCBOSSPASSC x1
@@ -6769,7 +6785,7 @@ global: 55597/57985 (95.88%)
 * PLYVEH_ x17
 * PLYVEHIMP x1
 * PLYVEHIMP_ x2
-* PM_ x1439
+* PM_ x1440
 * PMP_ x5
 * PN_ x16
 * PNX_ x1
@@ -6895,7 +6911,7 @@ global: 55597/57985 (95.88%)
 * RCE_ x12
 * RCHELP x1
 * RD_ x1
-* RE_ x52
+* RE_ x62
 * READ_ x1
 * REBEL x1
 * REBEL_ x5
@@ -6958,7 +6974,7 @@ global: 55597/57985 (95.88%)
 * RLS_ x5
 * RNC_ x25
 * RO_ x15
-* ROB_ x119
+* ROB_ x120
 * ROBTEXT_ x4
 * ROCKD x1
 * ROCKF x1
@@ -7081,7 +7097,7 @@ global: 55597/57985 (95.88%)
 * SERVE_ x6
 * SES_ x1
 * SESSANTA_ x2
-* SG_ x75
+* SG_ x78
 * SH2_ x2
 * SHA_ x3
 * SHADOW_ x1
@@ -7117,7 +7133,7 @@ global: 55597/57985 (95.88%)
 * SILKHA_ x2
 * SILVER x1
 * SILVER_ x1
-* SIM_ x14
+* SIM_ x15
 * SIMP_ x11
 * SIN_ x19
 * SING_ x1
@@ -7275,7 +7291,7 @@ global: 55597/57985 (95.88%)
 * STRYDER_ x2
 * STUNGUN_ x1
 * STUNT x1
-* SUB_ x119
+* SUB_ x122
 * SUBM_ x4
 * SUBMARINE_ x3
 * SUBMERS x1
@@ -7540,7 +7556,7 @@ global: 55597/57985 (95.88%)
 * TS_ x6
 * TSA_ x90
 * TSNP_ x30
-* TST_ x5
+* TST_ x6
 * TTYPE_ x9
 * TUGST x1
 * TUN_ x73
@@ -13595,7 +13611,7 @@ global: 203/204 (99.51%)
 
 
 ========== mpchristmas2017 ==========
-global: 2233/2236 (99.87%)
+global: 2234/2236 (99.91%)
 * AKULA x1
 * AUTA_ x54
 * AUTARCH x1
@@ -13666,7 +13682,7 @@ global: 2233/2236 (99.87%)
 * WCT_ x9
 * WEB_ x1
 * WT_ x31
-* WTD_ x26
+* WTD_ x27
 * WTT_ x7
 * WTU_ x8
 * XMAS_ x10
@@ -15308,7 +15324,7 @@ global: 2031/2035 (99.80%)
 
 
 ========== mpsum2 ==========
-global: 3124/3126 (99.94%)
+global: 3125/3126 (99.97%)
 * BRIO3_ x81
 * BRIOSO3 x1
 * CLO_ x823
@@ -15344,7 +15360,7 @@ global: 3124/3126 (99.94%)
 * RUIN4_ x126
 * RUINER4 x1
 * SCHW_ x93
-* SENT_ x109
+* SENT_ x110
 * SENT4_ x180
 * SENTINEL4 x1
 * SM722 x1
