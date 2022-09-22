@@ -3664,8 +3664,8 @@ drey1: 1/1 (100.00%)
 drey1au: 293/293 (100.00%)
 * DREY1_ x293
 
-drfaud: 2451/2529 (96.92%)
-* DRF_ x2358
+drfaud: 2529/2529 (100.00%)
+* DRF_ x2436
 * PBTNM_ x17
 * PBTNM2_ x16
 * PBTNM2IF x1
@@ -8582,9 +8582,9 @@ lem1aud: 1422/1422 (100.00%)
 * LAM_ x107
 * LEM1_ x1315
 
-lem2aud: 1808/2022 (89.42%)
+lem2aud: 1978/2022 (97.82%)
 * FRA_ x399
-* LM2_ x1409
+* LM2_ x1579
 
 lest1: 46/46 (100.00%)
 * F_ x4
@@ -8953,7 +8953,7 @@ met1aud: 632/632 (100.00%)
 meth: 19/20 (95.00%)
 * METH_ x19
 
-methaud: 464/582 (79.73%)
+methaud: 559/582 (96.05%)
 * ATTACK_ x23
 * BANT1AV1_ x26
 * BANT1AV1IF x1
@@ -8969,6 +8969,7 @@ methaud: 464/582 (79.73%)
 * CH1CALLF x1
 * CH1CALSL x1
 * CHANG_ x7
+* CHI_ x95
 * CHIN_ x245
 * CHIN1_ x17
 * G_ x7
