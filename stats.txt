@@ -4261,7 +4261,7 @@ fmmaud: 2236/2256 (99.11%)
 * MA_ x37
 * TRA_ x346
 
-fmmc: 8689/9460 (91.85%)
+fmmc: 8691/9460 (91.87%)
 * ACTF_ x17
 * ADV_ x7
 * ALERT_ x10
@@ -4387,7 +4387,7 @@ fmmc: 8689/9460 (91.85%)
 * TARGET_ x5
 * TCK_ x3
 * TDM_ x4
-* TEAM_ x88
+* TEAM_ x90
 * TICK_ x1
 * TIMEALIVE x1
 * TR_ x4
@@ -8635,7 +8635,7 @@ maude1: 3/3 (100.00%)
 maudeau: 55/55 (100.00%)
 * MAUDE_ x55
 
-mc_play: 1250/1419 (88.09%)
+mc_play: 1263/1419 (89.01%)
 * AIRQ_ x2
 * AOWCC x1
 * ATSAF x1
@@ -8802,7 +8802,7 @@ mc_play: 1250/1419 (88.09%)
 * RBRE_ x1
 * RESPEND x1
 * RETURN_ x1
-* RIDR_ x2
+* RIDR_ x15
 * RNBK_ x10
 * SB_ x1
 * SECUROHELP1 x1
