@@ -4261,7 +4261,7 @@ fmmaud: 2236/2256 (99.11%)
 * MA_ x37
 * TRA_ x346
 
-fmmc: 8777/9786 (89.69%)
+fmmc: 8873/9786 (90.67%)
 * ACTF_ x17
 * ADV_ x7
 * ALERT_ x10
@@ -4287,7 +4287,7 @@ fmmc: 8777/9786 (89.69%)
 * CRT_ x1
 * CTF_ x218
 * DESTDER_ x3
-* DM_ x513
+* DM_ x609
 * DMC_ x95
 * DMCD_ x2
 * DT_ x1
@@ -8234,13 +8234,13 @@ global: 56997/59412 (95.94%)
 * ZTYPE x1
 * ZTYPE_ x1
 
-gun_mnu: 95/108 (87.96%)
+gun_mnu: 101/108 (93.52%)
 * CMOD_ x1
 * GS_ x41
 * GSA_ x12
 * GSHOP_ x3
 * GSM_ x31
-* GV_ x1
+* GV_ x7
 * WEAP_ x6
 
 guncar: empty
