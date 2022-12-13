@@ -8695,7 +8695,7 @@ maude1: 3/3 (100.00%)
 maudeau: 55/55 (100.00%)
 * MAUDE_ x55
 
-mc_play: 1268/1494 (84.87%)
+mc_play: 1306/1494 (87.42%)
 * AIRQ_ x2
 * AOWCC x1
 * ATSAF x1
@@ -8715,6 +8715,12 @@ mc_play: 1268/1494 (84.87%)
 * D_ x1
 * DG_ x4
 * DTLF_ x17
+* DX11_ x1
+* DX12_ x5
+* DX13_ x3
+* DX14_ x7
+* DX15_ x5
+* DX16_ x17
 * ESCMB_ x4
 * FAILCUST x1
 * FLAGWAR_ x3
