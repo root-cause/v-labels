@@ -737,8 +737,8 @@ chopper: 11/11 (100.00%)
 * HUD_ x2
 * SCAN x1
 
-clo_mnu: 908/911 (99.67%)
-* CSHOP_ x901
+clo_mnu: 926/931 (99.46%)
+* CSHOP_ x919
 * CSHOPITEMCA237 x1
 * CSHOPTITLECA237 x1
 * HAIR_ x1
@@ -4261,7 +4261,7 @@ fmmaud: 2236/2256 (99.11%)
 * MA_ x37
 * TRA_ x346
 
-fmmc: 8691/9460 (91.87%)
+fmmc: 8777/9786 (89.69%)
 * ACTF_ x17
 * ADV_ x7
 * ALERT_ x10
@@ -4287,7 +4287,7 @@ fmmc: 8691/9460 (91.87%)
 * CRT_ x1
 * CTF_ x218
 * DESTDER_ x3
-* DM_ x453
+* DM_ x513
 * DMC_ x95
 * DMCD_ x2
 * DT_ x1
@@ -4295,7 +4295,7 @@ fmmc: 8691/9460 (91.87%)
 * FLRM_ x11
 * FM_ x407
 * FMKH_ x4
-* FMMC_ x3815
+* FMMC_ x3828
 * FMMCC_ x47
 * FMMCCBST_ x1
 * FMMCCCDROP_ x5
@@ -4349,7 +4349,7 @@ fmmc: 8691/9460 (91.87%)
 * LOSE_ x5
 * LTS_ x78
 * MASK_ x31
-* MC_ x1203
+* MC_ x1214
 * MULTIPLAY_ x3
 * MYKILL x1
 * MYSCOR x1
@@ -4366,7 +4366,7 @@ fmmc: 8691/9460 (91.87%)
 * RC_ x17
 * RCE_ x9
 * RCR_ x1
-* RMC_ x114
+* RMC_ x116
 * ROLE_ x4
 * SC_ x448
 * SCOBJ_ x51
@@ -4517,7 +4517,7 @@ frmchse: 35/35 (100.00%)
 getawy: 58/58 (100.00%)
 * PRC_ x58
 
-global: 55712/57985 (96.08%)
+global: 56997/59412 (95.94%)
 * 1STBR x1
 * 2NDBR x1
 * 3RDBR x1
@@ -4536,7 +4536,7 @@ global: 55712/57985 (96.08%)
 * ACCESSORY_ x1
 * ACCNA_ x85
 * ACCOUNTANTSHIRT x1
-* ACD_ x23
+* ACD_ x29
 * ACEJONES x1
 * ACFIG_ x2
 * ACH_ x87
@@ -4588,6 +4588,7 @@ global: 55712/57985 (96.08%)
 * ACH47_ x3
 * ACH48_ x3
 * ACH49_ x3
+* ACID_ x31
 * ACT_ x14
 * ACTCIN x1
 * ACTCIN1 x1
@@ -4638,6 +4639,8 @@ global: 55712/57985 (96.08%)
 * ALGONQUIN x1
 * ALHAMBRA x1
 * ALK_ x1
+* ALS_ x34
+* ALSEL_ x13
 * ALT_ x1
 * ALTA x1
 * ALTAPL x1
@@ -4741,11 +4744,14 @@ global: 55712/57985 (96.08%)
 * ARROW x1
 * AS_ x11
 * ASBO_ x1
+* ASD_ x32
 * ASEA x1
 * ASEA_ x7
+* ASEV_ x49
 * ASLTRIFLE_ x1
 * ASLTSHTGN_ x1
 * ASLTSMG_ x1
+* ASO_ x45
 * ASR_ x18
 * ASS_ x9
 * ASS1_ x1
@@ -4770,13 +4776,14 @@ global: 55712/57985 (96.08%)
 * AVENG_ x4
 * AVENGGUN_ x1
 * AVERAGE_ x1
+* AVG_ x1
 * AVMH_ x17
 * AW_ x65
 * AWARD_ x2
 * AWD_ x23
 * AWDGBC_ x1
-* AWS_ x220
-* AWT_ x123
+* AWS_ x262
+* AWT_ x147
 * B_ x52
 * B2_ x1
 * BA_ x72
@@ -4822,7 +4829,7 @@ global: 55712/57985 (96.08%)
 * BAYCI x1
 * BAYTRE x1
 * BAYTREECAN x1
-* BB_ x377
+* BB_ x381
 * BBB_ x7
 * BBH_ x19
 * BBHACK_ x1
@@ -4924,7 +4931,7 @@ global: 55712/57985 (96.08%)
 * BEER_ x2
 * BEN_ x5
 * BENEFAC x1
-* BENNY_ x7
+* BENNY_ x8
 * BENSON x1
 * BERD_ x16
 * BET_ x6
@@ -5005,7 +5012,7 @@ global: 55712/57985 (96.08%)
 * BLIMP x1
 * BLIMP_ x1
 * BLIP x1
-* BLIP_ x916
+* BLIP_ x935
 * BLIPNAME_ x6
 * BLISTA x1
 * BLOCK_ x1
@@ -5069,7 +5076,7 @@ global: 55712/57985 (96.08%)
 * BOUNTY_ x1
 * BOXVILLE x1
 * BP_ x4
-* BPLJT_ x19
+* BPLJT_ x15
 * BR BLACK_ x1
 * BR_ x2
 * BRADP x1
@@ -5136,7 +5143,7 @@ global: 55712/57985 (96.08%)
 * BS_ x190
 * BSB_ x2
 * BSC_ x48
-* BSD_ x21
+* BSD_ x22
 * BSDEL_ x12
 * BSELL_ x5
 * BSNEWS_ x1
@@ -5181,7 +5188,7 @@ global: 55712/57985 (96.08%)
 * BWH_ x74
 * BYCB_ x166
 * CA_ x20
-* CAB_ x2
+* CAB_ x4
 * CABERNET_ x1
 * CABLE_ x2
 * CABLECAR x1
@@ -5251,8 +5258,8 @@ global: 55712/57985 (96.08%)
 * CCREAK x1
 * CDCRTR_ x5
 * CDERROR x1
-* CELEB_ x166
-* CELL_ x1217
+* CELEB_ x173
+* CELL_ x1231
 * CELLC_ x36
 * CELLGW_ x3
 * CEO_ x1
@@ -5357,9 +5364,9 @@ global: 55712/57985 (96.08%)
 * CMBTMG_ x1
 * CMBTPISTOL_ x1
 * CMHDZ_ x44
-* CMM_ x36
+* CMM_ x37
 * CMN_ x53
-* CMOD_ x534
+* CMOD_ x545
 * CMRC_ x20
 * CMSW x1
 * CMT_ x3
@@ -5401,6 +5408,7 @@ global: 55712/57985 (96.08%)
 * CONTRATP_ x11
 * CONTRAVALUE x1
 * CONTRAVALUES x1
+* COOK_ x27
 * COP x1
 * COQUETTE x1
 * COQUETTE3_ x1
@@ -5446,6 +5454,7 @@ global: 55712/57985 (96.08%)
 * CRUSADE x1
 * CRUSADER x1
 * CRW_ x47
+* CS_ x18
 * CSG_ x107
 * CSH_ x693
 * CSHOP_ x61
@@ -5463,6 +5472,7 @@ global: 55712/57985 (96.08%)
 * CUSPLNM x1
 * CUST_ x34
 * CUT_ x3
+* CUTS_ x1
 * CUTTER x1
 * CVR_ x4
 * CWASH_ x12
@@ -5485,6 +5495,8 @@ global: 55712/57985 (96.08%)
 * DAVIS x1
 * DAVISA x1
 * DAWNR_ x5
+* DAX_ x15
+* DAX25_ x1
 * DAY_ x20
 * DB_ x23
 * DBASE_ x4
@@ -5498,6 +5510,9 @@ global: 55712/57985 (96.08%)
 * DCP_ x5
 * DD_ x39
 * DDGUN_ x1
+* DEADDROP_ x3
+* DEADDROPTXT0 x1
+* DEADDROPTXT1 x1
 * DEADLINE_ x4
 * DEADLINER0 x1
 * DEADLINER1 x1
@@ -5509,13 +5524,14 @@ global: 55712/57985 (96.08%)
 * DECKERS x1
 * DECL_ x8
 * DECLASSE x1
+* DEDDR_ x1
 * DEFAULT x1
-* DEFAULT_ x1
+* DEFAULT_ x3
 * DEFCOL x1
 * DEFILER_ x2
 * DEFUNCT_ x13
 * DEG_ x5
-* DEL_ x9
+* DEL_ x10
 * DELARRL x1
 * DELARRLG x1
 * DELBE x1
@@ -5534,6 +5550,8 @@ global: 55712/57985 (96.08%)
 * DELHTRLG x1
 * DELMIRL x1
 * DELMIRLG x1
+* DELMSGRL x1
+* DELMSGRLG x1
 * DELNCRL x1
 * DELNCRLG x1
 * DELPE x1
@@ -5615,10 +5633,24 @@ global: 55712/57985 (96.08%)
 * DIVING_ x7
 * DIXUNLOCK x1
 * DJ_ x13
-* DL_ x4
+* DL_ x44
 * DLC_ x1
-* DLCC_ x129
+* DLC222AWDPAGE x1
+* DLC222RUNVEH x1
+* DLC222VEH x1
+* DLC222VEHCLASS x1
+* DLC222VEHDECLASS x1
+* DLC222VEHHVY x1
+* DLC222VEHKARBOOR x1
+* DLC222VEHKAREVE x1
+* DLC222VEHOCE x1
+* DLC222VEHR300 x1
+* DLC222VEHWEEN x1
+* DLC222VEHWEST x1
+* DLC222VEHWILLA x1
+* DLCC_ x132
 * DLOADER x1
+* DLWV_ x58
 * DM_ x166
 * DMPP_ x10
 * DOCK_ x2
@@ -5649,6 +5681,7 @@ global: 55712/57985 (96.08%)
 * DRUG_ x4
 * DRYDOCK x1
 * DSC_ x5
+* DSH_ x12
 * DST_ x4
 * DSV_ x8
 * DTH_ x3
@@ -5726,7 +5759,7 @@ global: 55712/57985 (96.08%)
 * DUNL x1
 * DUSTER x1
 * DUTCHTO x1
-* DV_ x21
+* DV_ x53
 * DVDISTEX1 x1
 * DVDISTEX2 x1
 * DVDISTEX3 x1
@@ -5736,7 +5769,7 @@ global: 55712/57985 (96.08%)
 * DVSCRWTEX x1
 * DVSHETEX x1
 * DYELPC_ x1
-* DYN_ x40
+* DYN_ x41
 * DYNASTY_ x1
 * DZ_ x16
 * EAST_ x1
@@ -5924,7 +5957,7 @@ global: 55712/57985 (96.08%)
 * FMEVNT_ x4
 * FMH_ x1
 * FMIC_ x8
-* FMMC_ x513
+* FMMC_ x516
 * FMMCC_ x3
 * FMMCGHIDE_ x2
 * FMO x1
@@ -5991,7 +6024,7 @@ global: 55712/57985 (96.08%)
 * GARNET_ x1
 * GAS_ x5
 * GAUNTLET x1
-* GB_ x980
+* GB_ x982
 * GBC_ x365
 * GBCGOONLEFTB x1
 * GBCOT_ x1
@@ -6006,7 +6039,7 @@ global: 55712/57985 (96.08%)
 * GBTER_ x30
 * GBUNLOADHELPRC x1
 * GBURRITO x1
-* GC_ x81
+* GC_ x123
 * GCLUB_ x1
 * GEN_ x2
 * GENERAL_ x6
@@ -6055,7 +6088,7 @@ global: 55712/57985 (96.08%)
 * GOTO_ x1
 * GOTXT_ x6
 * GP1_ x2
-* GR_ x416
+* GR_ x417
 * GRACE_ x1
 * GRAINTRAILER x1
 * GRANGER x1
@@ -6084,13 +6117,13 @@ global: 55712/57985 (96.08%)
 * GRT_ x96
 * GRTRUCK x1
 * GRU_ x6
-* GS_ x15
+* GS_ x16
 * GSA_ x4
 * GSM_ x4
 * GUN_ x4
 * GUNRUN_ x3
 * GUSNBRG_ x1
-* H_ x248
+* H_ x250
 * H2_ x1
 * H4_ x18
 * H4P_ x375
@@ -6153,7 +6186,7 @@ global: 55712/57985 (96.08%)
 * HELIPAD_ x9
 * HELIS_ x1
 * HELM_ x1
-* HELP_ x149
+* HELP_ x150
 * HELP2PLYUNLOAD x1
 * HELP3PLYUNLOAD x1
 * HELP4PLYUNLOAD x1
@@ -6254,6 +6287,7 @@ global: 55712/57985 (96.08%)
 * HS4PA_ x3
 * HT_ x331
 * HTITLE_ x7
+* HTK_ x1
 * HTP_ x15
 * HTV_ x52
 * HTX_ x14
@@ -6320,7 +6354,7 @@ global: 55712/57985 (96.08%)
 * INNNOC x1
 * INPUT_ x255
 * INPUTGROUP_ x5
-* INST_ x9
+* INST_ x10
 * INSTALL_ x5
 * INSURGTECHMODHELP1 x1
 * INSURGTECHMODHELP2 x1
@@ -6355,7 +6389,7 @@ global: 55712/57985 (96.08%)
 * JET x1
 * JETMAX x1
 * JEW_ x2
-* JH_ x1
+* JH_ x20
 * JH1A_ x1
 * JH2_ x1
 * JIPMP_ x37
@@ -6376,7 +6410,8 @@ global: 55712/57985 (96.08%)
 * JP2A_ x1
 * JSG_ x34
 * JST_ x30
-* JUG_ x7
+* JUG_ x46
+* JUGG_ x2
 * JUGGS_ x15
 * JUGULAR_ x1
 * JUMPSUITUNLOCKBLA x1
@@ -6417,6 +6452,7 @@ global: 55712/57985 (96.08%)
 * KS_ x1
 * KURUMA2 x1
 * L_ x291
+* LAB_ x10
 * LABORP x1
 * LACT x1
 * LAGO x1
@@ -6550,13 +6586,13 @@ global: 55712/57985 (96.08%)
 * MBH_ x4
 * MBOT_ x2
 * MBOX_ x22
-* MBS_ x239
+* MBS_ x249
 * MBSC_ x1
 * MBSLOC_ x34
 * MBSOT_ x201
 * MBTXT_ x14
 * MBVISTICK_ x4
-* MC_ x200
+* MC_ x202
 * MCCTV_ x1
 * MCH1_ x1
 * MCH2_ x1
@@ -6620,12 +6656,16 @@ global: 55712/57985 (96.08%)
 * MISSTA x1
 * MIXER x1
 * MIXER2 x1
+* MLB_ x8
 * MLJ_ x1
+* MLR_ x2
+* MLS_ x11
 * MM_ x5
 * MN_ x12
 * MNKY_ x2
 * MNU_ x130
 * MO_ x327
+* MOC_ x1
 * MOD_ x1
 * MODE_ x6
 * MOH_ x5
@@ -6651,12 +6691,12 @@ global: 55712/57985 (96.08%)
 * MOUNTAV x1
 * MOUSE_ x8
 * MOV_ x1
-* MOVE_ x9
-* MOVED_ x2
+* MOVE_ x10
+* MOVED_ x3
 * MOVIE x1
 * MOVPROPDELHELP x1
 * MOWER x1
-* MP_ x1395
+* MP_ x1405
 * MPATC_ x1
 * MPATM_ x28
 * MPBAD_ x2
@@ -6681,6 +6721,7 @@ global: 55712/57985 (96.08%)
 * MRAM_ x4
 * MRSP_ x1
 * MS_ x30
+* MSG_ x61
 * MSGCHEBUR x1
 * MSGISSI3 x1
 * MSGJESTE3 x1
@@ -6700,7 +6741,7 @@ global: 55712/57985 (96.08%)
 * MTVINEWOD x1
 * MUG_ x2
 * MULE x1
-* MULT_ x1
+* MULT_ x6
 * MULTIPLIER x1
 * MURRI x1
 * MUS_ x9
@@ -6805,7 +6846,7 @@ global: 55712/57985 (96.08%)
 * OCEANA x1
 * OCELOT x1
 * ODDS x1
-* OF_ x96
+* OF_ x97
 * OFF_ x53
 * OFFG_ x1
 * OFFGS_ x1
@@ -6838,7 +6879,7 @@ global: 55712/57985 (96.08%)
 * ORINPUTTREGPC x1
 * ORPRIVSESINPUT x1
 * ORPRVSESINPUTPC x1
-* OSD_ x41
+* OSD_ x42
 * OT_ x11
 * OUTFIT_ x144
 * OVERFLOD x1
@@ -6901,7 +6942,7 @@ global: 55712/57985 (96.08%)
 * PCJ x1
 * PD_ x21
 * PEACEF x1
-* PEG_ x23
+* PEG_ x24
 * PEGASSI x1
 * PEGASUS_ x1
 * PEN_ x47
@@ -6936,14 +6977,14 @@ global: 55712/57985 (96.08%)
 * PI_ x281
 * PICADOR x1
 * PIL_ x4
-* PIM_ x2263
+* PIM_ x2336
 * PIMBHHIDMBWC x1
 * PIMCBOSSPASS x1
 * PIMCBOSSPASSC x1
 * PIMCOUNTERTIT x1
 * PIMCOUNTHELP x1
 * PIMCSACKBLOCK x1
-* PIMD_ x88
+* PIMD_ x104
 * PIMENU_ x1
 * PIMIEBW01C x1
 * PIMIEBW02C x1
@@ -7002,7 +7043,7 @@ global: 55712/57985 (96.08%)
 * PLYVEH_ x17
 * PLYVEHIMP x1
 * PLYVEHIMP_ x2
-* PM_ x1440
+* PM_ x1446
 * PMP_ x5
 * PN_ x16
 * PNX_ x1
@@ -7021,6 +7062,7 @@ global: 55712/57985 (96.08%)
 * PONY x1
 * POP_ x5
 * PORTOLA x1
+* POST_ x1
 * POUNDER x1
 * POWM_ x9
 * PPA_ x35
@@ -7062,6 +7104,7 @@ global: 55712/57985 (96.08%)
 * PRTY_ x2
 * PS_ x11
 * PSF_ x8
+* PSSEL_ x24
 * PSYCH_ x1
 * PSYCHO_ x2
 * PTD_ x13
@@ -7082,6 +7125,7 @@ global: 55712/57985 (96.08%)
 * PYV_ x1
 * PZ_ x46
 * QFE_ x13
+* QGPGUNVAN0 x1
 * QGPS_ x1
 * QM_ x5
 * QUADBIKE_ x1
@@ -7128,7 +7172,7 @@ global: 55712/57985 (96.08%)
 * RCE_ x12
 * RCHELP x1
 * RD_ x1
-* RE_ x62
+* RE_ x76
 * READ_ x1
 * REBEL x1
 * REBEL_ x5
@@ -7224,7 +7268,7 @@ global: 55712/57985 (96.08%)
 * RUNWAY1 x1
 * RWC_ x6
 * RWT_ x8
-* S_ x70
+* S_ x71
 * SA_ x33
 * SABRE_ x1
 * SABREGT x1
@@ -7279,8 +7323,10 @@ global: 55712/57985 (96.08%)
 * SCRAP x1
 * SCTV_ x23
 * SCUBA_ x3
-* SD_ x28
+* SD_ x30
+* SDEAL_ x1
 * SDKING_ x10
+* SDM_ x20
 * SDRP_ x3
 * SEA_ x7
 * SEASHARK x1
@@ -7314,7 +7360,8 @@ global: 55712/57985 (96.08%)
 * SERVE_ x6
 * SES_ x1
 * SESSANTA_ x2
-* SG_ x78
+* SG_ x98
+* SH_ x23
 * SH2_ x2
 * SHA_ x3
 * SHADOW_ x1
@@ -7331,7 +7378,7 @@ global: 55712/57985 (96.08%)
 * SHML_ x4
 * SHOOT_ x1
 * SHOOTING_ x1
-* SHOP_ x105
+* SHOP_ x107
 * SHOT_ x7
 * SHOTS x1
 * SHR_ x19
@@ -7340,7 +7387,7 @@ global: 55712/57985 (96.08%)
 * SHT_ x5
 * SHTRADIO_ x2
 * SHU_ x32
-* SI_ x53
+* SI_ x57
 * SIENNA_ x1
 * SIGJAM_ x1
 * SIGJAMCOLL_ x5
@@ -7367,7 +7414,7 @@ global: 55712/57985 (96.08%)
 * SKYDIVEMAIL_ x2
 * SKYDIVEOR_ x1
 * SKYLIFT x1
-* SL_ x32
+* SL_ x57
 * SLAB x1
 * SLAMVAN4_ x1
 * SLL_ x2
@@ -7421,6 +7468,9 @@ global: 55712/57985 (96.08%)
 * SNIPERRFL_ x1
 * SNK_ x4
 * SNORMAV x1
+* SNOWMEN_ x7
+* SNOWOAWDHEL2 x1
+* SNOWOUTUN0 x1
 * SNP_ x67
 * SNSPISTOL_ x1
 * SOCIAL_ x8
@@ -7473,6 +7523,7 @@ global: 55712/57985 (96.08%)
 * STANIER x1
 * STANLEY x1
 * STARS_ x2
+* STASH_ x1
 * STAT_ x2
 * STE_ x2
 * STEAL_ x9
@@ -7625,7 +7676,7 @@ global: 55712/57985 (96.08%)
 * TAT_ x160
 * TATAMO x1
 * TAXI x1
-* TAXI_ x2
+* TAXI_ x39
 * TBO_ x5
 * TBOAT_ x1
 * TC_ x7
@@ -7830,7 +7881,7 @@ global: 55712/57985 (96.08%)
 * TXM10 x1
 * TXM12 x1
 * TXP_ x2
-* TXT_ x53
+* TXT_ x54
 * U_ x268
 * UA_ x45
 * UBERMACH x1
@@ -7917,7 +7968,8 @@ global: 55712/57985 (96.08%)
 * UNLKARENSH66 x1
 * UNLKARENSH67 x1
 * UNLKARENSH68 x1
-* UNLOCK_ x200
+* UNLOCK_ x203
+* UNLOCKDEADDROP1 x1
 * UNLOCKFADEDSHIRTX x1
 * UNLOK_ x12
 * UNLOKLOWHATS0 x1
@@ -7984,7 +8036,8 @@ global: 55712/57985 (96.08%)
 * VAP_ x6
 * VAPID x1
 * VAULT_ x38
-* VC_ x1
+* VB_ x58
+* VC_ x34
 * VCANA x1
 * VCM_ x12
 * VCMFLOW_ x16
@@ -7993,6 +8046,7 @@ global: 55712/57985 (96.08%)
 * VED_ x2
 * VEH_ x154
 * VEHCL_ x19
+* VEHEXP_ x1
 * VEHEXPORTED x1
 * VEHICLES_ x1
 * VEHMOD_ x1
@@ -8072,7 +8126,7 @@ global: 55712/57985 (96.08%)
 * WCT_ x14
 * WEAPON_ x2
 * WEAPONMOD_ x1
-* WEB_ x68
+* WEB_ x76
 * WECLIP x1
 * WEENY x1
 * WEEVIL_ x1
@@ -8080,6 +8134,7 @@ global: 55712/57985 (96.08%)
 * WENDY_ x2
 * WEP_ x9
 * WESTERN x1
+* WF_ x49
 * WGAL x1
 * WH_ x31
 * WHBIKERBLCK x1
@@ -8102,6 +8157,7 @@ global: 55712/57985 (96.08%)
 * WHSECUROMAXVIP x1
 * WILDO x1
 * WILLARD x1
+* WIN22_ x1
 * WINDF x1
 * WINE_ x1
 * WINSTON x1
@@ -8126,7 +8182,7 @@ global: 55712/57985 (96.08%)
 * WSTCKMAIL2_ x2
 * WSTCKMAIL3 x1
 * WSTCKMAIL3_ x2
-* WT_ x111
+* WT_ x113
 * WTD_ x44
 * WTD2_ x17
 * WTDE2_ x3
@@ -8137,6 +8193,9 @@ global: 55712/57985 (96.08%)
 * WVMWDHELP x1
 * WWD_ x5
 * WZL_ x5
+* XM_ x12
+* XM22_ x20
+* XM22FLOW_ x12
 * XMAS_ x21
 * XMAS17AMMO x1
 * XMAS17ARMOR x1
@@ -8175,12 +8234,13 @@ global: 55712/57985 (96.08%)
 * ZTYPE x1
 * ZTYPE_ x1
 
-gun_mnu: 94/100 (94.00%)
+gun_mnu: 95/108 (87.96%)
 * CMOD_ x1
 * GS_ x41
 * GSA_ x12
 * GSHOP_ x3
 * GSM_ x31
+* GV_ x1
 * WEAP_ x6
 
 guncar: empty
@@ -8635,7 +8695,7 @@ maude1: 3/3 (100.00%)
 maudeau: 55/55 (100.00%)
 * MAUDE_ x55
 
-mc_play: 1263/1419 (89.01%)
+mc_play: 1268/1494 (84.87%)
 * AIRQ_ x2
 * AOWCC x1
 * ATSAF x1
@@ -8643,6 +8703,7 @@ mc_play: 1263/1419 (89.01%)
 * BIOLAB_ x1
 * BLANKALPHA x1
 * BLFFS_ x5
+* CAP_ x1
 * CAS_ x7
 * CASEN_ x3
 * CCMG_ x42
@@ -8691,7 +8752,7 @@ mc_play: 1263/1419 (89.01%)
 * ICEBR_ x1
 * IH_ x1
 * IHF_ x46
-* INT_ x2
+* INT_ x3
 * INTRG_ x1
 * IW_ x2
 * JOYRD_ x1
@@ -8785,13 +8846,13 @@ mc_play: 1263/1419 (89.01%)
 * LYOUDIED x1
 * LYOUTEAMLFT x1
 * MAXCARRY x1
-* MC_ x365
+* MC_ x366
 * MCPROTPCK x1
 * MCUSTBLIP x1
 * MISSCOMP x1
 * MONSJAM_ x2
 * NOCOLCTF x1
-* OBJ_ x3
+* OBJ_ x5
 * OTSPEHELP x1
 * PBUZZ x1
 * PCK_ x1
@@ -9314,9 +9375,9 @@ mishsta: 495/506 (97.83%)
 * POTATAKE x1
 * UNSELLWEAP x1
 
-mod_mnu: 754/769 (98.05%)
-* CMM_ x89
-* CMOD_ x664
+mod_mnu: 757/772 (98.06%)
+* CMM_ x91
+* CMOD_ x665
 * GR_ x1
 
 mooreau: 781/781 (100.00%)
@@ -14106,6 +14167,98 @@ global: 2454/2487 (98.67%)
 * ZR3803_ x4
 
 
+========== mpchristmas3 ==========
+global: 2830/2831 (99.96%)
+* BOOR x1
+* BOOR_ x58
+* BRICK2_ x15
+* BRICKADE2 x1
+* BROADWAY x1
+* BROADWAY_ x47
+* CANDC_ x2
+* CLASSIQUE x1
+* CLO_ x1595
+* DUMMY_ x3
+* DUMMYDLCNAMES x1
+* DUMMYWEBSITES x1
+* ENT3_ x118
+* ENTITY3 x1
+* EUDORA x1
+* EUDORA_ x79
+* EVERON2 x1
+* EVERON2_ x29
+* GREEN_ x11
+* ISSI8 x1
+* ISSI8_ x74
+* JOURN2_ x12
+* JOURNEY2 x1
+* LGM_ x6
+* MAN3_ x34
+* MANCHEZ3 x1
+* PANTH_ x138
+* PANTHERE x1
+* POWER_ x50
+* POWERSURGE x1
+* R300 x1
+* R300_ x127
+* SSS_ x8
+* SURF3_ x109
+* SURFER3 x1
+* TAHO_ x54
+* TAHOMA x1
+* TAT_ x52
+* TOUNDRA x1
+* TULIP2 x1
+* TULIP2_ x76
+* VIRTUE x1
+* VIRTUE_ x73
+* WCD_ x1
+* WCT_ x23
+* WEB_ x1
+* WT_ x4
+* WTD_ x3
+* WTT_ x4
+* WTU_ x4
+
+xm310au: 0/384 (0.00%)
+
+xm311au: 0/232 (0.00%)
+
+xm31aud: 0/261 (0.00%)
+
+xm32aud: 0/128 (0.00%)
+
+xm33aud: 0/192 (0.00%)
+
+xm34aud: 0/433 (0.00%)
+
+xm35aud: 0/235 (0.00%)
+
+xm36aud: 0/225 (0.00%)
+
+xm37aud: 0/287 (0.00%)
+
+xm38aud: 0/266 (0.00%)
+
+xm39aud: 0/137 (0.00%)
+
+xm3dxau: 0/785 (0.00%)
+
+xm3gvau: 0/42 (0.00%)
+
+xm3igau: 0/907 (0.00%)
+
+xm3laau: 0/712 (0.00%)
+
+xm3ldau: 0/35 (0.00%)
+
+xm3lrau: 0/35 (0.00%)
+
+xm3rnau: 0/31 (0.00%)
+
+xm3txau: 0/10 (0.00%)
+
+
 ========== mpexecutive ==========
 excalau: 2060/2060 (100.00%)
 * EXCAL_ x2060
@@ -15426,9 +15579,9 @@ smgfzau: 31/31 (100.00%)
 
 
 ========== mpspecialraces ==========
-global: 202/204 (99.02%)
+global: 203/204 (99.51%)
 * BOATS_ x1
-* CANDC_ x3
+* CANDC_ x4
 * DOCK_ x2
 * DUMMYDLCNAMES x1
 * DUMMYWEBSITES x1
