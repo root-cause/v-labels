@@ -13881,7 +13881,7 @@ global: 50/50 (100.00%)
 
 
 ========== mp2023_01 ==========
-global: 1570/1600 (98.13%)
+global: 1584/1600 (99.00%)
 * AOT_ x4
 * AVENG3_ x2
 * AVENGER3 x1
@@ -13889,7 +13889,7 @@ global: 1570/1600 (98.13%)
 * BRIGHAM_ x86
 * BUFF5_ x89
 * BUFFALO5 x1
-* CANDC_ x2
+* CANDC_ x5
 * CLIQUE2 x1
 * CLIQUE2_ x47
 * CLO_ x817
@@ -13906,14 +13906,17 @@ global: 1570/1600 (98.13%)
 * INDUCTOR2 x1
 * L35 x1
 * L35_ x84
+* LGM_ x3
 * MONSTROC_ x46
 * MONSTROCITI x1
+* PAM_ x2
 * PENAUD x1
 * RAIJU x1
 * RAIJU_ x11
 * RATEL x1
 * RATEL_ x27
 * SPEEDO5 x1
+* SSS_ x6
 * STINGERTT x1
 * STREAMER_ x10
 * STREAMER216 x1
