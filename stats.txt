@@ -737,8 +737,8 @@ chopper: 11/11 (100.00%)
 * HUD_ x2
 * SCAN x1
 
-clo_mnu: 942/985 (95.63%)
-* CSHOP_ x935
+clo_mnu: 978/985 (99.29%)
+* CSHOP_ x971
 * CSHOPITEMCA237 x1
 * CSHOPTITLECA237 x1
 * HAIR_ x1
