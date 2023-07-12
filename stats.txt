@@ -8959,7 +8959,7 @@ maude1: 3/3 (100.00%)
 maudeau: 55/55 (100.00%)
 * MAUDE_ x55
 
-mc_play: 1374/1693 (81.16%)
+mc_play: 1460/1693 (86.24%)
 * AIRQ_ x2
 * ALRE_ x3
 * AOWCC x1
@@ -8974,7 +8974,13 @@ mc_play: 1374/1693 (81.16%)
 * CASEN_ x3
 * CCMG_ x42
 * CCTV_ x3
-* CHM6_ x1
+* CHM1_ x8
+* CHM2_ x9
+* CHM3_ x11
+* CHM4_ x6
+* CHM5_ x16
+* CHM6_ x10
+* CHMA_ x9
 * CON_ x2
 * CONBTIC x1
 * CPAT_ x12
@@ -8989,6 +8995,10 @@ mc_play: 1374/1693 (81.16%)
 * DX14_ x7
 * DX15_ x5
 * DX16_ x17
+* DX22_ x7
+* DX23_ x6
+* DX24_ x2
+* DX25_ x3
 * ESCMB_ x4
 * FAILCUST x1
 * FLAGWAR_ x3
