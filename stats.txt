@@ -4295,7 +4295,7 @@ fmmaud: 2236/2256 (99.11%)
 * MA_ x37
 * TRA_ x346
 
-fmmc: 9500/10758 (88.31%)
+fmmc: 9503/10758 (88.33%)
 * ACTF_ x17
 * ADV_ x7
 * ALERT_ x10
@@ -4373,7 +4373,7 @@ fmmc: 9500/10758 (88.31%)
 * HO_ x24
 * HQE_ x4
 * HUD_ x8
-* IM_ x5
+* IM_ x6
 * KARTB_ x2
 * KH_ x54
 * KHD_ x1
@@ -4428,7 +4428,7 @@ fmmc: 9500/10758 (88.31%)
 * TARGET_ x5
 * TCK_ x3
 * TDM_ x4
-* TEAM_ x96
+* TEAM_ x98
 * TICK_ x1
 * TIMEALIVE x1
 * TR_ x4
@@ -9258,7 +9258,7 @@ maude1: 3/3 (100.00%)
 maudeau: 55/55 (100.00%)
 * MAUDE_ x55
 
-mc_play: 1724/2202 (78.29%)
+mc_play: 1910/2202 (86.74%)
 * ACA_ x1
 * AIRQ_ x2
 * ALRE_ x4
@@ -9270,18 +9270,25 @@ mc_play: 1724/2202 (78.29%)
 * BLANKALPHA x1
 * BLFFS_ x5
 * BSMG_ x3
-* BTYT_ x9
+* BTY1_ x6
+* BTY2_ x14
+* BTY3_ x25
+* BTY4_ x22
+* BTY5_ x20
+* BTY6_ x23
+* BTYT_ x32
 * CAP_ x1
 * CAS_ x8
 * CASEN_ x3
-* CBR1_ x12
-* CBR2_ x28
+* CBR1_ x13
+* CBR2_ x29
 * CBR3_ x52
-* CBR4_ x29
+* CBR4_ x39
 * CBR5_ x40
-* CBR6_ x42
+* CBR6_ x50
 * CCMG_ x42
 * CCTV_ x3
+* CF_ x1
 * CHI_ x4
 * CHM1_ x8
 * CHM2_ x9
@@ -9292,7 +9299,7 @@ mc_play: 1724/2202 (78.29%)
 * CHMA_ x9
 * CON_ x2
 * CONBTIC x1
-* CPAT_ x5
+* CPAT_ x31
 * CTF_ x90
 * CUTG_ x3
 * D_ x1
@@ -9443,7 +9450,7 @@ mc_play: 1724/2202 (78.29%)
 * LYOUDIED x1
 * LYOUTEAMLFT x1
 * MAXCARRY x1
-* MC_ x375
+* MC_ x381
 * MCPROTPCK x1
 * MCUSTBLIP x1
 * MISSCOMP x1
