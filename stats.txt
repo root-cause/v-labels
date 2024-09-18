@@ -4559,7 +4559,7 @@ frmchse: 35/35 (100.00%)
 getawy: 58/58 (100.00%)
 * PRC_ x58
 
-global: 63508/64656 (98.22%)
+global: 63525/64673 (98.22%)
 * 1STBR x1
 * 2NDBR x1
 * 3RDBR x1
@@ -6511,7 +6511,7 @@ global: 63508/64656 (98.22%)
 * HTX_ x14
 * HTXT_ x156
 * HUB_ x144
-* HUD_ x825
+* HUD_ x842
 * HUMLAB x1
 * HUNT_ x18
 * HUNT1_ x1
