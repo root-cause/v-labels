@@ -14622,16 +14622,17 @@ s24vaud: 797/797 (100.00%)
 
 
 ========== mp2024_02 ==========
-global: 989/1011 (97.82%)
+global: 1008/1011 (99.70%)
 * BANSH3_ x80
 * BANSHEE3 x1
+* CANDC_ x8
 * CARGB5_ x10
 * CARGOBOB5 x1
-* CHAV6_ x135
+* CHAV6_ x137
 * CHAVOSV6 x1
 * CHEB_ x5
 * CLO_ x378
-* COQ6_ x127
+* COQ6_ x128
 * COQUETTE6 x1
 * DRIFTCHEBU x1
 * DRIFTFUTO2 x1
@@ -14643,6 +14644,7 @@ global: 989/1011 (97.82%)
 * DUSTER2 x1
 * DVORG_ x4
 * EBERHARD x1
+* ELT_ x1
 * ENVIS_ x3
 * FCGARMENT_ x1
 * FCMCKENZIE_ x1
@@ -14651,6 +14653,7 @@ global: 989/1011 (97.82%)
 * GROWLER_ x10
 * JEST3_ x5
 * JESTER5 x1
+* LGM_ x3
 * PEN2_ x1
 * POL_ x1
 * POLCARACAR x1
@@ -14659,46 +14662,54 @@ global: 989/1011 (97.82%)
 * POLSHARED_ x1
 * POLTERMINU x1
 * ROBBERY_ x7
+* SSS_ x3
 * TERBYTE_ x1
 * TITAN2 x1
 * TITAN2_ x10
 * TROPOS_ x10
 * URAN_ x86
 * URANUS x1
+* WCD_ x1
 * WEB_ x1
 * WT_ x1
 * WTD_ x1
 * WTT_ x1
 * WTU_ x1
 
-x24caau: 0/296 (0.00%)
+x24caau: 296/296 (100.00%)
+* X24CA_ x296
 
-x24dau: 0/496 (0.00%)
+x24dau: 496/496 (100.00%)
+* X24D_ x496
 
-x24fau: 0/573 (0.00%)
+x24fau: 573/573 (100.00%)
+* X24F_ x573
 
-x24h1au: 1/330 (0.30%)
-* STORED_ x1
+x24h1au: 330/330 (100.00%)
+* X24H1_ x330
 
-x24h2au: 0/464 (0.00%)
+x24h2au: 464/464 (100.00%)
+* X24H2_ x464
 
 x24igau: 0/335 (0.00%)
 
-x24jau: 2/2437 (0.08%)
-* M3_ x1
-* X24J_ x1
+x24jau: 2437/2437 (100.00%)
+* X24J_ x2437
 
-x24laau: 0/139 (0.00%)
+x24laau: 139/139 (100.00%)
+* X24LA_ x139
 
-x24moau: 1/510 (0.20%)
-* MP2_ x1
+x24moau: 510/510 (100.00%)
+* X24MO_ x510
 
-x24oau: 0/748 (0.00%)
+x24oau: 748/748 (100.00%)
+* X24O_ x748
 
-x24paud: 1/59 (1.69%)
-* MP0_ x1
+x24paud: 59/59 (100.00%)
+* X24P_ x59
 
-x24vau: 0/242 (0.00%)
+x24vau: 242/242 (100.00%)
+* X24V_ x242
 
 
 ========== mpapartment ==========
