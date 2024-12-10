@@ -4561,7 +4561,7 @@ frmchse: 35/35 (100.00%)
 getawy: 58/58 (100.00%)
 * PRC_ x58
 
-global: 65066/66426 (97.95%)
+global: 65070/66426 (97.96%)
 * 1STBR x1
 * 2NDBR x1
 * 3RDBR x1
@@ -4716,7 +4716,7 @@ global: 65066/66426 (97.95%)
 * AMSECVAN_ x5
 * AMTT_ x100
 * AMU_ x5
-* AMWO_ x105
+* AMWO_ x109
 * ANCHAT_ x1
 * AND_ x18
 * ANIMALPHO_ x3
