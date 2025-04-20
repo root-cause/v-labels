@@ -4295,7 +4295,7 @@ fmmaud: 2236/2256 (99.11%)
 * MA_ x37
 * TRA_ x346
 
-fmmc: 9559/10857 (88.04%)
+fmmc: 9562/10857 (88.07%)
 * ACTF_ x17
 * ADV_ x7
 * ALERT_ x10
@@ -4385,6 +4385,7 @@ fmmc: 9559/10857 (88.04%)
 * KTH_ x24
 * KTHH_ x33
 * LDB_ x1
+* LNY_ x1
 * LOB_ x87
 * LOSE_ x5
 * LTS_ x78
@@ -4430,7 +4431,7 @@ fmmc: 9559/10857 (88.04%)
 * TARGET_ x5
 * TCK_ x4
 * TDM_ x4
-* TEAM_ x98
+* TEAM_ x100
 * TICK_ x1
 * TIMEALIVE x1
 * TR_ x4
@@ -9326,7 +9327,7 @@ maude1: 3/3 (100.00%)
 maudeau: 55/55 (100.00%)
 * MAUDE_ x55
 
-mc_play: 1931/2444 (79.01%)
+mc_play: 2157/2444 (88.26%)
 * 420_ x3
 * ACA_ x1
 * AIRQ_ x2
@@ -9361,7 +9362,7 @@ mc_play: 1931/2444 (79.01%)
 * CHI_ x4
 * CHM1_ x8
 * CHM2_ x9
-* CHM3_ x11
+* CHM3_ x12
 * CHM4_ x6
 * CHM5_ x16
 * CHM6_ x10
@@ -9526,8 +9527,13 @@ mc_play: 1931/2444 (79.01%)
 * MCPROTPCK x1
 * MCUSTBLIP x1
 * MFH_ x1
-* MFH2_ x1
-* MFH3_ x2
+* MFH1_ x13
+* MFH2_ x22
+* MFH3_ x16
+* MFH4_ x39
+* MFH5_ x60
+* MFH6_ x35
+* MFHA_ x4
 * MISSCOMP x1
 * MONSJAM_ x2
 * NOCOL_ x1
@@ -9631,6 +9637,7 @@ mc_play: 1931/2444 (79.01%)
 * WPROPED x1
 * WPROVEH x1
 * WTIMEEXP x1
+* ZCAT_ x39
 
 mch1: 38/38 (100.00%)
 * MCH1_ x37
