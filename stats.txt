@@ -4295,7 +4295,7 @@ fmmaud: 2236/2256 (99.11%)
 * MA_ x37
 * TRA_ x346
 
-fmmc: 9562/10857 (88.07%)
+fmmc: 9564/10857 (88.09%)
 * ACTF_ x17
 * ADV_ x7
 * ALERT_ x10
@@ -4333,7 +4333,7 @@ fmmc: 9562/10857 (88.07%)
 * FLRM_ x11
 * FM_ x419
 * FMKH_ x4
-* FMMC_ x4162
+* FMMC_ x4163
 * FMMCC_ x61
 * FMMCCBST_ x1
 * FMMCCCDROP_ x5
@@ -4390,7 +4390,7 @@ fmmc: 9562/10857 (88.07%)
 * LOSE_ x5
 * LTS_ x78
 * MASK_ x31
-* MC_ x1310
+* MC_ x1311
 * MULTIPLAY_ x3
 * MYKILL x1
 * MYSCOR x1
@@ -4562,7 +4562,7 @@ frmchse: 35/35 (100.00%)
 getawy: 58/58 (100.00%)
 * PRC_ x58
 
-global: 65072/66429 (97.96%)
+global: 65093/66429 (97.99%)
 * 1STBR x1
 * 2NDBR x1
 * 3RDBR x1
@@ -5045,7 +5045,7 @@ global: 65072/66429 (97.96%)
 * BEAMTUT_ x8
 * BEARD_ x1
 * BEARS x1
-* BEAST_ x9
+* BEAST_ x10
 * BEECHWOOD_ x1
 * BEER_ x2
 * BEN_ x5
@@ -5647,7 +5647,7 @@ global: 65072/66429 (97.96%)
 * CVR_ x4
 * CWASH_ x12
 * CWO_ x6
-* CWS_ x20
+* CWS_ x22
 * CYCLE_ x2
 * CYPRE x1
 * D_ x39
@@ -6023,6 +6023,7 @@ global: 65072/66429 (97.96%)
 * EMPEROR2 x1
 * EMSTR_ x721
 * EMU_ x5
+* ENABLEEXEC1V x1
 * END_ x7
 * ENMY_ x2
 * ENT_ x3
@@ -6618,7 +6619,7 @@ global: 65072/66429 (97.96%)
 * INFERNUS x1
 * INGOT x1
 * INNNOC x1
-* INPUT_ x255
+* INPUT_ x257
 * INPUTGROUP_ x5
 * INST_ x10
 * INSTALL_ x5
@@ -6982,7 +6983,7 @@ global: 65072/66429 (97.96%)
 * MOVIE x1
 * MOVPROPDELHELP x1
 * MOWER x1
-* MP_ x1488
+* MP_ x1491
 * MPATC_ x1
 * MPATM_ x29
 * MPBAD_ x2
@@ -7124,7 +7125,7 @@ global: 65072/66429 (97.96%)
 * NROCK x1
 * NSHELDON x1
 * NST_ x2
-* NT_ x48
+* NT_ x53
 * NTH_ x2
 * NUM_ x16
 * NUMBER x1
@@ -7836,7 +7837,7 @@ global: 65072/66429 (97.96%)
 * SBIKERS_ x1
 * SBIKERT_ x3
 * SBIKERTC_ x2
-* SC_ x436
+* SC_ x440
 * SC1_ x1
 * SCAN_ x53
 * SCARAB_ x1
@@ -7897,7 +7898,7 @@ global: 65072/66429 (97.96%)
 * SES_ x1
 * SESSANTA_ x2
 * SESSION_ x3
-* SG_ x99
+* SG_ x100
 * SH_ x30
 * SH2_ x2
 * SHA_ x4
@@ -8660,7 +8661,7 @@ global: 65072/66429 (97.96%)
 * VERSUS_ x1
 * VESP x1
 * VESPBD x1
-* VEUI_ x424
+* VEUI_ x425
 * VEV_ x1
 * VEX_ x377
 * VHSITPURFH x1
@@ -8722,7 +8723,7 @@ global: 65072/66429 (97.96%)
 * WARE_ x1
 * WARMWFWY x1
 * WARN_ x1
-* WARNING_ x13
+* WARNING_ x14
 * WARP_ x4
 * WARRENER_ x1
 * WARSTOCK_ x1
@@ -8959,7 +8960,7 @@ h4heist: 51/54 (94.44%)
 h5heist: 58/60 (96.67%)
 * DCKH_ x58
 
-hack: 138/166 (83.13%)
+hack: 139/166 (83.73%)
 * ACCESSD x1
 * BACKDOOR x1
 * BLUEBOOK x1
@@ -8993,6 +8994,7 @@ hack: 138/166 (83.13%)
 * PASS_ x1
 * PASSWORD x1
 * PETSNAME x1
+* PROCEED x1
 * RETRY x1
 * RETURN_ x1
 * RUNHACK x1
