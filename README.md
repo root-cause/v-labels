@@ -15,7 +15,7 @@ If you notice any collisions or have text keys, feel free to [create a new issue
 ## Credits
 
 * [alexguirre](https://github.com/alexguirre) - [gtav-sc-tools](https://github.com/alexguirre/gtav-sc-tools)
-* [alloc8or](https://github.com/alloc8or) - [GTAV_All_Text_Labels_1737.txt](https://gist.github.com/alloc8or/057e4d573cdfe238db31ec5edf2efbbb), [GTAV Mission Archive](https://alloc8or.re/gta5/doc/ros/ugc/gta5mission/)
+* [alloc8or](https://github.com/alloc8or) - [GTAV_All_Text_Labels_1737.txt](https://gist.github.com/alloc8or/057e4d573cdfe238db31ec5edf2efbbb), [GTAV Mission Archive](https://alloc8or.re/gta5/doc/ros/ugc/gta5mission/), various text keys
 * [dexyfex & CodeWalker contributors](https://github.com/dexyfex/CodeWalker/graphs/contributors) - [CodeWalker](https://github.com/dexyfex/CodeWalker)
 * [Lucas7yoshi](https://github.com/Lucas7yoshi) - mpimportexport text keys
 * [Monkeypolice188](https://twitter.com/monkeypolice188) - various text keys
