@@ -737,8 +737,8 @@ chopper: 11/11 (100.00%)
 * HUD_ x2
 * SCAN x1
 
-clo_mnu: 1008/1011 (99.70%)
-* CSHOP_ x1001
+clo_mnu: 1011/1011 (100.00%)
+* CSHOP_ x1004
 * CSHOPITEMCA237 x1
 * CSHOPTITLECA237 x1
 * HAIR_ x1
@@ -15456,7 +15456,7 @@ global: 835/835 (100.00%)
 g9haaud: 372/372 (100.00%)
 * G9HA_ x372
 
-global: 424/425 (99.76%)
+global: 425/425 (100.00%)
 * ARBITERGT x1
 * ARBTRGT_ x41
 * ASTRN2_ x90
@@ -15467,7 +15467,7 @@ global: 424/425 (99.76%)
 * DUMMY_ x3
 * DUMMYDLCNAMES x1
 * HSW_ x20
-* HSWUPGRADE_ x1
+* HSWUPGRADE_ x2
 * IGN_ x83
 * IGNUS2 x1
 * S95 x1
