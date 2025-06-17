@@ -4270,8 +4270,8 @@ fmfaud: 324/398 (81.41%)
 fmflaud: 213/213 (100.00%)
 * FMFL_ x213
 
-fmhrd: 96/107 (89.72%)
-* HRD_ x54
+fmhrd: 105/107 (98.13%)
+* HRD_ x63
 * LEECHRMDR x1
 * MH_ x1
 * NYS_ x1
@@ -4563,7 +4563,7 @@ frmchse: 35/35 (100.00%)
 getawy: 58/58 (100.00%)
 * PRC_ x58
 
-global: 66405/67883 (97.82%)
+global: 66413/67883 (97.83%)
 * 1STBR x1
 * 2NDBR x1
 * 3RDBR x1
@@ -4721,7 +4721,7 @@ global: 66405/67883 (97.82%)
 * AMSECVAN_ x5
 * AMTT_ x100
 * AMU_ x5
-* AMWO_ x109
+* AMWO_ x117
 * ANCHAT_ x1
 * AND_ x18
 * ANIMALPHO_ x5
