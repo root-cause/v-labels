@@ -4563,7 +4563,7 @@ frmchse: 35/35 (100.00%)
 getawy: 58/58 (100.00%)
 * PRC_ x58
 
-global: 66492/67883 (97.95%)
+global: 66515/67883 (97.98%)
 * 1STBR x1
 * 2NDBR x1
 * 3RDBR x1
@@ -4928,7 +4928,7 @@ global: 66492/67883 (97.95%)
 * BANHAMC x1
 * BANNING x1
 * BANSHEE x1
-* BAOF_ x54
+* BAOF_ x60
 * BAR_ x19
 * BAR1_ x3
 * BARB_ x1
@@ -6162,7 +6162,7 @@ global: 66492/67883 (97.95%)
 * FLASHGT_ x1
 * FLATBED x1
 * FLC_ x5
-* FLDH_ x24
+* FLDH_ x27
 * FLO_ x1
 * FLOW_ x2
 * FLTR_ x1
@@ -6425,9 +6425,9 @@ global: 66492/67883 (97.95%)
 * HBCA_ x3
 * HC_ x47
 * HCF_ x62
-* HCK_ x9
+* HCK_ x10
 * HCK24_ x63
-* HCKD_ x20
+* HCKD_ x24
 * HCOST_ x2
 * HCUT_ x4
 * HD_ x20
@@ -7006,7 +7006,7 @@ global: 66492/67883 (97.95%)
 * MOVIE x1
 * MOVPROPDELHELP x1
 * MOWER x1
-* MP_ x1526
+* MP_ x1535
 * MPATC_ x1
 * MPATM_ x29
 * MPBAD_ x2
