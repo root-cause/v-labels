@@ -9532,7 +9532,7 @@ maude1: 3/3 (100.00%)
 maudeau: 55/55 (100.00%)
 * MAUDE_ x55
 
-mc_play: 2381/2679 (88.88%)
+mc_play: 2422/2679 (90.41%)
 * 420_ x11
 * ACA_ x1
 * AIRQ_ x2
@@ -9743,6 +9743,9 @@ mc_play: 2381/2679 (88.88%)
 * MFHA_ x4
 * MISSCOMP x1
 * MONSJAM_ x2
+* MTM1_ x16
+* MTM2_ x16
+* MTM3_ x8
 * NOCOL_ x1
 * NOCOLCTF x1
 * OBJ_ x13
@@ -9796,7 +9799,7 @@ mc_play: 2381/2679 (88.88%)
 * TYC2_ x28
 * TYC3_ x36
 * TYC4_ x17
-* TYC5_ x23
+* TYC5_ x24
 * TYC6_ x9
 * ULP_ x3
 * ULP1_ x15
