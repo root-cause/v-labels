@@ -4563,7 +4563,7 @@ frmchse: 35/35 (100.00%)
 getawy: 58/58 (100.00%)
 * PRC_ x58
 
-global: 66515/67883 (97.98%)
+global: 66521/67883 (97.99%)
 * 1STBR x1
 * 2NDBR x1
 * 3RDBR x1
@@ -4664,7 +4664,7 @@ global: 66515/67883 (97.98%)
 * ADVRIFLE_ x1
 * AET_ x29
 * AG14_ x12
-* AGE_ x2
+* AGE_ x3
 * AGENCY_ x3
 * AGENT14 x1
 * AGFX_ x6
@@ -7006,7 +7006,7 @@ global: 66515/67883 (97.98%)
 * MOVIE x1
 * MOVPROPDELHELP x1
 * MOWER x1
-* MP_ x1535
+* MP_ x1537
 * MPATC_ x1
 * MPATM_ x29
 * MPBAD_ x2
@@ -7868,7 +7868,7 @@ global: 66515/67883 (97.98%)
 * SBIKERS_ x1
 * SBIKERT_ x3
 * SBIKERTC_ x2
-* SC_ x442
+* SC_ x445
 * SC1_ x1
 * SCAN_ x53
 * SCARAB_ x1
@@ -9163,7 +9163,7 @@ h4heist: 51/54 (94.44%)
 h5heist: 58/60 (96.67%)
 * DCKH_ x58
 
-hack: 139/166 (83.73%)
+hack: 140/166 (84.34%)
 * ACCESSD x1
 * BACKDOOR x1
 * BLUEBOOK x1
@@ -9201,6 +9201,7 @@ hack: 139/166 (83.73%)
 * RETRY x1
 * RETURN_ x1
 * RUNHACK x1
+* SUCCEED x1
 * TRACKIFY_ x3
 * TRYBRUTE x1
 * TRYDL x1
@@ -9462,7 +9463,8 @@ josh4au: 156/156 (100.00%)
 * JOSH4KILLLF x1
 * JOSH4KILLSL x1
 
-joyride: 0/1 (0.00%)
+joyride: 1/1 (100.00%)
+* DEBUG_ x1
 
 jp1baud: 9/9 (100.00%)
 * JP1B_ x9
@@ -11083,20 +11085,20 @@ sonarau: 243/243 (100.00%)
 * ABI_ x156
 * SONAR_ x87
 
-sp_golf: 214/234 (91.45%)
+sp_golf: 221/234 (94.44%)
 * BOARD_ x2
 * BUDDY_ x17
 * CARRY_ x1
 * CLUB_ x18
 * DIST x1
-* DIST_ x6
+* DIST_ x7
 * DRIVE_ x8
 * FAIL_ x2
 * FAILED_ x1
 * FIR x1
 * FLY_ x8
 * GIR x1
-* GOLF_ x37
+* GOLF_ x40
 * HAZARD_ x3
 * HOLE x1
 * HOLE_ x10
@@ -11122,7 +11124,7 @@ sp_golf: 214/234 (91.45%)
 * QUIT_ x3
 * REMATCH_ x2
 * REPLAY_ x1
-* SCORE_ x14
+* SCORE_ x15
 * SHOT x1
 * SHOT_ x2
 * SPIN_ x1
@@ -11130,10 +11132,10 @@ sp_golf: 214/234 (91.45%)
 * STYLE_ x3
 * SWING_ x7
 * TITLE_ x1
-* XPT_ x7
+* XPT_ x9
 * YOUR_ x2
 
-sp_spr: 182/198 (91.92%)
+sp_spr: 194/198 (97.98%)
 * AIRPORT x1
 * AIRPORTR x1
 * ALTITUDE x1
@@ -11161,12 +11163,12 @@ sp_spr: 182/198 (91.92%)
 * SEA_ x1
 * SLOSSANTOS x1
 * SOUTHCOAST x1
-* SPR_ x95
+* SPR_ x106
 * SPRBEST x1
 * SPTTLB_ x5
 * STREET_ x2
 * TERMINAL x1
-* TRI_ x40
+* TRI_ x41
 * VALLEYTRAIL x1
 * VERSPUCCI x1
 * VINEWOOD x1
@@ -14415,9 +14417,9 @@ global: 549/549 (100.00%)
 
 
 ========== mppilot ==========
-dschool: 90/96 (93.75%)
-* FS_ x1
-* PS_ x75
+dschool: 92/96 (95.83%)
+* FS_ x2
+* PS_ x76
 * PSLBT_ x10
 * PSM_ x4
 
