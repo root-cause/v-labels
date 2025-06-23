@@ -4295,7 +4295,7 @@ fmmaud: 2236/2256 (99.11%)
 * MA_ x37
 * TRA_ x346
 
-fmmc: 9591/10878 (88.17%)
+fmmc: 9594/10878 (88.20%)
 * ACTF_ x17
 * ADV_ x7
 * ALERT_ x10
@@ -4408,7 +4408,7 @@ fmmc: 9591/10878 (88.17%)
 * RC_ x74
 * RCE_ x9
 * RCR_ x1
-* RMC_ x141
+* RMC_ x144
 * ROLE_ x4
 * SC_ x462
 * SCOBJ_ x51
@@ -4563,7 +4563,7 @@ frmchse: 35/35 (100.00%)
 getawy: 58/58 (100.00%)
 * PRC_ x58
 
-global: 66521/67883 (97.99%)
+global: 66541/67883 (98.02%)
 * 1STBR x1
 * 2NDBR x1
 * 3RDBR x1
@@ -5584,7 +5584,7 @@ global: 66521/67883 (97.99%)
 * COP_ x4
 * COQUETTE x1
 * COQUETTE3_ x1
-* COR_ x68
+* COR_ x72
 * CORONA_ x22
 * CORRUPT_ x1
 * CORTES x1
@@ -6972,7 +6972,7 @@ global: 66521/67883 (97.99%)
 * MN_ x12
 * MNKY_ x2
 * MNU_ x131
-* MO_ x340
+* MO_ x346
 * MOC_ x1
 * MOD_ x2
 * MODE_ x6
@@ -7378,7 +7378,7 @@ global: 66521/67883 (97.99%)
 * PLYVEH_ x17
 * PLYVEHIMP x1
 * PLYVEHIMP_ x2
-* PM_ x1510
+* PM_ x1512
 * PMCUR4 x1
 * PMCUR5 x1
 * PMCUR6 x1
@@ -7802,7 +7802,7 @@ global: 66521/67883 (97.99%)
 * ROOSEVELT x1
 * ROUL_ x99
 * ROYLO x1
-* RP_ x99
+* RP_ x104
 * RPA_ x25
 * RPG_ x1
 * RPLY_ x26
@@ -9028,7 +9028,8 @@ global: 66521/67883 (97.99%)
 * XPT_ x21
 * XT_ x13
 * YACHT_ x48
-* YACHTMAIL_ x2
+* YACHTMAIL x1
+* YACHTMAIL_ x4
 * YB_ x1
 * YELLOW x1
 * YETI_ x5
@@ -17421,7 +17422,7 @@ casuiau: 109/109 (100.00%)
 ctomau: 379/379 (100.00%)
 * CTOM_ x379
 
-global: 2576/2580 (99.84%)
+global: 2578/2580 (99.92%)
 * CARA2_ x49
 * CARACARA2 x1
 * CASWEB_ x120
@@ -17461,6 +17462,7 @@ global: 2576/2580 (99.84%)
 * PARAG_ x54
 * PARAGON x1
 * PARAGON2 x1
+* PEY_ x2
 * PEYO2_ x39
 * PEYOTE2 x1
 * RROCKET x1
