@@ -4566,7 +4566,7 @@ frmchse: 35/35 (100.00%)
 getawy: 58/58 (100.00%)
 * PRC_ x58
 
-global: 68010/69606 (97.71%)
+global: 68014/69606 (97.71%)
 * 1STBR x1
 * 2NDBR x1
 * 3RDBR x1
@@ -4712,7 +4712,7 @@ global: 68010/69606 (97.71%)
 * AMBULAN x1
 * AMCH_ x166
 * AMD_ x11
-* AMDO_ x258
+* AMDO_ x259
 * AMERICANO x1
 * AMEV_ x2
 * AMFW_ x11
@@ -4726,7 +4726,7 @@ global: 68010/69606 (97.71%)
 * AMSECVAN_ x5
 * AMTT_ x100
 * AMU_ x5
-* AMWO_ x117
+* AMWO_ x120
 * ANCHAT_ x1
 * AND_ x18
 * ANIMALPHO_ x5
