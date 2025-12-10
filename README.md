@@ -1,6 +1,6 @@
 # v-labels
 
-Just a lot of *(451322)* text keys for .gxt2, there are still missing/unknown entries. (and hash collisions, probably)
+Just a lot of *(456459)* text keys for .gxt2, there are still missing/unknown entries. (and hash collisions, probably)
 
 If you notice any collisions or have text keys, feel free to [create a new issue](https://github.com/root-cause/v-labels/issues/new).
 
@@ -22,6 +22,6 @@ If you notice any collisions or have text keys, feel free to [create a new issue
 * [njames93](https://github.com/njames93) - [GTAV Script Decompiler](https://github.com/njames93/GTA-V-Script-Decompiler), [gxt_labels.txt](https://gist.github.com/njames93/328b513451262f635f85815543df8210)
 * [OpenIV](https://openiv.com/) - various text keys
 * [PLTytus](https://github.com/PLTytus) - various text keys
-* [Tez2](https://x.com/TezFunz2) - various text keys
+* [Tex2](https://x.com/TexFunz2) - various text keys
 * [WildBrick142](https://gtaforums.com/profile/755035-wildbrick142/) - general information, various global, mptuner and prtanau text keys and multiple GTAForums posts
 * [Zolika1351](https://zolika1351.pages.dev/) - [Zolika1351's Trainer](https://www.gta5-mods.com/scripts/zolika1351-s-trainer)
