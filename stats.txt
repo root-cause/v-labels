@@ -4566,7 +4566,7 @@ frmchse: 35/35 (100.00%)
 getawy: 58/58 (100.00%)
 * PRC_ x58
 
-global: 68014/69606 (97.71%)
+global: 68064/69606 (97.78%)
 * 1STBR x1
 * 2NDBR x1
 * 3RDBR x1
@@ -6669,7 +6669,7 @@ global: 68014/69606 (97.71%)
 * INFERNUS x1
 * INGOT x1
 * INNNOC x1
-* INPUT_ x257
+* INPUT_ x291
 * INPUTGROUP_ x5
 * INST_ x10
 * INSTALL_ x5
@@ -8361,7 +8361,7 @@ global: 68014/69606 (97.71%)
 * TDEL_ x9
 * TDF_ x4
 * TDR_ x4
-* TEAM_ x72
+* TEAM_ x88
 * TELECSH x1
 * TELEHLP x1
 * TELEHLP2 x1
@@ -9592,14 +9592,19 @@ maude1: 3/3 (100.00%)
 maudeau: 55/55 (100.00%)
 * MAUDE_ x55
 
-mc_play: 2512/3035 (82.77%)
+mc_play: 2566/3035 (84.55%)
 * 420_ x11
 * ACA_ x1
 * AIRQ_ x2
 * ALRE_ x4
 * AOWCC x1
 * ATSAF x1
-* AVI1_ x1
+* AVI1_ x9
+* AVI2_ x3
+* AVI3_ x5
+* AVI4_ x25
+* AVI5_ x10
+* AVI6_ x3
 * BASEBLIP x1
 * BH_ x5
 * BIOLAB_ x1
@@ -14173,14 +14178,14 @@ iap: 58/58 (100.00%)
 
 lowdau: empty
 
-pubc: 2856/3749 (76.18%)
+pubc: 2858/3749 (76.23%)
 * PCMT_ x1
-* PMC_ x531
+* PMC_ x532
 * PMCD_ x155
 * PMCE_ x70
 * PMCEE_ x3
 * PMCF_ x11
-* PMCH_ x981
+* PMCH_ x982
 * PMCI_ x165
 * PMCT_ x883
 * PMCW_ x56
