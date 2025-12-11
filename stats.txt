@@ -15124,10 +15124,11 @@ s25tmau: 202/202 (100.00%)
 
 
 ========== mp2025_02 ==========
-global: 721/745 (96.78%)
+global: 744/745 (99.87%)
 * ASTR_ x73
 * ASTRALE x1
 * ASTRL_ x5
+* CANDC_ x2
 * CLO_ x50
 * DKEITORA x1
 * DRIFKT_ x5
@@ -15145,20 +15146,25 @@ global: 721/745 (96.78%)
 * ITALI2 x1
 * KEIT_ x90
 * KEITORA x1
+* LGM_ x6
 * LMS_ x1
 * LUIV_ x66
 * LUIVA x1
-* PLRE_ x67
+* PLRE_ x77
 * POLBUFF6_ x23
 * POLBUFFALO x1
 * POLBUFFALO6 x1
 * RT3000_ x5
 * SENT6_ x60
 * SENTINEL6 x1
+* SSS_ x2
 * SSSA_ x1
 * VIVANITE2 x1
 * WEB_ x1
 * WT_ x1
+* WTD_ x1
+* WTT_ x1
+* WTU_ x1
 * XTREME x1
 * XTRM_ x54
 
