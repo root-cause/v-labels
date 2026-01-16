@@ -1,6 +1,6 @@
 # v-labels
 
-Just a lot of *(463999)* text keys for .gxt2, there are still missing/unknown entries. (and hash collisions, probably)
+Just a lot of *(464062)* text keys for .gxt2, there are still missing/unknown entries. (and hash collisions, probably)
 
 If you notice any collisions or have text keys, feel free to [create a new issue](https://github.com/root-cause/v-labels/issues/new).
 
