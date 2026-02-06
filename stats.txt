@@ -9696,7 +9696,7 @@ maude1: 3/3 (100.00%)
 maudeau: 55/55 (100.00%)
 * MAUDE_ x55
 
-mc_play: 2699/3035 (88.93%)
+mc_play: 2700/3035 (88.96%)
 * 420_ x11
 * ACA_ x1
 * AGREN_ x3
@@ -9751,6 +9751,7 @@ mc_play: 2699/3035 (88.93%)
 * CUTG_ x3
 * D_ x1
 * DG_ x4
+* DLTM_ x1
 * DRN_ x6
 * DTLF_ x17
 * DX11_ x2
